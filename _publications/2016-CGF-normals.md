@@ -15,6 +15,8 @@ Also presented at Symposium on Geometry Processing (SGP) 2016
 
 [Download paper here](https://aboulch.github.io/files/2016_sgp_normals.pdf)
 
+[Download slides here](https://aboulch.github.io/files/talks/2016_sgp_normals_slides.pdf)
+
 The code is available on [Github](https://github.com/aboulch/normals_HoughCNN).
 
 

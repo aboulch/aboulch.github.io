@@ -13,7 +13,7 @@ Authors: *Alexandre Boulch*, *Nicolas Audebert* and *Dominique Dubucq*
 (French communication)
 
 
-[Download paper here](https://aboulch.github.io/files/2017_gretsi-autoencodeurs.pdf) or take a look at the [poster](https://aboulch.github.io/files/2017_gretsi-autoencodeurs_poster.pdf).
+[Download paper here](https://aboulch.github.io/files/2017_gretsi-autoencodeurs.pdf) or take a look at the [poster](https://aboulch.github.io/files/posters/2017_gretsi-autoencodeurs_poster.pdf).
 
 ```
 @inproceedings{boulch2017gretsi,

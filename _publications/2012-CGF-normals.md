@@ -12,7 +12,7 @@ with *Renaud Marlet*
 
 also presented at Symposium on Geometry Processing (SGP) 2012
 
-[Download paper here](https://aboulch.github.io/files/2012_sgp_boulch.pdf) and [presentation slides](https://aboulch.github.io/files/2012_sgp_boulch_slides.pdf)
+[Download paper here](https://aboulch.github.io/files/2012_sgp_boulch.pdf) and [presentation slides](https://aboulch.github.io/files/talks/2012_sgp_boulch_slides.pdf)
 
 The code is available on [Github](https://github.com/aboulch/normals_Hough).
 

@@ -11,3 +11,5 @@ paperurl: ''
 Authors: *N. Cherrier*, *T. Castaings* and *A. Boulch*
 
 [Download paper here](https://aboulch.github.io/files/2017_bids_esa_forecasting.pdf)
+
+[Download slides here](https://aboulch.github.io/files/talks/2017_bids_esa_forecasting_slides.pdf)
