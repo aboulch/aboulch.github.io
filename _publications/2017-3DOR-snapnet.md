@@ -6,6 +6,7 @@ excerpt: ''
 date: 2017-01-01
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR'
 paperurl: ''
+type: 'conference'
 ---
 
 Authors: *Alexandre Boulch*, *Bertrand Le Saux* and *Nicolas Audebert*

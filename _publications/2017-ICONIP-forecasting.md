@@ -6,6 +6,7 @@ excerpt: ''
 date: 2017-11-01
 venue: 'ICONIP'
 paperurl: ''
+type: 'conference'
 ---
 
 Authors: *N. Cherrier*, *T. Castaings* and *A. Boulch*

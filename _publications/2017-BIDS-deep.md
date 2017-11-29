@@ -6,6 +6,7 @@ excerpt: ''
 date: 2017-11-01
 venue: 'Big Data from Space (BIDS), ESA Workshop'
 paperurl: ''
+type: 'conference'
 ---
 
 Author: *R. Tripathi*, *A. Chan-Hon-Tong* and *A. Boulch*

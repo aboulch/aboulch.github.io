@@ -6,6 +6,7 @@ excerpt: ''
 date: 2014-01-01
 venue: 'International Conference on Pattern Recognition, ICPR'
 paperurl: ''
+type: 'conference'
 ---
 
 with *Renaud Marlet*

@@ -6,6 +6,7 @@ excerpt: ''
 date: 2017-07-01
 venue: 'Joint Urban Remote Sensing Event, JURSE'
 paperurl: ''
+type: 'conference'
 ---
 
 Authors: *N. Audebert*, *A. Boulch*, *H. Randrianarivo*, *B. Le Saux*, *M. Ferecatu*, *S. Lefèvre* and *R. Marlet*

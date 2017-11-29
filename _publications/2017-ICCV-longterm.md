@@ -6,6 +6,7 @@ excerpt: ''
 date: 2017-10-01
 venue: 'Workshop 3D Reconstruction Meets Semantics (3DRMS), ICCV'
 paperurl: ''
+type: 'conference'
 ---
 
 Author: *C. Toft*, *C. Olsson*, *F. Kahl*, *D. De Gregorio*, *T. Cavallari*, *L. Di Stefano*, *J. Guerry*, *A. Boulch*, *B. Le Saux*, *J. Moras* and others.

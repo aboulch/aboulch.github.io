@@ -6,6 +6,7 @@ excerpt: ''
 date: 2015-01-01
 venue: 'XXV colloque Gretsi'
 paperurl: ''
+type: 'conference'
 ---
 
 with *Adrien Chan-Hon-Tong* and *Stephane Herbin*

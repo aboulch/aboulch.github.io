@@ -6,6 +6,7 @@ excerpt: ''
 date: 2017-01-01
 venue: 'Arxiv'
 paperurl: ''
+type: 'misc'
 ---
 
 Author: *A. Boulch*

@@ -6,6 +6,7 @@ excerpt: ''
 date: 2017-01-01
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR'
 paperurl: ''
+type: 'conference'
 ---
 
 Authors: *Rodola, E* and *Cosmo, L* and *Litany, O* and *Bronstein, MM* and *Bronstein, AM* and *Audebert, N* and *Hamza, A Ben* and *Boulch, A* and *Castellani, U* and *Do, MN* and others.

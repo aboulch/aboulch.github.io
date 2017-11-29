@@ -6,6 +6,7 @@ excerpt: ''
 date: 2017-01-01
 venue: 'XXV colloque Gretsi'
 paperurl: ''
+type: 'conference'
 ---
 
 Authors: *Alexandre Boulch*, *Nicolas Audebert* and *Dominique Dubucq*

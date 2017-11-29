@@ -6,6 +6,7 @@ excerpt: ''
 date: 2013-01-01
 venue: 'Computer Graphics Forum, Wiley'
 paperurl: ''
+type: 'journal'
 ---
 
 with *Simon Houllier*, *Renaud Marlet* and *Olivier Tournaire*

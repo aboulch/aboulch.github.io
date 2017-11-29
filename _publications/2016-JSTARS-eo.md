@@ -6,6 +6,7 @@ excerpt: ''
 date: 2016-01-01
 venue: 'IEEE JSTARS'
 paperurl: ''
+type: 'journal'
 ---
 
 

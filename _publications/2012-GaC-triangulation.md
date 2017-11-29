@@ -6,6 +6,7 @@ excerpt: ''
 date: 2012-01-01
 venue: 'Graphs and Combinatorics, Springer Verlag'
 paperurl: ''
+type: 'journal'
 ---
 
 with *Éric Colin de Verdière* and *Atsuhiro Nakamoto*

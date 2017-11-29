@@ -6,6 +6,7 @@ excerpt: ''
 date: 2012-01-01
 venue: 'Computer Graphics Forum, Wiley'
 paperurl: ''
+type: 'journal'
 ---
 
 with *Renaud Marlet*

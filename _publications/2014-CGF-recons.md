@@ -6,6 +6,7 @@ excerpt: ''
 date: 2014-01-01
 venue: 'Computer Graphics Forum'
 paperurl: ''
+type: 'journal'
 ---
 
 with *Martin De La Gorce* and *Renaud Marlet*,

@@ -6,6 +6,7 @@ excerpt: ''
 date: 2016-01-01
 venue: 'Onera-DLR Aerospace Symposium (ODAS)'
 paperurl: ''
+type: 'communication'
 ---
 
 authors: *N. Audebert*, *A. Boulch*, *A. Lagrange*, *B. Le Saux* and *S. Lefèvre*

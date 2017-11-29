@@ -6,6 +6,7 @@ excerpt: ''
 date: 2016-01-01
 venue: 'Computer Graphics Forum, Wiley'
 paperurl: ''
+type: 'journal'
 ---
 
 Authors: *Boulch A.* and *Marlet R*.

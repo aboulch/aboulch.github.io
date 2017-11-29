@@ -6,6 +6,7 @@ excerpt: ''
 date: 2017-01-01
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR'
 paperurl: ''
+type: 'conference'
 ---
 
 Authors: *Limberger, Frederico A* and *Wilson, Richard C* and *Aono, M* and *Audebert, N* and *Boulch, A* and *Bustos, B* and *Giachetti, A* and *Godil, A* and *Le Saux, B* and *Li, B* and others.
