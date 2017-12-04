@@ -10,11 +10,12 @@ location: "Palaiseau, France"
 
 3rd year machine learning course.
 
-Heading 1
-======
 
-Heading 2
-======
+## Convolutional Neural Networks and Deep learning
 
-Heading 3
-======
+### Objective of the class
+
+This is an introduction to conolutional neural networks (CNN) and more generally to deep learning.
+This class is the direct follow-up of the neural networks class.
+
+### Practical session
