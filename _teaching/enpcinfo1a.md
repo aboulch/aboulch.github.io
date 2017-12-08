@@ -26,5 +26,5 @@ First year main course of C++ programming
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_08.pdf)
 * **Class 8**: First objects
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_09.pdf)
-* **Class 9**: Constructors and destructors (first part)
-[slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_10.pdf)
+* **Class 9 and 10**: Constructors and destructors [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_10.pdf)
+* **Class 11**: Misc (STL vectors, default arguments...) [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_12.pdf)
