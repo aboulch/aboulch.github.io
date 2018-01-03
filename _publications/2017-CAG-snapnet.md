@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-3DOR-snapnet
 excerpt: ''
 date: 2017-12-01
-venue: ''
+venue: 'Computer and Graphics'
 paperurl: ''
 type: 'journal'
 ---
