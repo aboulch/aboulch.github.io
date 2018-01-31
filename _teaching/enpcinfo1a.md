@@ -1,5 +1,5 @@
 ---
-title: "Ecole des Ponts ParisTech"
+title: "ENPC C++ Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/enpcinfo1a

@@ -1,5 +1,5 @@
 ---
-title: "Ecole des Ponts ParisTech"
+title: "ENPC Algorithmics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/enpcalgo1a
