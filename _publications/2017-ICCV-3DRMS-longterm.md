@@ -1,5 +1,5 @@
 ---
-title: "Deep sequence-to-sequence neural networks for ionospheric activity map prediction"
+title: "Long-term 3D Localization and Pose from Semantic Labellings"
 collection: publications
 permalink: /publication/2017-ICCV-3DRMS-longterm
 excerpt: ''
