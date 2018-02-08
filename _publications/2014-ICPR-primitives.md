@@ -7,9 +7,9 @@ date: 2014-01-01
 venue: 'International Conference on Pattern Recognition, ICPR'
 paperurl: ''
 type: 'conference'
+author: 'A. Boulch, R. Marlet'
 ---
 
-with *Renaud Marlet*
 
 [Download paper here](https://aboulch.github.io/files/2014_icpr_boulch.pdf)
 

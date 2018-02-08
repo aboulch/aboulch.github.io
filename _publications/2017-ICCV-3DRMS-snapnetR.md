@@ -7,9 +7,9 @@ date: 2017-10-01
 venue: 'Workshop 3D Reconstruction Meets Semantics (3DRMS), ICCV'
 paperurl: ''
 type: 'conference'
+author: 'J. Guerry, A. Boulch, B. Le Saux, J. Moras, A. Plyer and D. Filliat'
 ---
 
-Authors: *J. Guerry*, *A. Boulch*, *B. Le Saux*, *J. Moras*, *A. Plyer* and *D. Filliat*
 
 [Download paper here](https://aboulch.github.io/files/2017-ICCV-3DRMS-snapnetR.pdf)
 

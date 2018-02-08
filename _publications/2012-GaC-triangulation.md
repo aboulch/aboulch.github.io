@@ -7,9 +7,9 @@ date: 2012-01-01
 venue: 'Graphs and Combinatorics, Springer Verlag'
 paperurl: ''
 type: 'journal'
+author: 'A. Boulch, É. Colin de Verdière and A. Nakamoto'
 ---
 
-with *Éric Colin de Verdière* and *Atsuhiro Nakamoto*
 
 [Download paper here](https://hal.archives-ouvertes.fr/hal-01163747/document)
 

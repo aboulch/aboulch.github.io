@@ -7,9 +7,9 @@ date: 2017-12-01
 venue: 'Computer and Graphics'
 paperurl: ''
 type: 'journal'
+author: 'Alexandre Boulch, Bertrand Le Saux and Nicolas Audebert'
 ---
 
-Authors: *Alexandre Boulch*, *Bertrand Le Saux* and *Nicolas Audebert*
 
 Code available at [Github](https://github.com/aboulch/snapnet)
 

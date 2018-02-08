@@ -7,9 +7,9 @@ date: 2017-01-01
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR'
 paperurl: ''
 type: 'conference'
+author: 'E. Rodola, L. Cosmo, O. Litany, MM. Bronstein, AM. Bronstein, N. Audebert, A. Ben Hamza, A. Boulch, U. Castellani, MN. Do and others'
 ---
 
-Authors: *Rodola, E* and *Cosmo, L* and *Litany, O* and *Bronstein, MM* and *Bronstein, AM* and *Audebert, N* and *Hamza, A Ben* and *Boulch, A* and *Castellani, U* and *Do, MN* and others.
 
 [Download paper here](https://aboulch.github.io/files/2017_3dor-shrec-shapes.pdf)
 

@@ -7,9 +7,9 @@ date: 2016-01-01
 venue: 'Computer Graphics Forum, Wiley'
 paperurl: ''
 type: 'journal'
+author: 'A. Boulch and R. Marlet'
 ---
 
-Authors: *Boulch A.* and *Marlet R*.
 
 Also presented at Symposium on Geometry Processing (SGP) 2016
 

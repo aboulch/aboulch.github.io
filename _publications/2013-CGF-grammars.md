@@ -7,9 +7,9 @@ date: 2013-01-01
 venue: 'Computer Graphics Forum, Wiley'
 paperurl: ''
 type: 'journal'
+author: 'A. Boulch, S. Houllier, R. Marlet and O. Tournaire'
 ---
 
-with *Simon Houllier*, *Renaud Marlet* and *Olivier Tournaire*
 
 also presented at Symposium on Geometry processing SGP 2013
 

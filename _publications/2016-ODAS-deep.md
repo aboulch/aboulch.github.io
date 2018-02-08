@@ -7,9 +7,9 @@ date: 2016-01-01
 venue: 'Onera-DLR Aerospace Symposium (ODAS)'
 paperurl: ''
 type: 'communication'
+author: 'N. Audebert, A. Boulch, A. Lagrange, B. Le Saux and S. Lefèvre'
 ---
 
-authors: *N. Audebert*, *A. Boulch*, *A. Lagrange*, *B. Le Saux* and *S. Lefèvre*
 
 [Download paper here](https://aboulch.github.io/files/2016_ODAS_DeepLearn4RemoteSensing.pdf)
 

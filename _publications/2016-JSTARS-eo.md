@@ -7,12 +7,12 @@ date: 2016-01-01
 venue: 'IEEE JSTARS'
 paperurl: ''
 type: 'journal'
+author: 'A. Lagrange, B. Le Saux, A. Beaupere, A. Boulch, A. Chan-Hon-Tong, S. Herbin, H. Randrianarivo and M. Ferecatu'
 ---
 
 
 Also in **Processing of Extremely High-Resolution LiDAR and RGB Data: Outcome of the 2015 IEEE GRSS Data Fusion Contest - Part A: 2-D Contest**, IEEE JSTARS 2016.
 
-Authors: *A. Lagrange*, *B. Le Saux*, *A. Beaupere*, *A. Boulch*, *A. Chan-Hon-Tong*, *S. Herbin*, *H. Randrianarivo* and *M. Ferecatu*
 
 This paper has been presented at IGARSS 2015.
 

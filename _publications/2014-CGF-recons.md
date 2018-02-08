@@ -7,9 +7,9 @@ date: 2014-01-01
 venue: 'Computer Graphics Forum'
 paperurl: ''
 type: 'journal'
+author: 'A. Boulch, M. De La Gorce and R. Marlet'
 ---
 
-with *Martin De La Gorce* and *Renaud Marlet*,
 
 also presented at Symposium on Geometry Processing (SGP) 2014
 

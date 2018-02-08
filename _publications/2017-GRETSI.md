@@ -7,9 +7,9 @@ date: 2017-01-01
 venue: 'XXV colloque Gretsi'
 paperurl: ''
 type: 'conference'
+author: 'Alexandre Boulch, Nicolas Audebert and Dominique Dubucq'
 ---
 
-Authors: *Alexandre Boulch*, *Nicolas Audebert* and *Dominique Dubucq*
 
 (French communication)
 
