@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+## [Link to my previous projects](/research/old)
+
+
 ## Areas of interest
 
 ![Machine Learning](/images/machine_learning.png){: .align-center}
@@ -49,6 +52,3 @@ I work on outdoor scenes (<span style="color:blue">
 Multidate Earth observation Data for Urban Sprawl Aftercare. 
 The new context of big data for Earth observation, particularly the field of urban development and smart cities, has led Onera to launch the research project Medusa.  
 Medusa project is designed to bring together and promote processing of remote sensing images in the current context of big data
-
-
-### [Inachus for Urban Search and Rescue](https://www.inachus.eu/)

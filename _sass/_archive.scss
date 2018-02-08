@@ -15,7 +15,8 @@
   }
 
   a {
-    color: inherit;
+    /*color: inherit;*/
+    color: mix(rgb(98, 140, 255), $gray, 25%);
     text-decoration: none;
   }
 }

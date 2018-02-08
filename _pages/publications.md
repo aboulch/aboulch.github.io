@@ -11,60 +11,43 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- ORIGINAL -->
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single-pub.html %}
-{% endfor %} -->
-
-<!-- with YEAR -->
-<!-- {% for post in site.publications reversed %}
-    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-
-    {% if forloop.first %}
-    {% include this_year.html %}
-
-    {% endif %}
-
-    {% include archive-single-pub.html %}
-
-    {% if forloop.last %}
-
-    {% else %}
-        {% if this_year != next_year %}
-        {% include next_year.html %}
-
-        {% endif %}
-    {% endif %}
-{% endfor %} -->
-
 <!-- Per TYPE -->
 
-{% include pub_head.html %}
+## [Journals](#journals) [Conferences](#conferences) [Misc](#misc) [Communications](#communications) <a name="top"></a>
 
+### [Sort publications per year](/publications/year)
 
-{% include pub_journal.html %}
+<!--
+<div class="{{ include.type | default: "list" }}__item">
+    <h2 class="archive__item-title" itemprop="headline">
+        <a name="journals"></a>
+        Journals
+    </h2>
+</div>
+-->
+
+## Journals <a name="journals"></a> ([top](#top))
 {% for post in site.publications reversed %}
     {% if post.type == "journal" %}
         {% include archive-single-pub.html %}
     {% endif %}
 {% endfor %}
 
-{% include pub_conference.html %}
+## Conferences <a name="conferences"></a> ([top](#top))
 {% for post in site.publications reversed %}
     {% if post.type == "conference" %}
         {% include archive-single-pub.html %}
     {% endif %}
 {% endfor %}
 
-{% include pub_misc.html %}
+## Misc <a name="misc"></a> ([top](#top))
 {% for post in site.publications reversed %}
     {% if post.type == "misc" %}
         {% include archive-single-pub.html %}
     {% endif %}
 {% endfor %}
 
-{% include pub_communication.html %}
+## Communications <a name="communications"></a> ([top](#top))
 {% for post in site.publications reversed %}
     {% if post.type == "communication" %}
         {% include archive-single-pub.html %}
