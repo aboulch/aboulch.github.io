@@ -1,5 +1,5 @@
 ---
-title: "SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics"
+title: 'SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics'
 collection: publications
 permalink: /publication/2017-ICCV-3DRMS-snapnetR
 excerpt: ''

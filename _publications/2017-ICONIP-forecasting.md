@@ -1,5 +1,5 @@
 ---
-title: "Deep sequence-to-sequence neural networks for ionospheric activity map prediction"
+title: 'Deep sequence-to-sequence neural networks for ionospheric activity map prediction'
 collection: publications
 permalink: /publication/2017-ICONIP-forecasting
 excerpt: ''

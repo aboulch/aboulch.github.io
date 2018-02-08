@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning for Urban Remote Sensing"
+title: 'Deep Learning for Urban Remote Sensing'
 collection: publications
 permalink: /publication/2017-sharesnet
 excerpt: ''

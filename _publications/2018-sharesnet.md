@@ -1,5 +1,5 @@
 ---
-title: "ShaResNet: reducing residual network parameter number by sharing weights"
+title: 'ShaResNet: reducing residual network parameter number by sharing weights'
 collection: publications
 permalink: /publication/2018-sharesnet
 excerpt: ''
