@@ -41,3 +41,17 @@ A preliminary version of the this work has been presented at 10th Eurographics w
   year={2017}
 }
 ```
+
+### CODE
+
+The code is available in the dedicated [Github repository](https://github.com/aboulch/snapnet).
+
+The network weights are available to download:
+
+  [RGB model](https://drive.google.com/open?id=0B6IogDVqG75WY0tyWmtzbU1qSDg)
+
+  [Composite model](https://drive.google.com/open?id=0B6IogDVqG75WdVRkNDhjSE5OR0E)
+
+  [Fusion model](https://drive.google.com/open?id=0B6IogDVqG75WRjg2OEVMUmUyRWc) (to be used with RGB and Composite)
+
+  [NPY model of VGG for initialization](https://drive.google.com/open?id=0B6IogDVqG75WUmJYUVV0ZVRjVTA) (based on caffe model VGG 16 from caffe model zoo, converted with Kaffe)
