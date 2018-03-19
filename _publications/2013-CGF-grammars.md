@@ -1,7 +1,7 @@
 ---
 title: "Semantizing Complex 3D Scenes using Constrained Attribute Grammars"
 collection: publications
-permalink: /publication/2013-CGF-grammars
+permalink: /publications/2013-CGF-grammars
 excerpt: ''
 date: 2013-01-01
 venue: 'Computer Graphics Forum, Wiley'

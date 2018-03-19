@@ -1,7 +1,7 @@
 ---
 title: 'Deep Learning for Urban Remote Sensing'
 collection: publications
-permalink: /publication/2017-sharesnet
+permalink: /publications/2017-sharesnet
 excerpt: ''
 date: 2017-07-01
 venue: 'Joint Urban Remote Sensing Event, JURSE'

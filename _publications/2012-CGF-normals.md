@@ -1,7 +1,7 @@
 ---
 title: "Fast Normal Estimation for Point Clouds with Sharp Features using a Robust Randomized Hough Transform"
 collection: publications
-permalink: /publication/2012-CGF-normals
+permalink: /publications/2012-CGF-normals
 excerpt: ''
 date: 2012-01-01
 venue: 'Computer Graphics Forum, Wiley'

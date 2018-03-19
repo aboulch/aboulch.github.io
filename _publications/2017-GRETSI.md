@@ -1,7 +1,7 @@
 ---
 title: 'Autoencodeurs pour la visualisation d'images hyperspectrales'
 collection: publications
-permalink: /publication/2017-GRETSI
+permalink: /publications/2017-GRETSI
 excerpt: ''
 date: 2017-01-01
 venue: 'XXV colloque Gretsi'

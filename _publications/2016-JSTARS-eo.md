@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking classification of earth-observation data: from learning explicit features to convolutional networks"
 collection: publications
-permalink: /publication/2016-JSTARS-eo
+permalink: /publications/2016-JSTARS-eo
 excerpt: ''
 date: 2016-01-01
 venue: 'IEEE JSTARS'

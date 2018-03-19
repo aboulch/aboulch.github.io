@@ -1,7 +1,7 @@
 ---
 title: "Un générateur de boites englobantes parcimonieux pour la détection d'objets dans des vidéos"
 collection: publications
-permalink: /publication/2015-GRETSI
+permalink: /publications/2015-GRETSI
 excerpt: ''
 date: 2015-01-01
 venue: 'XXV colloque Gretsi'

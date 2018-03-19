@@ -1,7 +1,7 @@
 ---
 title: "Piecewise-Planar 3D Reconstruction with Edge and Corner Regularization"
 collection: publications
-permalink: /publication/2014-CGF-grammars
+permalink: /publications/2014-CGF-grammars
 excerpt: ''
 date: 2014-01-01
 venue: 'Computer Graphics Forum'

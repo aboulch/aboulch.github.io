@@ -1,7 +1,7 @@
 ---
 title: "SHREC’17: Deformable Shape Retrieval with Missing Parts"
 collection: publications
-permalink: /publication/2017-3DOR-SHREC-shapes
+permalink: /publications/2017-3DOR-SHREC-shapes
 excerpt: ''
 date: 2017-01-01
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR'

@@ -1,7 +1,7 @@
 ---
 title: "Off the shelf deep learning pipeline for remote sensing applications"
 collection: publications
-permalink: /publication/2017-BIDS-deep
+permalink: /publications/2017-BIDS-deep
 excerpt: ''
 date: 2017-11-01
 venue: 'Big Data from Space (BIDS), ESA Workshop'

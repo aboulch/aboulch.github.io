@@ -1,7 +1,7 @@
 ---
 title: 'ShaResNet: reducing residual network parameter number by sharing weights'
 collection: publications
-permalink: /publication/2018-sharesnet
+permalink: /publications/2018-sharesnet
 excerpt: ''
 date: 2018-02-01
 venue: 'Pattern Recognition Letters'

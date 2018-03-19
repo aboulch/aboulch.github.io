@@ -1,7 +1,7 @@
 ---
 title: "Irreducible Triangulations of Surfaces with Boundary"
 collection: publications
-permalink: /publication/2012-GaC-triangulation
+permalink: /publications/2012-GaC-triangulation
 excerpt: ''
 date: 2012-01-01
 venue: 'Graphs and Combinatorics, Springer Verlag'

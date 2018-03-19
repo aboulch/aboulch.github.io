@@ -1,7 +1,7 @@
 ---
 title: "Forecasting ionospheric Total Electron Content maps with deep neural networks"
 collection: publications
-permalink: /publication/2017-BIDS-tec
+permalink: /publications/2017-BIDS-tec
 excerpt: ''
 date: 2017-11-01
 venue: 'Big Data from Space (BIDS), ESA Workshop'

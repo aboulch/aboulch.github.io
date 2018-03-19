@@ -1,7 +1,7 @@
 ---
 title: "Statistical Criteria for Shape Fusion and Selection"
 collection: publications
-permalink: /publication/2014-ICPR-primitives
+permalink: /publications/2014-ICPR-primitives
 excerpt: ''
 date: 2014-01-01
 venue: 'International Conference on Pattern Recognition, ICPR'

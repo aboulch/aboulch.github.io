@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning for Remote Sensing"
 collection: publications
-permalink: /publication/2016-ODAS-deep
+permalink: /publications/2016-ODAS-deep
 excerpt: ''
 date: 2016-01-01
 venue: 'Onera-DLR Aerospace Symposium (ODAS)'

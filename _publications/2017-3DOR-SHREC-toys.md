@@ -1,7 +1,7 @@
 ---
 title: "SHREC'17 Track: Point-Cloud Shape Retrieval of Non-Rigid Toys"
 collection: publications
-permalink: /publication/2017-3DOR-SHREC-toys
+permalink: /publications/2017-3DOR-SHREC-toys
 excerpt: ''
 date: 2017-01-01
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR'

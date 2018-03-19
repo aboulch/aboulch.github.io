@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning for Robust Normal Estimation in Unstructured Point Clouds"
 collection: publications
-permalink: /publication/2016-CGF-normals
+permalink: /publications/2016-CGF-normals
 excerpt: ''
 date: 2016-01-01
 venue: 'Computer Graphics Forum, Wiley'

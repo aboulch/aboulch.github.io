@@ -1,7 +1,7 @@
 ---
 title: 'Long-term 3D Localization and Pose from Semantic Labellings'
 collection: publications
-permalink: /publication/2017-ICCV-3DRMS-longterm
+permalink: /publications/2017-ICCV-3DRMS-longterm
 excerpt: ''
 date: 2017-10-01
 venue: 'Workshop 3D Reconstruction Meets Semantics (3DRMS), ICCV'
