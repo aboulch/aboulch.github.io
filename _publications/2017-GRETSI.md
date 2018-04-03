@@ -1,5 +1,5 @@
 ---
-title: 'Autoencodeurs pour la visualisation d'images hyperspectrales'
+title: "Autoencodeurs pour la visualisation d\'images hyperspectrales"
 collection: publications
 permalink: /publications/2017-GRETSI
 excerpt: ''
