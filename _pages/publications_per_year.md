@@ -19,7 +19,6 @@ author_profile: true
 <!-- with YEAR -->
 {% for post in site.publications reversed %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-    <!--{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}-->
 
     {% if forloop.first %}
 
