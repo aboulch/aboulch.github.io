@@ -1,9 +1,9 @@
 ---
 title: "Datascience week at ENPC"
 collection: publications
-permalink: /publications/2014-03-01-talk-3
+permalink: /publications/2017-03-01-talk-3
 venue: "Datascience Week"
-date: 2014-03-01
+date: 2017-03-01
 location: "Champs-sur-Marne, France"
 type: 'communication'
 ---
