@@ -13,7 +13,7 @@ author_profile: true
 
 <!-- Per TYPE -->
 
-## [Journals](#journals) [Conferences](#conferences) [Misc](#misc) [Communications](#communications) <a name="top"></a>
+## [Journals](#journals) - [Conferences](#conferences) - [Misc](#misc) - [Communications](#communications) <a name="top"></a>
 
 ### [Sort publications per year](/publications/year)
 
