@@ -1,5 +1,5 @@
 ---
-title: 'Segmentation sémantique profonde par régression sur cartes de distances signées'
+title: 'Segmentation semantique profonde par regression sur cartes de distances signees'
 collection: publications
 permalink: /publications/2018-rfiap-distance
 excerpt: ''
@@ -7,7 +7,7 @@ date: 2018-06-23
 venue: 'Conference Reconnaissance des Formes, Images, Apprentissage et Perception, RFIAP'
 paperurl: ''
 type: 'conference'
-author: ' N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre'
+author: ' N. Audebert, A. Boulch, B. Le Saux, S. Lefevre'
 ---
 
 #### Resources
@@ -20,14 +20,10 @@ author: ' N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre'
 
 Understanding of visual scenes relies more and more
 on dense pixel-wise classification obtained via deep fully
-convolutional neural networks. However, due to the na-
-ture of the networks, predictions often suffer from blurry
+convolutional neural networks. However, due to the nature of the networks, predictions often suffer from blurry
 boundaries and ill-segmented shapes, fueling the need for
-post-processing. This work formulates the standard seman-
-tic segmentation problem in terms of distance regression.
-We show that it is possible to train a multi-task fully convo-
-lutional neural network that builds more regular segmen-
-tations than those produced by existing methods based on
+post-processing. This work formulates the standard semantic segmentation problem in terms of distance regression.
+We show that it is possible to train a multi-task fully convolutional neural network that builds more regular segmentations than those produced by existing methods based on
 direct dense classification.
 
 #### Citation
