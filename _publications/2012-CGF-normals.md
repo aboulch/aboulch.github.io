@@ -19,11 +19,11 @@ The code is available on [Github](https://github.com/aboulch/normals_Hough).
 
 ```
 @article{boulch:hal-00732426,
-  TITLE = {{Fast Normal Estimation for Point Clouds with Sharp Features using a Robust Randomized Hough Transform}},
+  TITLE = { {Fast Normal Estimation for Point Clouds with Sharp Features using a Robust Randomized Hough Transform } },
   AUTHOR = {Boulch, Alexandre and Marlet, Renaud},
   URL = {https://hal-enpc.archives-ouvertes.fr/hal-00732426},
   NOTE = {Proceedings of the 10th Symposium of on Geometry Processing (SGP 2012), Tallinn, Estonia, July 2012.},
-  JOURNAL = {{Computer Graphics Forum}},
+  JOURNAL = { {Computer Graphics Forum} },
   PUBLISHER = {{Wiley}},
   VOLUME = {31},
   NUMBER = {5},

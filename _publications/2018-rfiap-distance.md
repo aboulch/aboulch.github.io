@@ -33,7 +33,7 @@ direct dense classification.
   TITLE = { { Segmentation s{\'e}mantique profonde par r{\'e}gression sur cartes de distances sign{\'e}es } },
   AUTHOR = {Audebert, Nicolas and Boulch, Alexandre and Le Saux, Bertrand and Lef{\`e}vre, S{\'e}bastien},
   URL = {https://hal.archives-ouvertes.fr/hal-01809991},
-  BOOKTITLE = {{ Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP)}},
+  BOOKTITLE = { { Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP)} },
   ADDRESS = {Marne-la-Vall{\'e}e, France},
   YEAR = {2018},
   MONTH = Jun,

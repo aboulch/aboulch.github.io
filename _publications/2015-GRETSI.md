@@ -15,10 +15,10 @@ author: 'A. Chan-Hon-Tong, S. Herbin and A. Boulch'
 
 ```
 @inproceedings{chanhontong:hal-01175556,
-  TITLE = {{Un generateur de boites englobantes parcimonieux pour la detection d'objets dans des videos}},
+  TITLE = { {Un generateur de boites englobantes parcimonieux pour la detection d'objets dans des videos} },
   AUTHOR = {Chan-Hon-Tong, Adrien and Herbin, Stephane and Boulch, Alexandre},
   URL = {https://hal.archives-ouvertes.fr/hal-01175556},
-  BOOKTITLE = {{XXV colloque Gretsi 2015}},
+  BOOKTITLE = { {XXV colloque Gretsi 2015} },
   ADDRESS = {Lyon, France},
   YEAR = {2015},
   MONTH = Sep,

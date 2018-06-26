@@ -17,11 +17,11 @@ also presented at Symposium on Geometry Processing (SGP) 2014
 
 ```
 @article{boulch:hal-01099280,
-  TITLE = {{Piecewise-Planar 3D Reconstruction with Edge and Corner Regularization}},
+  TITLE = { {Piecewise-Planar 3D Reconstruction with Edge and Corner Regularization} },
   AUTHOR = {Boulch, Alexandre and De La Gorce, Martin and Marlet, Renaud},
   URL = {https://hal-enpc.archives-ouvertes.fr/hal-01099280},
-  JOURNAL = {{Computer Graphics Forum, Proceedings of EUROGRAPHICS Symposium on Geometry Processing}},
-  PUBLISHER = {{Blackwell Publishing}},
+  JOURNAL = { {Computer Graphics Forum, Proceedings of EUROGRAPHICS Symposium on Geometry Processing} },
+  PUBLISHER = { {Blackwell Publishing} },
   VOLUME = {33},
   NUMBER = {5},
   PAGES = {55--64},

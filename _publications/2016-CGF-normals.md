@@ -23,11 +23,11 @@ The code is available on [Github](https://github.com/aboulch/normals_HoughCNN).
 
 ```
 @article{boulch:hal-01631736,
-  TITLE = {{Deep Learning for Robust Normal Estimation in Unstructured Point Clouds}},
+  TITLE = { {Deep Learning for Robust Normal Estimation in Unstructured Point Clouds} },
   AUTHOR = {Boulch, Alexandre and Marlet, Renaud},
   URL = {https://hal.archives-ouvertes.fr/hal-01631736},
-  JOURNAL = {{Computer Graphics Forum}},
-  PUBLISHER = {{Wiley}},
+  JOURNAL = { {Computer Graphics Forum} },
+  PUBLISHER = { {Wiley} },
   VOLUME = {35},
   NUMBER = {5},
   PAGES = {281 - 290},

@@ -15,11 +15,11 @@ author: 'A. Boulch, É. Colin de Verdière and A. Nakamoto'
 
 ```
 @article{boulch:hal-01163747,
-  TITLE = {{Irreducible Triangulations of Surfaces with Boundary}},
+  TITLE = { {Irreducible Triangulations of Surfaces with Boundary} },
   AUTHOR = {Boulch, Alexandre and Colin De Verdi{\`e}re, {\'E}ric and Nakamoto, Atsuhiro},
   URL = {https://hal.archives-ouvertes.fr/hal-01163747},
-  JOURNAL = {{Graphs and Combinatorics}},
-  PUBLISHER = {{Springer Verlag}},
+  JOURNAL = { {Graphs and Combinatorics} },
+  PUBLISHER = { {Springer Verlag} },
   VOLUME = {29},
   NUMBER = {6},
   PAGES = {1675-1688},

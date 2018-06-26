@@ -15,10 +15,10 @@ author: 'A. Boulch, R. Marlet'
 
 ```
 @inproceedings{boulch:hal-01163700,
-  TITLE = {{Statistical Criteria for Shape Fusion and Selection}},
+  TITLE = { {Statistical Criteria for Shape Fusion and Selection} },
   AUTHOR = {Boulch, Alexandre and Marlet, Renaud},
   URL = {https://hal.archives-ouvertes.fr/hal-01163700},
-  BOOKTITLE = {{International Conference on Pattern Recognition}},
+  BOOKTITLE = { {International Conference on Pattern Recognition} },
   ADDRESS = {Stockholm, Sweden},
   YEAR = {2014},
   MONTH = Aug,

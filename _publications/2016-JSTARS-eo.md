@@ -20,7 +20,7 @@ This paper has been presented at IGARSS 2015.
 
 ```
 @article{campos2016processing,
-  title={Processing of Extremely High-Resolution LiDAR and RGB Data: Outcome of the 2015 IEEE GRSS Data Fusion Contest--Part A: 2-D Contest},
+  title={ {Processing of Extremely High-Resolution LiDAR and RGB Data: Outcome of the 2015 IEEE GRSS Data Fusion Contest--Part A: 2-D Contest} },
   author={Campos-Taberner, Manuel and Romero-Soriano, Adriana and Gatta, Carlo and Camps-Valls, Gustau and Lagrange, Adrien and Le Saux, Bertrand and Beaupere, Anne and Boulch, Alexandre and Chan-Hon-Tong, Adrien and Herbin, Stephane and others},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
   volume={9},

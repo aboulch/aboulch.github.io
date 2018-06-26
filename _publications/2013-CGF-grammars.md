@@ -18,11 +18,11 @@ also presented at Symposium on Geometry processing SGP 2013
 
 ```
 @article{boulch:hal-00864707,
-  TITLE = {{Semantizing Complex 3D Scenes using Constrained Attribute Grammars}},
+  TITLE = { {Semantizing Complex 3D Scenes using Constrained Attribute Grammars} },
   AUTHOR = {Boulch, Alexandre and Houllier, Simon and Marlet, Renaud and Tournaire, Olivier},
   URL = {https://hal-enpc.archives-ouvertes.fr/hal-00864707},
-  JOURNAL = {{Computer Graphics Forum}},
-  PUBLISHER = {{Wiley}},
+  JOURNAL = { {Computer Graphics Forum} },
+  PUBLISHER = { {Wiley} },
   VOLUME = {32},
   NUMBER = {5},
   PAGES = {33-42},

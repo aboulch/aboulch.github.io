@@ -18,9 +18,9 @@ author: 'Alexandre Boulch, Nicolas Audebert and Dominique Dubucq'
 
 ```
 @inproceedings{boulch2017gretsi,
-  TITLE = {{Autoencodeurs pour la visualisation d'images hyperspectrales}},
+  TITLE = { {Autoencodeurs pour la visualisation d'images hyperspectrales} },
   AUTHOR = {Boulch, Alexandre and Audebert, Nicolas and Dubucq, Dominique},
-  BOOKTITLE = {{XXVI colloque Gretsi 2017}},
+  BOOKTITLE = { {XXVI colloque Gretsi 2017} },
   YEAR = {2017},
 }
 
