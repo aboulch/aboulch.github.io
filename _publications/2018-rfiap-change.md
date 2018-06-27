@@ -25,4 +25,21 @@ being at least 500 times faster than related systems. We
 also present a change detection dataset that was developed
 using Sentinel-2 images.
 
+#### Citation
 
+
+```
+@inproceedings{boulch:hal-01823684,
+  TITLE = { {D{\'e}tection dense de changements par r{\'e}seaux de neurones siamois} },
+  AUTHOR = {Boulch, Alexandre and Daudt, Rodrigo Caye and Le Saux, Bertrand and Gousseau, Yann},
+  URL = {https://hal.archives-ouvertes.fr/hal-01823684},
+  BOOKTITLE = { {Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP)} },
+  ADDRESS = {Marne-la-Vall{\'e}e, France},
+  YEAR = {2018},
+  MONTH = Jun,
+  KEYWORDS = {Change detection ; machine learning ; fully convolutional networks ; Earth observation},
+  PDF = {https://hal.archives-ouvertes.fr/hal-01823684/file/2018_rfiap_changement.pdf},
+  HAL_ID = {hal-01823684},
+  HAL_VERSION = {v1},
+}
+```

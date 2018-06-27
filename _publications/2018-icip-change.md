@@ -28,4 +28,22 @@ proposed methods, while being at least 500 times faster than
 related systems. This work is a step towards efficient processing of data from large scale Earth observation systems such
 as Copernicus or Landsat.
 
+#### Citation
+
+```
+@inproceedings{boulch:hal-01824557,
+  TITLE = { {Fully Convolutional Siamese Networks for Change Detection} },
+  AUTHOR = {Boulch, Alexandre and Daudt, Rodrigo Caye and Le Saux, Bertrand},
+  URL = {https://hal.archives-ouvertes.fr/hal-01824557},
+  BOOKTITLE = { {IEEE International Conference on Image Processing} },
+  ADDRESS = {Athens, Greece},
+  YEAR = {2018},
+  MONTH = Oct,
+  KEYWORDS = {Index Terms- Change detection ; supervised machine learning ; fully convolutional networks ; Earth observation},
+  PDF = {https://hal.archives-ouvertes.fr/hal-01824557/file/2018_icip_change.pdf},
+  HAL_ID = {hal-01824557},
+  HAL_VERSION = {v1},
+}
+```
+
 
