@@ -1,7 +1,7 @@
 ---
 title: 'Détection dense de changements par réseaux de neurones siamois'
 collection: publications
-permalink: /publications/2018-rfiap-changement
+permalink: /publications/2018-rfiap-change
 excerpt: ''
 date: 2018-06-23
 venue: 'Conference Reconnaissance des Formes, Images, Apprentissage et Perception, RFIAP'
