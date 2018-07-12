@@ -12,7 +12,8 @@ author: ' R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau'
 
 #### Resources
 
-[Download paper here](https://aboulch.github.io/files/2018_rfiap_changement.pdf)
+[Link to HAL repository](https://hal.archives-ouvertes.fr/hal-01823684)
+[Download paper here](https://hal.archives-ouvertes.fr/hal-01823684/document)
 
 #### Abstract
 

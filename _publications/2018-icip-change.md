@@ -12,7 +12,8 @@ author: ' R. Caye Daudt, B. Le Saux, A. Boulch'
 
 #### Resources
 
-[Download paper here](https://aboulch.github.io/files/2018_icip_change.pdf)
+[Link to HAL repository](https://hal.archives-ouvertes.fr/hal-01824557)
+[Download paper here](https://hal.archives-ouvertes.fr/hal-01824557/document)
 
 #### Abstract
 
