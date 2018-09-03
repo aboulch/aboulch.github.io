@@ -8,6 +8,8 @@ date: 2017-09-01
 location: "Champs-sur-Marne, France"
 ---
 
+## Slides
+
 First year main course of C++ programming
 
 * **Class 1**: introduction
@@ -28,3 +30,11 @@ First year main course of C++ programming
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_09.pdf)
 * **Class 9 and 10**: Constructors and destructors [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_10.pdf)
 * **Class 11**: Misc (STL vectors, default arguments...) [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_12.pdf)
+
+## Resources
+
+### Virtual Machine
+
+To help with the installation of C++ development tools and Imagine++ library, we provide a Virtual Machine for Virtual Box.
+
+[Here is a quick installation guide](/teaching/enpcinfo1a/vm).
