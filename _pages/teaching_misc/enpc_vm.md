@@ -6,7 +6,7 @@ permalink: /teaching/enpcinfo1a/vm
 venue: "Ecole des Ponts ParisTech, 1A"
 date: 2017-09-01
 location: "Champs-sur-Marne, France"
---- 
+---
 
 ## Virtual Box installation
 
@@ -25,10 +25,13 @@ It is compressed VDI file.
 ### Uncompress the image
 
 The image is a .tar.gz file, please use your favorite archive manager to uncompress the file.
-The .vdi file should be around 5GO.
+The .vdi file should be around 5GO. This file is the virtual hard disk of your machine, move to a folder where it will stay (if you move after loading it in VirtualBox, the paths will be broken and you will not be able to load the VM).
+
+### Start VirtualBox
 
 ### Import in Virtual Box
 
+### Misc
 Detailed instruction can be found [here](https://blogs.oracle.com/oswald/importing-a-vdi-in-virtualbox).
 
 * **Create a new Virtual Machine**
