@@ -8,9 +8,9 @@ date: 2017-09-01
 location: "Champs-sur-Marne, France"
 ---
 
-## Slides
-
 First year main course of C++ programming
+
+## Slides
 
 * **Class 1**: introduction
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_01_02.pdf)
