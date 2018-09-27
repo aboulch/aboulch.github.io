@@ -16,6 +16,8 @@ First year main course of C++ programming
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_01_02.pdf)
 * **Class 2**: variables, loops and function
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_03.pdf)
+* **Class 3**: static tables
+[slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_04.pdf)
 
 ## Resources
 
