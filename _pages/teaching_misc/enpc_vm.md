@@ -22,11 +22,6 @@ It is compressed VDI file.
 
 ## Set up the environment
 
-### Uncompress the image
-
-The image is a .tar.gz file, please use your favorite archive manager to uncompress the file.
-The .vdi file should be around 5GO. This file is the virtual hard disk of your machine, move to a folder where it will stay (if you move after loading it in VirtualBox, the paths will be broken and you will not be able to load the VM).
-
 ### Start VirtualBox
 
 ### Import in Virtual Box
