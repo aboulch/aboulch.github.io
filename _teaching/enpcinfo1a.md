@@ -18,6 +18,10 @@ First year main course of C++ programming
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_03.pdf)
 * **Class 3**: static tables
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_04.pdf)
+* **Class 4**: strutures
+[slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_05.pdf)
+* **Class 5**: multiple files
+[slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_06.pdf)
 
 ## Resources
 
