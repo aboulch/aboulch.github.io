@@ -22,6 +22,8 @@ First year main course of C++ programming
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_05.pdf)
 * **Class 5**: multiple files
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_06.pdf)
+* **Class 6**: memory
+[slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_07.pdf)
 
 ## Resources
 
