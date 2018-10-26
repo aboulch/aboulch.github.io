@@ -24,6 +24,8 @@ First year main course of C++ programming
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_06.pdf)
 * **Class 6**: memory
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_07.pdf)
+* **Class 7**: dynamic allocation 
+[slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_08.pdf)
 
 ## Resources
 
