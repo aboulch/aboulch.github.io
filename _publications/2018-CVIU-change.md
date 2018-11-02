@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-10-01
 venue: 'Arxiv'
 paperurl: ''
-type: 'preprint'
+type: 'misc'
 author : 'R. D. Daudt, B. Le Saux, A. Boulch, Y. Gousseau'
 ---
 
