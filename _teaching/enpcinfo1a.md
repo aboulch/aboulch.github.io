@@ -26,6 +26,10 @@ First year main course of C++ programming
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_07.pdf)
 * **Class 7**: dynamic allocation 
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_08.pdf)
+* **Class 8**: first objects (from structures + functions to classes)
+[slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_09.pdf)
+* **Class 9**: Constructors and destructors
+[slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_10.pdf)
 
 ## Resources
 
