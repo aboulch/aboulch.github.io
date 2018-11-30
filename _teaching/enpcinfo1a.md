@@ -30,6 +30,9 @@ First year main course of C++ programming
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_09.pdf)
 * **Class 9**: Constructors and destructors
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_10.pdf)
+* **Class 10**: Copy constructor, operator=, STL vectors
+[slides1](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_10.pdf)
+[slides2](https://aboulch.github.io/files/teaching_enpc_1a_info/intro_12.pdf)
 
 ## Resources
 
