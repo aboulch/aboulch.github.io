@@ -36,6 +36,8 @@ First year main course of C++ programming
 
 ## Resources
 
+A minimal project including Imagine++ ([download](https://aboulch.github.io/files/teaching_enpc_1a_info/minimal_project.zip))
+
 ### Virtual Machine
 
 To help with the installation of C++ development tools and Imagine++ library, we provide a Virtual Machine for Virtual Box.
