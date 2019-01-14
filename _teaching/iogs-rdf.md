@@ -10,18 +10,17 @@ location: "Palaiseau, France"
 
 3rd year machine learning course.
 
+## Neural Networks
 
-## Convolutional Neural Networks and Deep learning
+This is an introduction to neural networks.
 
-### Objective of the class
-
-This is an introduction to conolutional neural networks (CNN) and more generally to deep learning.
-This class is the direct follow-up of the neural networks class.
-
-[Get the slides](https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_rdf_deep.pdf)
+[Get the slides](https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_rdf_nn.pdf)
 
 ### Practical session
 
-Download the first notebook [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/IOGS_tp_keras.ipynb)
+Download the practical session notebook [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/IOGS_tp_keras.ipynb).
 
-Download the second notebook [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/IOGS_tp_recurrent_Keras.ipynb)
+For an import in Colab, this is the URL:
+```
+https://aboulch.github.io/files/teaching_iogs_3a_rdf/IOGS_tp_keras.ipynb
+```
