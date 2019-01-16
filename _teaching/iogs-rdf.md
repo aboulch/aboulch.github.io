@@ -18,7 +18,7 @@ This is an introduction to neural networks.
 
 ### Practical session
 
-Download the practical session notebook [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/IOGS_neural_networks.ipynb).
+Download the practical session notebook [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_neural_networks.ipynb).
 
 For an import in Colab:
 * download the notebook
@@ -26,5 +26,5 @@ For an import in Colab:
 
 URL:
 ```
-https://aboulch.github.io/files/teaching_iogs_3a_rdf/IOGS_neural_networks.ipynb
+https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_neural_networks.ipynb
 ```
