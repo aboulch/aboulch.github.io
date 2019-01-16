@@ -24,7 +24,10 @@ For an import in Colab:
 * download the notebook
 * import it in Colab
 
+Correction [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_neural_networks-full.ipynb)
+
 URL:
 ```
 https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_neural_networks.ipynb
+https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_neural_networks-full.ipynb
 ```
