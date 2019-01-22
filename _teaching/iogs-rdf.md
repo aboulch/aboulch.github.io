@@ -31,3 +31,20 @@ URL:
 https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_neural_networks.ipynb
 https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_neural_networks-full.ipynb
 ```
+## Deep Learning
+
+Introduction to deep learning
+
+[Get the slides](https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_rdf_deep.pdf)
+
+### Practical session
+
+Download the practical session notebook [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_deep.ipynb).
+
+For an import in Colab:
+* download the notebook
+* import it in Colab
+
+URL:
+```
+https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_deep.ipynb
