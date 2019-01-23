@@ -41,6 +41,10 @@ Introduction to deep learning
 
 Download the practical session notebook [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_deep.ipynb).
 
+Correction [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_deep-full.ipynb)
+
+HTML version [here](https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_deep-full.html)
+
 For an import in Colab:
 * download the notebook
 * import it in Colab
@@ -48,3 +52,5 @@ For an import in Colab:
 URL:
 ```
 https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_deep.ipynb
+https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_deep-full.ipynb
+```
