@@ -15,3 +15,5 @@ First year algorithmics in C++ (data stuctures, sorting, FTT, Fast Marching...)
 
 * **Class 1**: Complexity
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_algo/algo_01.pdf)
+* **Class 2**: Sorting algorithms
+[slides](https://aboulch.github.io/files/teaching_enpc_1a_algo/algo_02.pdf)
