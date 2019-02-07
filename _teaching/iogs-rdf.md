@@ -54,3 +54,17 @@ URL:
 https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_deep.ipynb
 https://aboulch.github.io/files/teaching_iogs_3a_rdf/iogs_deep-full.ipynb
 ```
+
+## Projects
+
+### Dehazing
+
+Notebook with dataloader:
+[ipynb](https://aboulch.github.io/files/teaching_iogs_3a_rdf/dehazing.ipynb)
+[html](https://aboulch.github.io/files/teaching_iogs_3a_rdf/dehazing.html)
+
+### Chaos segmentation
+
+Notebook with dataloader:
+[ipynb](https://aboulch.github.io/files/teaching_iogs_3a_rdf/chaos.ipynb)
+[html](https://aboulch.github.io/files/teaching_iogs_3a_rdf/chaos.html)
