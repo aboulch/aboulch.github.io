@@ -17,3 +17,5 @@ First year algorithmics in C++ (data stuctures, sorting, FTT, Fast Marching...)
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_algo/algo_01.pdf)
 * **Class 2**: Sorting algorithms
 [slides](https://aboulch.github.io/files/teaching_enpc_1a_algo/algo_02.pdf)
+* **Class 3**: fast Fourier Transform
+[slides](https://aboulch.github.io/files/teaching_enpc_1a_algo/algo_03.pdf)
