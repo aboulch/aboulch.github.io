@@ -53,5 +53,3 @@ The network weights are available to download:
   [Composite model](https://drive.google.com/open?id=0B6IogDVqG75WdVRkNDhjSE5OR0E)
 
   [Fusion model](https://drive.google.com/open?id=0B6IogDVqG75WRjg2OEVMUmUyRWc) (to be used with RGB and Composite)
-
-  [NPY model of VGG for initialization](https://drive.google.com/open?id=0B6IogDVqG75WUmJYUVV0ZVRjVTA) (based on caffe model VGG 16 from caffe model zoo, converted with Kaffe)
