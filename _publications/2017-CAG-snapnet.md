@@ -46,6 +46,9 @@ A preliminary version of the this work has been presented at 10th Eurographics w
 
 The code is available in the dedicated [Github repository](https://github.com/aboulch/snapnet).
 
+The pretrained weights of VGG16, from the caffe model are available [here](https://drive.google.com/open?id=1kw-G7gH0II3wt2o30kivTNpgD9c_udm1)
+
+
 The network weights are available to download:
 
   [RGB model](https://drive.google.com/open?id=0B6IogDVqG75WY0tyWmtzbU1qSDg)
