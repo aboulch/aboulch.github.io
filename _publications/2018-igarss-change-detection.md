@@ -8,18 +8,12 @@ venue: 'International Geoscience and Remote Sensing Symposium, IGARSS'
 paperurl: ''
 type: 'conference'
 author: 'R. C. Daudt, B. Le Saux, A. Boulch, Y. Gousseau'
+pdf: https://aboulch.github.io/files/2018_igarss_change-detection.pdf
+bibtex: "@inproceedings{daudt2018change, <br/>
+  title={Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks}, <br/>
+  author={Daudt, Rodrigo Caye and Le Saux, Bertrand and Boulch, Alexandre and Gousseau, Yann}, <br/>
+  booktitle={IEEE International Geoscience and Remote Sensing Symposium, IGARSS}, <br/>
+  year={2018}, <br/>
+  organization={IEEE} <br/>
+}"
 ---
-
-
-
-[Download paper here](https://aboulch.github.io/files/2018_igarss_change-detection.pdf)
-
-```
-@inproceedings{daudt2018change,
-  title={Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks},
-  author={Daudt, Rodrigo Caye and Le Saux, Bertrand and Boulch, Alexandre and Gousseau, Yann},
-  booktitle={IEEE International Geoscience and Remote Sensing Symposium, IGARSS},
-  year={2018},
-  organization={IEEE}
-}
-```

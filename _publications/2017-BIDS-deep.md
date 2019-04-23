@@ -8,7 +8,8 @@ venue: 'Big Data from Space (BIDS), ESA Workshop'
 paperurl: ''
 type: 'conference'
 author: 'R. Tripathi, A. Chan-Hon-Tong and A. Boulch'
+teaser: publications/2017-BIDS-shelf.png
+pdf: https://aboulch.github.io/files/2017_bids_esa_shelf-dl.pdf
 ---
 
 
-[Download paper here](https://aboulch.github.io/files/2017_bids_esa_shelf-dl.pdf)

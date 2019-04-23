@@ -8,18 +8,12 @@ venue: 'International Geoscience and Remote Sensing Symposium, IGARSS'
 paperurl: ''
 type: 'conference'
 author: 'A. Boulch, P. Trouve, E. Koeniguer, F. Janez, B. Le Saux'
+pdf: https://aboulch.github.io/files/2018_igarss_denoising-sentinel.pdf
+arxiv: "@inproceedings{boulch2018denoising, <br/>
+  title={Learning speckle suppression in SAR images without ground truth: application to Sentinel-1 time-series}, <br/>
+  author={Boulch, Alexandre and Trouv\'e, Pauline and Koeniguer, Elise and Janez, Fabrice and Le Saux, Bertrand}, <br/>
+  booktitle={IEEE International Geoscience and Remote Sensing Symposium, IGARSS}, <br/>
+  year={2018}, <br/>
+  organization={IEEE} <br/>
+}"
 ---
-
-
-
-[Download paper here](https://aboulch.github.io/files/2018_igarss_denoising-sentinel.pdf)
-
-```
-@inproceedings{boulch2018denoising,
-  title={Learning speckle suppression in SAR images without ground truth: application to Sentinel-1 time-series},
-  author={Boulch, Alexandre and Trouv\'e, Pauline and Koeniguer, Elise and Janez, Fabrice and Le Saux, Bertrand},
-  booktitle={IEEE International Geoscience and Remote Sensing Symposium, IGARSS},
-  year={2018},
-  organization={IEEE}
-}
-```

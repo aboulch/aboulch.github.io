@@ -53,43 +53,57 @@
 
       {% if post.pdf %}
         <small>
-        <a href="{{ post.pdf }}" > #PDF </a>
+          <b>
+            <a href="{{ post.pdf }}" > [PDF] </a>
+          </b>
         </small>
       {% endif %}
 
       {% if post.slides %}
         <small>
-        <a href="{{ post.slides }}" > #Slides </a>
+            <b>
+        <a href="{{ post.slides }}" > [Slides] </a>
+      </b>
         </small>
       {% endif %}
 
       {% if post.poster %}
         <small>
-        <a href="{{ post.poster }}" > #Poster </a>
+            <b>
+        <a href="{{ post.poster }}" > [Poster] </a>
+      </b>
         </small>
       {% endif %}
 
       {% if post.arxiv %}
         <small>
-        <a href="{{ post.arxiv }}" > #Arxiv </a>
+            <b>
+        <a href="{{ post.arxiv }}" > [Arxiv] </a>
+      </b>
         </small>
       {% endif %}
 
       {% if post.hal %}
         <small>
-        <a href="{{ post.hal }}" > #HAL </a>
+            <b>
+        <a href="{{ post.hal }}" > [HAL] </a>
+      </b>
         </small>
       {% endif %}
       
       {% if post.code %}
         <small>
-        <a href="{{ post.code }}" > #Code </a>
+            <b>
+        <a href="{{ post.code }}" > [Code] </a>
+      </b>
         </small>
       {% endif %}
         
       {% if post.bibtex %}
         <small>
-        <a href="#{{ post.title }}" onclick="toggle_visibility('{{ post.title }}__bibtex');"> #Bibtex</a>
+          <b>
+        <a href="#{{ post.title }}" onclick="toggle_visibility('{{ post.title }}__bibtex');"> [Bibtex] </a>
+      </b>
         <div id="{{ post.title }}__bibtex" style="display: none" class="archive__bibtex"> {{ post.bibtex }}</div>
         </small>
       {% endif %}
