@@ -8,33 +8,24 @@ venue: 'Computer Graphics Forum, Wiley'
 paperurl: ''
 type: 'journal'
 author: 'A. Boulch and R. Marlet'
+pdf: https://aboulch.github.io/files/2016_sgp_normals.pdf
+slides: https://aboulch.github.io/files/talks/2016_sgp_normals_slides.pdf
+code: https://github.com/aboulch/normals_HoughCNN
+note: "presented at Symposium on Geometry Processing (SGP) 2016"
+bibtex: "@article{boulch:hal-01631736, <br/>
+  TITLE = { {Deep Learning for Robust Normal Estimation in Unstructured Point Clouds} }, <br/>
+  AUTHOR = {Boulch, Alexandre and Marlet, Renaud}, <br/>
+  URL = {https://hal.archives-ouvertes.fr/hal-01631736}, <br/>
+  JOURNAL = { {Computer Graphics Forum} }, <br/>
+  PUBLISHER = { {Wiley} }, <br/>
+  VOLUME = {35}, <br/>
+  NUMBER = {5}, <br/>
+  PAGES = {281 - 290}, <br/>
+  YEAR = {2016}, <br/>
+  MONTH = Aug, <br/>
+  PDF = {https://hal.archives-ouvertes.fr/hal-01631736/file/2016_sgp_normals.pdf}, <br/>
+  HAL_ID = {hal-01631736}, <br/>
+  HAL_VERSION = {v1}, <br/>
+}"
+teaser: publications/2016-CGF-normals.png
 ---
-
-
-Also presented at Symposium on Geometry Processing (SGP) 2016
-
-
-[Download paper here](https://aboulch.github.io/files/2016_sgp_normals.pdf)
-
-[Download slides here](https://aboulch.github.io/files/talks/2016_sgp_normals_slides.pdf)
-
-The code is available on [Github](https://github.com/aboulch/normals_HoughCNN).
-
-
-```
-@article{boulch:hal-01631736,
-  TITLE = { {Deep Learning for Robust Normal Estimation in Unstructured Point Clouds} },
-  AUTHOR = {Boulch, Alexandre and Marlet, Renaud},
-  URL = {https://hal.archives-ouvertes.fr/hal-01631736},
-  JOURNAL = { {Computer Graphics Forum} },
-  PUBLISHER = { {Wiley} },
-  VOLUME = {35},
-  NUMBER = {5},
-  PAGES = {281 - 290},
-  YEAR = {2016},
-  MONTH = Aug,
-  PDF = {https://hal.archives-ouvertes.fr/hal-01631736/file/2016_sgp_normals.pdf},
-  HAL_ID = {hal-01631736},
-  HAL_VERSION = {v1},
-}
-```

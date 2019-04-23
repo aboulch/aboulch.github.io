@@ -8,15 +8,8 @@ venue: 'Computer Graphics Forum'
 paperurl: ''
 type: 'journal'
 author: 'A. Boulch, M. De La Gorce and R. Marlet'
----
-
-
-also presented at Symposium on Geometry Processing (SGP) 2014
-
-[Download paper here](https://hal.archives-ouvertes.fr/hal-01099280/document)
-
-```
-@article{boulch:hal-01099280,
+pdf: https://hal.archives-ouvertes.fr/hal-01099280/document
+bibtex: "@article{boulch:hal-01099280,
   TITLE = { {Piecewise-Planar 3D Reconstruction with Edge and Corner Regularization} },
   AUTHOR = {Boulch, Alexandre and De La Gorce, Martin and Marlet, Renaud},
   URL = {https://hal-enpc.archives-ouvertes.fr/hal-01099280},
@@ -30,5 +23,7 @@ also presented at Symposium on Geometry Processing (SGP) 2014
   PDF = {https://hal-enpc.archives-ouvertes.fr/hal-01099280/file/sgp_2014.pdf},
   HAL_ID = {hal-01099280},
   HAL_VERSION = {v1},
-}
-```
+}"
+note: "presented at Symposium on Geometry Processing (SGP) 2014"
+teaser: publications/2014-CGF-recons.png
+---

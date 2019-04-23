@@ -21,6 +21,29 @@
   }
 }
 
+.archive__row::after {
+  content: "";
+  clear: both;
+  display: table;
+  margin-bottom: 0.25em;
+}
+
+.archive__column {
+  float: left;
+  padding: 5px;
+}
+
+.archive__bibtex {
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: black;
+  color: white;
+  font-family: monospace;
+}
+
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -35,6 +58,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
+  margin-top: 0em;
   font-family: $sans-serif-narrow;
 
   a + a {
