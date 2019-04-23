@@ -12,6 +12,20 @@
   {% assign title = post.title %}
 {% endif %}
 
+
+<script type="text/javascript">
+  <!--
+      function toggle_visibility(id) {
+        var e = document.getElementById(id);
+        if(e.style.display == 'block')
+            e.style.display = 'none';
+        else
+            e.style.display = 'block';
+      }
+  //-->
+</script>
+
+
 <div class="{{ include.type | default: "list" }}__item" >
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
@@ -84,19 +98,6 @@
       {% endif %}
         
       {% if post.bibtex %}
-        <script type="text/javascript">
-          <!--
-              function toggle_visibility(id) {
-                var e = document.getElementById(id);
-                if(e.style.display == 'block')
-                    e.style.display = 'none';
-                else
-                    e.style.display = 'block';
-              }
-          //-->
-        </script>
-
-
         <small>
         <a href="#{{ post.title }}" onclick="toggle_visibility('{{ post.title }}__bibtex');"> #Bibtex</a>
         <div id="{{ post.title }}__bibtex" style="display: none" class="archive__bibtex"> {{ post.bibtex }}</div>
