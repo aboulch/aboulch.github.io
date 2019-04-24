@@ -22,12 +22,12 @@
     <div class="archive__row">
 
       {% if post.teaser %}
-          <div class="archive__column">
+          <div class="archive__column_image">
           <img src="{{ post.teaser | prepend: "/images/" }}" width="128px">
           </div>
       {% endif %}
 
-      <div class="archive__column">
+      <div class="archive__column_text">
 
         <h4 class="archive__item-title" itemprop="headline">
           {% if post.link %}

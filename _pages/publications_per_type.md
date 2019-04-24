@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications/type
 author_profile: true
 ---
 
@@ -15,7 +15,7 @@ author_profile: true
 
 ## [Journals](#journals) - [Conferences](#conferences) - [Misc](#misc) - [Communications](#communications) <a name="top"></a>
 
-### [Sort publications per year](/publications/year)
+### [Sort publications per year](/publications)
 
 <!--
 <div class="{{ include.type | default: "list" }}__item">

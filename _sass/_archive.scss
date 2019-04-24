@@ -28,9 +28,16 @@
   margin-bottom: 0.25em;
 }
 
-.archive__column {
+.archive__column_image {
   float: left;
   padding: 5px;
+  max-width: 20%;
+}
+
+.archive__column_text {
+  float: left;
+  padding: 5px;
+  max-width: 80%;
 }
 
 .archive__bibtex {

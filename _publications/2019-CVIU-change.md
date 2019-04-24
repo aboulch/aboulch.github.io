@@ -1,9 +1,9 @@
 ---
 title: 'High Resolution Semantic Change Detection'
 collection: publications
-permalink: /publications/2018-arxiv-change
+permalink: /publications/2019-CVIU-change
 excerpt: ''
-date: 2018-10-01
+date: 2019-01-01
 venue: 'Arxiv'
 paperurl: ''
 type: 'misc'

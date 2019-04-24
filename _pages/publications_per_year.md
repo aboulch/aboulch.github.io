@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/year/
+permalink: /publications/
 author_profile: true
 ---
 
@@ -13,7 +13,7 @@ author_profile: true
 
 <a name="top"></a>
 
-### [Sort publications by type](/publications/)
+### [Sort publications by type](/publications/type)
 
 
 <!-- with YEAR -->
