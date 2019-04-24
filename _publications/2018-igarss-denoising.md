@@ -16,4 +16,5 @@ arxiv: "@inproceedings{boulch2018denoising, <br/>
   year={2018}, <br/>
   organization={IEEE} <br/>
 }"
+teaser: publications/2018-IGARSS-denoising.png
 ---

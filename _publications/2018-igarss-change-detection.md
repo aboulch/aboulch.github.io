@@ -16,4 +16,5 @@ bibtex: "@inproceedings{daudt2018change, <br/>
   year={2018}, <br/>
   organization={IEEE} <br/>
 }"
+teaser: publications/2018-IGARSS-change.png
 ---

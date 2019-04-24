@@ -21,4 +21,5 @@ bibtex: "@inproceedings{audebert:hal-01809991, <br/>
   HAL_ID = {hal-01809991}, <br/>
   HAL_VERSION = {v1}, <br/>
 }"
+teaser: publications/2019-RFIAP-distance.png
 ---

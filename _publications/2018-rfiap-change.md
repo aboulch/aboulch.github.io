@@ -21,4 +21,5 @@ bibtex: "@inproceedings{boulch:hal-01823684, <br/>
   HAL_ID = {hal-01823684}, <br/>
   HAL_VERSION = {v1}, <br/>
 }"
+teaser: publications/2018-ICIP-change.png
 ---

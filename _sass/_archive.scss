@@ -72,6 +72,15 @@
     opacity: 0.5;
   }
 }
+.archive__item-title2 {
+  margin-bottom: 0.25em;
+  margin-top: 0em;
+  font-family: $sans-serif-narrow;
+  color: #7184a3;
+  a + a {
+    opacity: 0.5;
+  }
+}
 
 /* remove border*/
 .page__content {
