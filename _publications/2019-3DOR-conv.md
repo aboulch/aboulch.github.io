@@ -17,5 +17,6 @@ bibtex: "@article{boulch2019conv, <br/>
 }"
 code: https://github.com/aboulch/ConvPoint
 arxiv: http://arxiv.org/abs/1904.02375
+slides: https://aboulch.github.io/files/talks/2019_3dor_conv_slides.pdf
 ---
 
