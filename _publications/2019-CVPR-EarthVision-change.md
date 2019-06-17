@@ -10,4 +10,5 @@ type: 'conference'
 author : 'R. D. Daudt, B. Le Saux, A. Boulch, Y. Gousseau'
 note: "to be presented"
 teaser: publications/2019-CVPR-EarthVision-change.png
+arxiv: https://arxiv.org/abs/1904.08208
 ---
