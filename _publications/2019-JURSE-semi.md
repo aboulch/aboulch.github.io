@@ -8,6 +8,5 @@ venue: 'IEEE Joint Urban Remote Sensing Event (JURSE’2019)'
 paperurl: ''
 type: 'conference'
 author : 'J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre'
-note: "to be presented"
 teaser: publications/2019-JURSE-semi.png
 ---
