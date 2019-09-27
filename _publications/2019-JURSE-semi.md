@@ -9,4 +9,5 @@ paperurl: ''
 type: 'conference'
 author : 'J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre'
 teaser: publications/2019-JURSE-semi.png
+pdf: https://aboulch.github.io/files/2019_jurse_data.pdf
 ---
