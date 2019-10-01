@@ -10,12 +10,18 @@ type: 'conference'
 author: 'A. Boulch'
 teaser: publications/2019-3DOR-conv.png 
 bibtex: "@article{boulch2019conv, <br/>
-  title={Generalizing discrete convolutions for unstructured point clouds}, <br/>
-  author={Boulch, Alexandre}, <br/>
-  journal={arXiv preprint arXiv:1904.02375}, <br/>
-  year={2019} <br/>
+booktitle = {Eurographics Workshop on 3D Object Retrieval}, <br/>
+editor = {Biasotti, Silvia and Lavoué, Guillaume and Veltkamp, Remco}, <br/>
+title = {{Generalizing Discrete Convolutions for Unstructured Point Clouds}}, <br/>
+author = {Boulch, Alexandre}, <br/>
+year = {2019}, <br/>
+publisher = {The Eurographics Association}, <br/>
+ISSN = {1997-0471}, <br/>
+ISBN = {978-3-03868-077-2}, <br/>
+DOI = {10.2312/3dor.20191064} <br/>
 }"
 code: https://github.com/aboulch/ConvPoint
+pdf: https://diglib.eg.org/handle/10.2312/3dor20191064
 arxiv: http://arxiv.org/abs/1904.02375
 slides: https://aboulch.github.io/files/talks/2019_3dor_conv_slides.pdf
 ---
