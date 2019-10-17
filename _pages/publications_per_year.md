@@ -44,12 +44,11 @@ author_profile: true
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <hr/>
     <h2 class="archive__item-title" itemprop="headline">
         {{ next_year }} (<a href="#top">top</a>) </h2> 
   </article>
 </div>
-
-
         {% endif %}
     {% endif %}
 {% endfor %}

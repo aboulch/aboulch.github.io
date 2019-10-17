@@ -33,6 +33,8 @@ author_profile: true
     {% endif %}
 {% endfor %}
 
+<hr/>
+
 ## Conferences <a name="conferences"></a> ([top](#top))
 {% for post in site.publications reversed %}
     {% if post.type == "conference" %}
@@ -40,12 +42,16 @@ author_profile: true
     {% endif %}
 {% endfor %}
 
+<hr/>
+
 ## Misc <a name="misc"></a> ([top](#top))
 {% for post in site.publications reversed %}
     {% if post.type == "misc" %}
         {% include archive-single-pub.html %}
     {% endif %}
 {% endfor %}
+
+<hr/>
 
 ## Communications <a name="communications"></a> ([top](#top))
 {% for post in site.publications reversed %}

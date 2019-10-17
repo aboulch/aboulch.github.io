@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Alexandre Boulch"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-## Current situation
 
 Researcher and Engineer in computer science at [ONERA](www.onera.fr), the French Aerospace Lab in the Modeling and Information Processing Department (DTIM) :
 

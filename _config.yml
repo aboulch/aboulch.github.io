@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexandre Boulch"
+title                    : "<img src='/images/home.png'>"
 title_separator          : "-"
 name                     : &name "Alexandre Boulch"
 description              : &description "ONERA Researcher"
