@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Researcher and Engineer in computer science at [ONERA](www.onera.fr), the French Aerospace Lab in the Modeling and Information Processing Department (DTIM) :
+Researcher at [Valeo.ai](https://ptrckprz.github.io/valeoai/)
 
-* Remote Sensing images analysis
-* Machine Learning
-* Computational geometry
 
 ## Thesis
 

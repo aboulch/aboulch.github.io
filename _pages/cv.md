@@ -11,7 +11,13 @@ redirect_from:
 
 # Current situation
 
- Since 2014   Researcher and Engineer at ONERA, the French Aerospace Lab in the Modeling and Information Processing Department (DTIM).
+Researcher at [Valeo.ai](https://ptrckprz.github.io/valeoai/)
+
+# Previous
+
+## 2014-2019   
+Researcher and Engineer at ONERA, the French Aerospace Lab in the Modeling and Information Processing Department (DTIM).
+
 
 # Education / Diplomas
 

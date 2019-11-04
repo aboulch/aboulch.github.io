@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "<img src='/images/home.png'>"
 title_separator          : "-"
 name                     : &name "Alexandre Boulch"
-description              : &description "ONERA Researcher"
+description              : &description "Researcher at Valeo.ai"
 url                      : https://aboulch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aboulch/aboulch.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Alexandre Boulch"
   avatar           : "profile.png"
-  bio              : "Researcher at ONERA"
-  location         : "http://www.onera.fr/"
+  bio              : "Researcher at Valeo.ai"
+  location         : "Paris, Valce"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=iJ3qFGAAAAAJ&hl=en"
   email            :
