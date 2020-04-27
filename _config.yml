@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "<img src='/images/home.png' style='width:86px;height:16px;'>"
+title                    : "<img src='/images/home.png' style='width:166px;height:32px;'>"
 title_separator          : "-"
 name                     : &name "Alexandre Boulch"
 description              : &description "Researcher at Valeo.ai"
