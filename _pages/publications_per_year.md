@@ -24,7 +24,7 @@ author_profile: true
     {% if forloop.first %}
 
 <div class="{{ include.type | default: "list" }}__item">
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <h2 class="archive__item-title" itemprop="headline">
         {{ this_year }} (<a href="#top">top</a>) </h2>
 </article>
@@ -43,7 +43,7 @@ author_profile: true
         {% if this_year != next_year %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <hr/>
     <h2 class="archive__item-title" itemprop="headline">
         {{ next_year }} (<a href="#top">top</a>) </h2> 

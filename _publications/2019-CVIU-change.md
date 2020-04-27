@@ -17,7 +17,7 @@ journal = {Computer Vision and Image Understanding}, <br/>
 pages = {102783}, <br/>
 issn = {1077-3142}, <br/>
 doi = {https://doi.org/10.1016/j.cviu.2019.07.003}, <br/>
-url = {http://www.sciencedirect.com/science/article/pii/S1077314219300992}, <br/>
+url = {https://www.sciencedirect.com/science/article/pii/S1077314219300992}, <br/>
 year = {2019}, <br/>
 volume = {187}, <br/>
 }"
