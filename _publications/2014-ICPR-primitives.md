@@ -5,7 +5,7 @@ permalink: /publications/2014-ICPR-primitives
 excerpt: ''
 date: 2014-01-01
 venue: 'International Conference on Pattern Recognition, ICPR'
-paperurl: ''
+paperurl: 'https://dl.acm.org/doi/abs/10.1109/ICPR.2014.171'
 type: 'conference'
 author: 'A. Boulch, R. Marlet'
 teaser: publications/2014-ICPR-primitives.png

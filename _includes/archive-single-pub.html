@@ -52,6 +52,14 @@
           
         <br/>
 
+      {% if post.paperurl%}
+        <small>
+          <b>
+            <a href="{{ pos.paperurl }}"> [Publisher version]</a>
+          </b>
+        </small>
+      {% endif %}
+
       {% if post.pdf %}
         <small>
           <b>

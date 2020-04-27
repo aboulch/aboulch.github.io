@@ -6,10 +6,9 @@ excerpt: ''
 date: 2019-09-01
 author : 'R. D. Daudt, B. Le Saux, A. Boulch, Y. Gousseau'
 venue: 'Computer Vision and Image Understanding'
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1077314219300992'
 type: 'journal'
 teaser: publications/2018-CVIU-change.png
-pdf: https://www.sciencedirect.com/science/article/pii/S1077314219300992
 arxiv: https://arxiv.org/abs/1810.08452
 bibtex: "@article{CAYEDAUDT2019102783, <br/>
 title = {Multitask learning for large-scale semantic change detection}, <br/>

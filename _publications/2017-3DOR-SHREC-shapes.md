@@ -5,7 +5,7 @@ permalink: /publications/2017-3DOR-SHREC-shapes
 excerpt: ''
 date: 2017-01-01
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR'
-paperurl: ''
+paperurl: 'https://diglib.eg.org/handle/10.2312/3dor20171057'
 type: 'conference'
 author: 'E. Rodola, L. Cosmo, O. Litany, MM. Bronstein, AM. Bronstein, N. Audebert, A. Ben Hamza, A. Boulch, U. Castellani, MN. Do and others'
 teaser: publications/2017-3DOR-SHREC-shapes.png

@@ -5,7 +5,6 @@ permalink: /publications/2018-arxiv-forecast
 excerpt: ''
 date: 2018-11-01
 venue: 'Arxiv'
-paperurl: ''
 type: 'misc'
 author : 'A. Boulch, N. Cherrier, T. Castaings'
 arxiv: https://arxiv.org/abs/1810.13273

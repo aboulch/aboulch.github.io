@@ -5,7 +5,7 @@ permalink: /publications/2019-IGARSS-eo
 excerpt: ''
 date: 2019-05-01
 venue: 'International Geoscience and Remote Sensing Symposium, IGARSS'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/8898563'
 type: 'conference'
 author: 'R. C. Daudt, A. Chan-Hon-Tong, B. Le Saux, A. Boulch'
 teaser: publications/2019-IGARSS-eo.png 

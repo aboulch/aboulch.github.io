@@ -5,7 +5,6 @@ permalink: /publications/2017-BIDS-tec
 excerpt: ''
 date: 2017-11-01
 venue: 'Big Data from Space (BIDS), ESA Workshop'
-paperurl: ''
 type: 'conference'
 author: 'N. Cherrier, T. Castaings and A. Boulch'
 teaser: publications/2017-ICONIP-space.png

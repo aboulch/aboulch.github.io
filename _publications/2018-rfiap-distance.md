@@ -5,7 +5,6 @@ permalink: /publications/2018-rfiap-distance
 excerpt: ''
 date: 2018-06-23
 venue: 'Conference Reconnaissance des Formes, Images, Apprentissage et Perception, RFIAP'
-paperurl: ''
 type: 'conference'
 author: ' N. Audebert, A. Boulch, B. Le Saux, S. Lefevre'
 hal: https://hal.archives-ouvertes.fr/hal-01809991v1

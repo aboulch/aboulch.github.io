@@ -6,10 +6,9 @@ excerpt: ''
 date: 2019-09-01
 author: 'N. Audebert, A. Boulch, B. Le Saux and S. Lefèvre'
 venue: 'Computer Vision and Image Understanding'
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1077314219301201'
 type: 'journal'
 teaser: publications/2019-CVIU-distance.png
-pdf: https://www.sciencedirect.com/science/article/pii/S1077314219301201
 arxiv: https://arxiv.org/abs/1909.01671
 bibtex: "@article{AUDEBERT2019102809, <br/>
 title = {Distance transform regression for spatially-aware deep semantic segmentation}, <br/>

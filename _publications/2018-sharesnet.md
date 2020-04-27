@@ -5,10 +5,9 @@ permalink: /publications/2018-sharesnet
 excerpt: ''
 date: 2018-02-01
 venue: 'Pattern Recognition Letters'
-paperurl: ''
+paperurl: 'http://www.sciencedirect.com/science/article/pii/S0167865518300060'
 type: 'journal'
 author : 'A.Boulch'
-pdf: http://www.sciencedirect.com/science/article/pii/S0167865518300060
 code: https://github.com/aboulch/sharesnet
 bibtex: "@article{BOULCH201853, <br/>
 title = {Reducing parameter number in residual networks by sharing weights}, <br/>

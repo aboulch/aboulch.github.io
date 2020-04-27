@@ -5,7 +5,7 @@ permalink: /publications/2017-3DOR-snapnet
 excerpt: ''
 date: 2017-05-01
 venue: 'Eurographics Workshop 3D Object Retrieval'
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0097849317301942'
 type: 'conference'
 author: 'A. Boulch, B. Le Saux and N. Audebert'
 teaser: publications/2017-CAG-snapnet.png 
@@ -17,5 +17,5 @@ bibtex: '@inproceedings{boulch2017unstructured, <br/>
   year={2017} <br/>
 }'
 code: https://github.com/aboulch/snapnet
-pdf: https://aboulch.github.io/files/2017_3dor-point.pdf
+pdf: https://aboulch.github.io/files/2017_cag_snapnet.pdf
 ---

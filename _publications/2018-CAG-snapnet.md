@@ -5,7 +5,7 @@ permalink: /publications/2018-CAG-snapnet
 excerpt: ''
 date: 2018-04-01
 venue: 'Computer and Graphics'
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0097849317301942'
 type: 'journal'
 author: 'A. Boulch, J. Guerry, B. Le Saux and N. Audebert'
 teaser: publications/2017-CAG-snapnet.png 
@@ -17,6 +17,6 @@ bibtex: '@article{boulch2017snapnet, <br/>
   publisher={Elsevier} <br/>
 }'
 code: https://github.com/aboulch/snapnet
-pdf: https://www.sciencedirect.com/science/article/pii/S0097849317301942
 note: 'Presented at Eurographics 3DOR 2017'
+pdf: https://aboulch.github.io/files/2017_cag_snapnet.pdf
 ---

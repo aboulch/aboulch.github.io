@@ -5,7 +5,6 @@ permalink: /publications/2018-rfiap-change
 excerpt: ''
 date: 2018-06-23
 venue: 'Conference Reconnaissance des Formes, Images, Apprentissage et Perception, RFIAP'
-paperurl: ''
 type: 'conference'
 author: ' R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau'
 hal: https://hal.archives-ouvertes.fr/hal-01823684

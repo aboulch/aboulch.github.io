@@ -5,7 +5,7 @@ permalink: /publications/2016-JSTARS-eo
 excerpt: ''
 date: 2016-01-01
 venue: 'IEEE JSTARS'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/7326745'
 type: 'journal'
 author: 'A. Lagrange, B. Le Saux, A. Beaupere, A. Boulch, A. Chan-Hon-Tong, S. Herbin, H. Randrianarivo and M. Ferecatu'
 teaser: publications/2016-JSTARS-eo.png

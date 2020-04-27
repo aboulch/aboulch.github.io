@@ -5,7 +5,7 @@ permalink: /publications/2016-CGF-normals
 excerpt: ''
 date: 2016-01-01
 venue: 'Computer Graphics Forum, Wiley'
-paperurl: ''
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12983'
 type: 'journal'
 author: 'A. Boulch and R. Marlet'
 pdf: https://aboulch.github.io/files/2016_sgp_normals.pdf

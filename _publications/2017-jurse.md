@@ -5,7 +5,8 @@ permalink: /publications/2017-sharesnet
 excerpt: ''
 date: 2017-07-01
 venue: 'Joint Urban Remote Sensing Event, JURSE'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/7924536'
+hal: 'https://hal.archives-ouvertes.fr/hal-01672854'
 type: 'conference'
 author: 'N. Audebert, A. Boulch, H. Randrianarivo, B. Le Saux, M. Ferecatu, S. Lefèvre and R. Marlet'
 teaser: publications/2017-JURSE-deep.png

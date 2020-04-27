@@ -5,7 +5,7 @@ permalink: /publications/2017-ICONIP-forecasting
 excerpt: ''
 date: 2017-11-01
 venue: 'ICONIP'
-paperurl: ''
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-70139-4_55'
 type: 'conference'
 author: 'N. Cherrier, T. Castaings and A. Boulch'
 pdf: https://aboulch.github.io/files/2017_iconip_spatial_forecasting.pdf

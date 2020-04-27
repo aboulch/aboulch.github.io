@@ -5,7 +5,7 @@ permalink: /publications/2018-igarss-denoising
 excerpt: ''
 date: 2018-05-01
 venue: 'International Geoscience and Remote Sensing Symposium, IGARSS'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/8519370'
 type: 'conference'
 author: 'A. Boulch, P. Trouve, E. Koeniguer, F. Janez, B. Le Saux'
 pdf: https://aboulch.github.io/files/2018_igarss_denoising-sentinel.pdf

@@ -5,8 +5,7 @@ permalink: /publications/2016-ODAS-deep
 excerpt: ''
 date: 2016-01-01
 venue: 'Onera-DLR Aerospace Symposium (ODAS)'
-paperurl: ''
-type: 'communication'
+type: 'conference'
 author: 'N. Audebert, A. Boulch, A. Lagrange, B. Le Saux and S. Lefèvre'
 teaser: publications/2016-ODAS-DL4RS.png
 pdf: https://aboulch.github.io/files/2016_ODAS_DeepLearn4RemoteSensing.pdf

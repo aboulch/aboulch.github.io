@@ -5,7 +5,6 @@ permalink: /publications/2015-GRETSI
 excerpt: ''
 date: 2015-01-01
 venue: 'XXV colloque Gretsi'
-paperurl: ''
 type: 'conference'
 author: 'A. Chan-Hon-Tong, S. Herbin and A. Boulch'
 pdf: https://hal.archives-ouvertes.fr/hal-01175556/document

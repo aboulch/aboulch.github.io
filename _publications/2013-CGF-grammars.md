@@ -5,7 +5,7 @@ permalink: /publications/2013-CGF-grammars
 excerpt: ''
 date: 2013-01-01
 venue: 'Computer Graphics Forum, Wiley'
-paperurl: ''
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12170'
 type: 'journal'
 author: 'A. Boulch, S. Houllier, R. Marlet and O. Tournaire'
 pdf: https://aboulch.github.io/files/2013_sgp_boulch.pdf

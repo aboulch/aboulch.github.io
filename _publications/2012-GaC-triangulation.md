@@ -5,7 +5,7 @@ permalink: /publications/2012-GaC-triangulation
 excerpt: ''
 date: 2012-01-01
 venue: 'Graphs and Combinatorics, Springer Verlag'
-paperurl: ''
+paperurl: 'https://link.springer.com/article/10.1007/s00373-012-1244-1'
 type: 'journal'
 author: 'A. Boulch, É. Colin de Verdière and A. Nakamoto'
 teaser: publications/2012-GaC-triangulation.png
@@ -26,4 +26,5 @@ bibtex: "@article{boulch:hal-01163747, <br/>
   HAL_ID = {hal-01163747}, <br/>
   HAL_VERSION = {v1}, <br/>
 }"
+arxiv: 'https://arxiv.org/abs/1103.5364'
 ---

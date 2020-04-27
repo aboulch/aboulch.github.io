@@ -5,7 +5,7 @@ permalink: /publications/2018-igarss-change-detection
 excerpt: ''
 date: 2018-05-01
 venue: 'International Geoscience and Remote Sensing Symposium, IGARSS'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/8518015'
 type: 'conference'
 author: 'R. C. Daudt, B. Le Saux, A. Boulch, Y. Gousseau'
 pdf: https://aboulch.github.io/files/2018_igarss_change-detection.pdf
@@ -17,4 +17,5 @@ bibtex: "@inproceedings{daudt2018change, <br/>
   organization={IEEE} <br/>
 }"
 teaser: publications/2018-IGARSS-change.png
+arxiv: 'https://arxiv.org/abs/1810.08468'
 ---

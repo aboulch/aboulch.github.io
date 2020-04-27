@@ -5,7 +5,7 @@ permalink: /publications/2017-3DOR-SHREC-toys
 excerpt: ''
 date: 2017-01-01
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR'
-paperurl: ''
+paperurl: 'https://diglib.eg.org/handle/10.2312/3dor20171056'
 type: 'conference'
 author: F. A. Limberger, W. C. Richard, M. Aono, N. Audebert, A. Boulch, B. Bustos, A. Giachetti, A. Godil, B. Le Saux and B. Li and others.
 pdf: https://aboulch.github.io/files/2017_3dor-shrec-toys.pdf

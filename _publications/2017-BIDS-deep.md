@@ -5,7 +5,6 @@ permalink: /publications/2017-BIDS-deep
 excerpt: ''
 date: 2017-11-01
 venue: 'Big Data from Space (BIDS), ESA Workshop'
-paperurl: ''
 type: 'conference'
 author: 'R. Tripathi, A. Chan-Hon-Tong and A. Boulch'
 teaser: publications/2017-BIDS-shelf.png

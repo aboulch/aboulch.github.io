@@ -5,7 +5,7 @@ permalink: /publications/2014-CGF-grammars
 excerpt: ''
 date: 2014-01-01
 venue: 'Computer Graphics Forum'
-paperurl: ''
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12431'
 type: 'journal'
 author: 'A. Boulch, M. De La Gorce and R. Marlet'
 pdf: https://hal.archives-ouvertes.fr/hal-01099280/document
