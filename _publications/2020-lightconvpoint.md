@@ -7,7 +7,7 @@ date: 2020-05-01
 venue: 'Arxiv'
 type: 'misc'
 author: 'A. Boulch, G. Puy and R. Marlet'
-teaser: publications/2019-3DOR-conv.png 
+teaser: publications/2020-lightconvpoint.png 
 bibtex: "{@article{boulch2020lightconvpoint,<br/>
   title={LightConvPoint: convolution for points},<br/>
   author={Boulch, Alexandre and Puy, Gilles and Marlet, Renaud},<br/>
