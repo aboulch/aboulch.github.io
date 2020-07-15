@@ -16,10 +16,10 @@ redirect_from:
 <div class="archive__column_text"><small>
 <b>STaRFlow: A SpatioTemporal Recurrent Cell for Lightweight Multi-Frame Optical Flow Estimation</b><br/>in Arxiv, 2020<br/><i>P.Godet, A. Boulch, A. Plyer and G. Le Besnerais</i><br/><a href="https://arxiv.org/abs/2007.05481">Arxiv</a>&nbsp;&nbsp;</small></div></div>
 
-<div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2020-lightconvpoint.png"> 
+<div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2020-fkaconv.png"> 
 
 <div class="archive__column_text"><small>
-<b>LightConvPoint: convolution for points</b><br/>in Arxiv, 2020<br/><i>A. Boulch, G. Puy and R. Marlet</i><br/><a href="https://arxiv.org/abs/2004.04462">Arxiv</a>&nbsp;&nbsp;<a href="https://github.com/valeoai/LightConvPoint">Code</a>&nbsp;&nbsp;</small></div></div>
+<b>FKAConv: Feature-Kernel Alignment for Point Cloud Convolution</b><br/>in Arxiv, 2020<br/><i>A. Boulch, G. Puy and R. Marlet</i><br/><a href="https://arxiv.org/abs/2004.04462">Arxiv</a>&nbsp;&nbsp;<a href="https://github.com/valeoai/LightConvPoint">Code</a>&nbsp;&nbsp;</small></div></div>
 
 <div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2019-3DOR-conv.png"> 
 
