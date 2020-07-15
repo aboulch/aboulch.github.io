@@ -172,7 +172,12 @@ redirect_from:
 <b>Statistical Criteria for Shape Fusion and Selection</b><br/>in International Conference on Pattern Recognition, ICPR, 2014<br/><i>A. Boulch, R. Marlet</i><br/><a href="https://dl.acm.org/doi/abs/10.1109/ICPR.2014.171">Paper</a>&nbsp;&nbsp;<a href="https://aboulch.github.io/files/2014_icpr_boulch.pdf">PDF</a>&nbsp;&nbsp;<a href="https://github.com/aboulch/primitive_merging">Code</a>&nbsp;&nbsp;</small></div></div>
 
 ## Arxiv
-<div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2020-lightconvpoint.png "> 
+<div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2020-starflow.png"> 
+
+<div class="archive__column_text"><small>
+<b>STaRFlow: A SpatioTemporal Recurrent Cell for Lightweight Multi-Frame Optical Flow Estimation</b><br/>in Arxiv, 2020<br/><i>P.Godet, A. Boulch, A. Plyer and G. Le Besnerais</i><br/><a href="https://arxiv.org/abs/2007.05481">Arxiv</a>&nbsp;&nbsp;</small></div></div>
+
+<div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2020-lightconvpoint.png"> 
 
 <div class="archive__column_text"><small>
 <b>LightConvPoint: convolution for points</b><br/>in Arxiv, 2020<br/><i>A. Boulch, G. Puy and R. Marlet</i><br/><a href="https://arxiv.org/abs/2004.04462">Arxiv</a>&nbsp;&nbsp;<a href="https://github.com/valeoai/LightConvPoint">Code</a>&nbsp;&nbsp;</small></div></div>
