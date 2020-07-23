@@ -33,7 +33,7 @@ redirect_from:
 <div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2017-CAG-snapnet.png "> 
 
 <div class="archive__column_text"><small>
-<b>SnapNet: Unstructured point cloud semantic labeling using deep segmentation networks</b><br/>in Computer and Graphics, 2018<br/>also in Eurographics Workshop 3D Object Retrieval 2017<br/><i>A. Boulch, J. Guerry, B. Le Saux and N. Audebert</i><br/><a href="https://www.sciencedirect.com/science/article/pii/S0097849317301942">Paper</a>&nbsp;&nbsp;<a href="https://aboulch.github.io/files/2017_cag_snapnet.pdf">PDF</a>&nbsp;&nbsp;<a href="https://github.com/aboulch/snapnet">Code</a>&nbsp;&nbsp;</small></div></div>
+<b>SnapNet: Unstructured point cloud semantic labeling using deep segmentation networks</b><br/>in Computer and Graphics, 2018<br/>also in Eurographics Workshop 3D Object Retrieval 2017<br/><i>A. Boulch, J. Guerry, B. Le Saux and N. Audebert</i><br/><a href="https://www.sciencedirect.com/science/article/pii/S0097849317301942">Paper</a>&nbsp;&nbsp;<a href="https://aboulch.github.io/files/2017_cag_snapNet.pdf">PDF</a>&nbsp;&nbsp;<a href="https://github.com/aboulch/snapnet">Code</a>&nbsp;&nbsp;</small></div></div>
 
 <div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2016-JSTARS-eo.png"> 
 
@@ -61,6 +61,11 @@ redirect_from:
 <b>Fast Normal Estimation for Point Clouds with Sharp Features using a Robust Randomized Hough Transform</b><br/>in Computer Graphics Forum, Wiley, 2012<br/>also in Symposium on Geometry Processing 2012 (SGP 2012)<br/><i>A. Boulch and R. Marlet</i><br/><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03181.x">Paper</a>&nbsp;&nbsp;<a href="https://aboulch.github.io/files/2012_sgp_boulch.pdf">PDF</a>&nbsp;&nbsp;<a href="https://aboulch.github.io/files/talks/2012_sgp_boulch_slides.pdf">Slides</a>&nbsp;&nbsp;<a href="https://github.com/aboulch/normals_Hough">Code</a>&nbsp;&nbsp;</small></div></div>
 
 ## Conference
+<div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2020-ECCV-FLOT.png"> 
+
+<div class="archive__column_text"><small>
+<b>FLOT: Scene Flow on Point Clouds Guided by Optimal Transport</b><br/>in European Conference on Computer Vision (ECCV), 2020<br/><i>G. Puy, A. Boulch and R. Marlet</i><br/><a href="https://arxiv.org/abs/2007.11142">Arxiv</a>&nbsp;&nbsp;</small></div></div>
+
 <div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2019-JURSE-semi.png"> 
 
 <div class="archive__column_text"><small>
