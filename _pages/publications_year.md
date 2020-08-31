@@ -11,6 +11,11 @@ redirect_from:
 
 ### 2020
 
+<div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2020-maclean.png"> 
+
+<div class="archive__column_text"><small>
+<b>On Auxiliary Losses for Semi-Supervised Semantic Segmentation</b><br/>in ECML-PKDD Workshop – MACLEAN – Machine Learning for Earth Observation, 2020<br/><i>J. Castillo-Navarro, B. Le Saux, A. Boulch, and S. Lefèvre</i><br/></small></div></div>
+
 <div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2020-ECCV-FLOT.png"> 
 
 <div class="archive__column_text"><small>
@@ -36,7 +41,7 @@ redirect_from:
 <div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2019-JURSE-semi.png"> 
 
 <div class="archive__column_text"><small>
-<b>What data do we need for semantic segmentation in Earth-observation?</b><br/>in IEEE Joint Urban Remote Sensing Event (JURSE’2019), 2019<br/><i>J. Castillo Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre</i><br/><a href="https://ieeexplore.ieee.org/document/8809071">Paper</a>&nbsp;&nbsp;<a href="https://aboulch.github.io/files/2019_jurse_data.pdf">PDF</a>&nbsp;&nbsp;</small></div></div>
+<b>What data do we need for semantic segmentation in Earth-observation?</b><br/>in IEEE Joint Urban Remote Sensing Event (JURSE’2019), 2019<br/><i>J. Castillo-Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre</i><br/><a href="https://ieeexplore.ieee.org/document/8809071">Paper</a>&nbsp;&nbsp;<a href="https://aboulch.github.io/files/2019_jurse_data.pdf">PDF</a>&nbsp;&nbsp;</small></div></div>
 
 <div class="archive__row"><img align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px" src="/images/publications/2019-IGARSS-eo.png "> 
 
