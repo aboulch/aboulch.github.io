@@ -15,41 +15,17 @@
   }
 
   a {
-    /*color: inherit;*/
-    color: mix(rgb(98, 140, 255), $gray, 25%);
-    text-decoration: none;
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: underline;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
   }
 }
-
-.archive__row::after {
-  content: "";
-  clear: both;
-  display: table;
-  margin-bottom: 0.25em;
-}
-
-.archive__column_image {
-  float: left;
-  padding: 5px;
-  max-width: 20%;
-}
-
-.archive__column_text {
-  float: left;
-  padding: 5px;
-  max-width: 80%;
-}
-
-.archive__bibtex {
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  background-color: #5f5f5f;
-  color: white;
-  font-family: monospace;
-}
-
 
 .archive__subtitle {
   margin: 1.414em 0 0;
@@ -65,18 +41,8 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  margin-top: 0em;
   font-family: $sans-serif-narrow;
 
-  a + a {
-    opacity: 0.5;
-  }
-}
-.archive__item-title2 {
-  margin-bottom: 0.25em;
-  margin-top: 0em;
-  font-family: $sans-serif-narrow;
-  color: #7184a3;
   a + a {
     opacity: 0.5;
   }
@@ -139,7 +105,6 @@
   .page__meta {
     margin: 0 0 4px;
   }
-  line-height: 1em;
 }
 
 

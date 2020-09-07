@@ -12,113 +12,82 @@
   {% assign title = post.title %}
 {% endif %}
 
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <table style="border:0px; width:auto">
+        <tr>
+          <th style="border:0px">
+            {% if post.teaser %}
+              <img src=
+                {% if post.teaser contains "://" %}
+                  "{{ post.teaser }}"
+                {% else %}
+                  "{{ post.teaser | prepend: "/images/publications/" | prepend: base_path }}"
+                {% endif %}
+                alt="" align="left" style="padding-right: 10px; padding-top: 5px; padding-bottom: 5px; width: 96px; height:96px;">
+            {% endif %}
+          </th>
+          <th style="border:0px; font-weight:normal">
+            <b>{{title}}</b><br/>
+    
+            {% if post.author %}
+              {{ post.author }}<br/>
+            {% endif %}
 
+            {% if post.venue %}
+              Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}<br/>
+            {% endif %}
 
+            {% if post.venue2 %}
+              Also in <i>{{ post.venue2 }}</i><br/>
+            {% endif %}
 
+            {% if post.venue3 %}
+              Also in <i>{{ post.venue3 }}</i><br/>
+            {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" >
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            {% if post.note %}
+              <i>{{ post.note }}</i><br/>
+            {% endif %}
 
-    <div class="archive__row">
+            {% if post.noteimportant %}
+              <span style="color: #ff0000"><i>{{ post.noteimportant }}</i></span><br/>
+            {% endif %}
+    
+            {% if post.paperurl %}
+              <a href=" {{ post.paperurl }} "> Paper </a>&nbsp;&nbsp;
+            {% endif %}
 
-      {% if post.teaser %}
-          <div class="archive__column_image">
-          <img src="{{ post.teaser | prepend: "/images/" }}" width="96px">
-          </div>
-      {% endif %}
+            {% if post.arxivurl %}
+              <a href=" {{ post.arxivurl }} "> Arxiv </a>&nbsp;&nbsp;
+            {% endif %}
 
-      <div class="archive__column_text">
+            {% if post.halurl %}
+              <a href=" {{ post.halurl }} "> HAL </a>&nbsp;&nbsp;
+            {% endif %}
 
-        <h4 class="archive__item-title2" itemprop="headline">
-          <!--{% if post.link %}
-            <a href="{{ post.link }}" id="{{ post.title }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-          {% else %}
-            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-          {% endif %}-->
-          {{ title }}
-        </h4>
-        
-        <small>
-        in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-        <br/>
-        <i>{{ post.author }}</i>
+            {% if post.codeurl %}
+              <a href=" {{ post.codeurl }} "> Code </a>&nbsp;&nbsp;
+            {% endif %}
 
-        {% if post.note %}
-          <br/>
-          <i>{{ post.note }}</i>
-        {% endif %}
+            {% if post.posturl %}
+              <a href=" {{ post.blogurl }} "> Blog </a>&nbsp;&nbsp;
+            {% endif %}
 
-        </small>
-          
-        <br/>
+            {% if post.mediumurl %}
+              <a href=" {{ post.posturl }} "> Medium </a>&nbsp;&nbsp;
+            {% endif %}
 
-      {% if post.paperurl%}
-        <small>
-          <b>
-            <a href="{{ pos.paperurl }}"> [Publisher version]</a>
-          </b>
-        </small>
-      {% endif %}
+            {% if post.slidesurl %}
+              <a href=" {{ post.slidesurl }} "> Slides </a>&nbsp;&nbsp;
+            {% endif %}
 
-      {% if post.pdf %}
-        <small>
-          <b>
-            <a href="{{ post.pdf }}" > [PDF] </a>
-          </b>
-        </small>
-      {% endif %}
+            {% if post.pdfurl %}
+              <a href=" {{ post.pdfurl }} "> PDF </a>&nbsp;&nbsp;
+            {% endif %}
 
-      {% if post.slides %}
-        <small>
-            <b>
-        <a href="{{ post.slides }}" > [Slides] </a>
-      </b>
-        </small>
-      {% endif %}
-
-      {% if post.poster %}
-        <small>
-            <b>
-        <a href="{{ post.poster }}" > [Poster] </a>
-      </b>
-        </small>
-      {% endif %}
-
-      {% if post.arxiv %}
-        <small>
-            <b>
-        <a href="{{ post.arxiv }}" > [Arxiv] </a>
-      </b>
-        </small>
-      {% endif %}
-
-      {% if post.hal %}
-        <small>
-            <b>
-        <a href="{{ post.hal }}" > [HAL] </a>
-      </b>
-        </small>
-      {% endif %}
-      
-      {% if post.code %}
-        <small>
-            <b>
-        <a href="{{ post.code }}" > [Code] </a>
-      </b>
-        </small>
-      {% endif %}
-        
-      {% if post.bibtex %}
-        <small>
-          <b>
-        <a href="#{{ post.title }}" onclick="toggle_visibility('{{ post.title }}__bibtex');"> [Bibtex] </a>
-      </b>
-        <div id="{{ post.title }}__bibtex" style="display: none" class="archive__bibtex"> {{ post.bibtex }}</div>
-        </small>
-      {% endif %}
-
-    </div>
-    </div>
-
+          </th>
+        </tr>
+      </table>
   </article>
 </div>

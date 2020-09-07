@@ -10,14 +10,16 @@ locale                   : "en-US"
 title                    : "<img src='/images/home.png' style='width:166px;height:32px;'>"
 title_separator          : "-"
 name                     : &name "Alexandre Boulch"
-description              : &description "Researcher at Valeo.ai"
-url                      : https://www.boulch.eu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Researcher at valeo.ai"
+url                      : https://www.boulch.eu/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aboulch/aboulch.github.io"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -83,8 +85,10 @@ author:
   bio              : "Researcher at Valeo.ai"
   location         : "Paris, France"
   employer         :
+  pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=iJ3qFGAAAAAJ&hl=en"
   email            :
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,6 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-4196-9665"
@@ -124,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -175,6 +181,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -215,6 +227,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -230,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -280,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-github: [metadata]

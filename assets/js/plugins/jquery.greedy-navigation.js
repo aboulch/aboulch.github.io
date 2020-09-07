@@ -1,7 +1,7 @@
 /*
 * Greedy Navigation
 *
-* https://codepen.io/lukejacksonn/pen/PwmwWV
+* http://codepen.io/lukejacksonn/pen/PwmwWV
 *
 */
 
