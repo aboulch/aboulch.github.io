@@ -23,7 +23,7 @@ with Bertrand Le Saux and **Yann Gousseau**.
 At ONERA (DTIS/IVA) and IRISA. <br/>
 with Bertrand Le Saux and **Sébastien Lefèvre**
 
-## Pierre Godet
+## [Pierre Godet](https://pgodet.github.io/)
 *Machine learning for multi-frame motion estimation in videos* <br/>
 At ONERA (DTIS/IVA) <br/>
 with Aurélien Plyer and **Guy Le Besnerais**
