@@ -11,7 +11,7 @@ venue3:
 paperurl: 
 arxivurl: "https://arxiv.org/abs/2007.05481"
 halurl: 
-codeurl: 
+codeurl: "https://github.com/pgodet/star_flow"
 mediumurl: 
 blogurl: 
 pdfurl: 

@@ -3,9 +3,9 @@ title: "FKAConv: Feature-Kernel Alignment for Point Cloud Convolution"
 author: "A. Boulch, G. Puy and R. Marlet"
 collection: publications
 permalink:
-date: 2020-01-01
-type: misc
-venue: 
+date: 2020-12-01
+type: conference
+venue: "15th Asian Conference on Computer Vision (ACCV 2020)"
 venue2: 
 venue3:
 paperurl: 
