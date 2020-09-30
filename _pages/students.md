@@ -18,7 +18,7 @@ with **Renaud Marlet**
 At ONERA (DTIS/IVA) and Télécom Paris (LTCI/IMAGES). <br/>
 with Bertrand Le Saux and **Yann Gousseau**.
 
-## Javiera Castillo Navarro
+## [Javiera Castillo Navarro](https://javicastillo.ml/)
 *Semi-supervised semantic segmentation of large scale remote sensing data* <br/>
 At ONERA (DTIS/IVA) and IRISA. <br/>
 with Bertrand Le Saux and **Sébastien Lefèvre**
