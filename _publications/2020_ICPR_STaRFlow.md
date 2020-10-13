@@ -4,8 +4,8 @@ author: "P.Godet, A. Boulch, A. Plyer and G. Le Besnerais"
 collection: publications
 permalink:
 date: 2020-01-01
-type: misc
-venue: 
+type: conference
+venue: "25th international conference on pattern recognition (ICPR 2020)"
 venue2: 
 venue3:
 paperurl: 
