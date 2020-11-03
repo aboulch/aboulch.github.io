@@ -19,4 +19,5 @@ slidesurl:
 teaser: "2020-maclean.png"
 note:
 noteimportant: 
+videourl: "https://www.youtube.com/watch?v=PjRpFidKxp4&feature=youtu.be"
 ---
