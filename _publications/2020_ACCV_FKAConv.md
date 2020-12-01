@@ -8,7 +8,7 @@ type: conference
 venue: "15th Asian Conference on Computer Vision (ACCV 2020)"
 venue2: 
 venue3:
-paperurl: 
+paperurl: "https://openaccess.thecvf.com/content/ACCV2020/html/Boulch_FKAConv_Feature-Kernel_Alignment_for_Point_Cloud_Convolution_ACCV_2020_paper.html"
 arxivurl: "https://arxiv.org/abs/2004.04462"
 halurl: 
 codeurl: "https://github.com/valeoai/LightConvPoint"
