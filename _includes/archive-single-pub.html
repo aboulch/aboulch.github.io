@@ -28,7 +28,7 @@
             {% endif %}
           </th>
           <th style="border:0px; font-weight:normal">
-            <b>{{title}}</b><br/>
+            <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b><br/>
     
             {% if post.author %}
               {{ post.author }}<br/>
