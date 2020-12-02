@@ -16,14 +16,10 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2019-3DOR-conv.png"
+teaser: "/files/2020_cag_convpoint/2020_cag_convpoint_thumbnail.png"
 note:
 noteimportant: 
----								
-
-### Authors
-
-Alexandre Boulch
+---	
 
 <p style="text-align:center">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224">
@@ -36,6 +32,11 @@ Alexandre Boulch
         <img src="/images/logo_github.png" width="64" class="center"/>
     </a>
 </p>
+
+### Authors
+
+Alexandre Boulch
+
 
 ### Abstract
 

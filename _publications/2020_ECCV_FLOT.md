@@ -16,20 +16,20 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2020-ECCV-FLOT.png"
+teaser: "/files/2020_eccv_flot/2020_eccv_flot_thumbnail.png"
 note:
 noteimportant: 
 ---
-
-### Authors
-
-Gilles Puy, Alexandre Boulch and Renaud Marlet
 
 <p style="text-align:center">
     <a href="https://link.springer.com/chapter/10.1007/978-3-030-58604-1_32"><img src="/images/logo_paper.png" width="64" class="center" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://arxiv.org/abs/2007.11142"><img src="/images/logo_arxiv.png" width="64" class="center" /></a>
 </p>
 
+
+### Authors
+
+Gilles Puy, Alexandre Boulch and Renaud Marlet
 
 ### Abstract
 

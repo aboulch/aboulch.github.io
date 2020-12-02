@@ -16,20 +16,21 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2020-maclean.png"
+teaser: "/files/2020_ml_semisup/2020_ml_semisup_thumbnail.png"
 note:
 noteimportant: 
 ---
-
-### Authors
-
-Javiera Castillo-Navarro, Bertrand Le Saux, Alexandre Boulch, Nicolas Audebert and Sébastien Lefèvre
 
 <p style="text-align:center">
   <a href="https://arxiv.org/abs/2010.07830">
     <img src="/images/logo_arxiv.png" width="64" class="center" />
   </a>
 </p>
+
+
+### Authors
+
+Javiera Castillo-Navarro, Bertrand Le Saux, Alexandre Boulch, Nicolas Audebert and Sébastien Lefèvre
 
 
 ### Abstract

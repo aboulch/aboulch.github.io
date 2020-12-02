@@ -16,20 +16,20 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2020-starflow.png"
+teaser: "files/2020_icpr_starflow/2020_icpr_starflow_thumbnail.png"
 note:
 noteimportant: 
 ---
-
-
-### Authors
-Pierre Godet, Alexandre Boulch, Aurélien Plyer and Guy Le Besnerais
-
 
 <p style="text-align:center">
   <a href="https://arxiv.org/abs/2007.05481"><img src="/images/logo_arxiv.png" width="64" class="center" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pgodet/star_flow"><img src="/images/logo_github.png" width="64" class="center"/></a>
 </p>
+
+### Authors
+Pierre Godet, Alexandre Boulch, Aurélien Plyer and Guy Le Besnerais
+
+
 
 ### Abstract
 
