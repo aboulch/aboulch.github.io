@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "files/2020_icpr_starflow/2020_icpr_starflow_thumbnail.png"
+teaser: "/files/2020_icpr_starflow/2020_icpr_starflow_thumbnail.png"
 note:
 noteimportant: 
 ---

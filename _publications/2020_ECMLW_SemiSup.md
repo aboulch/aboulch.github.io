@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "files/2020_ecmlw_maclean_semisup/2020_ecmlw_maclean_semisup_thumbnail.png"
+teaser: "/files/2020_ecmlw_maclean_semisup/2020_ecmlw_maclean_semisup_thumbnail.png"
 note:
 noteimportant: 
 videourl: "https://www.youtube.com/watch?v=PjRpFidKxp4&feature=youtu.be"
