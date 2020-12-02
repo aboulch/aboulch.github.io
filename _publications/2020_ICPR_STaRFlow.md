@@ -26,9 +26,9 @@ noteimportant:
 Pierre Godet, Alexandre Boulch, Aurélien Plyer and Guy Le Besnerais
 
 
-<p float="center">
-  <a href="https://arxiv.org/abs/2007.05481"><img src="/images/logo_arxiv.png" width="64" /></a>
-  <a href="https://github.com/pgodet/star_flow"><img src="/images/logo_github.png" width="64" /></a>
+<p float="left">
+  <a href="https://arxiv.org/abs/2007.05481"><img src="/images/logo_arxiv.png" width="64" class="center" /></a>
+  <a href="https://github.com/pgodet/star_flow"><img src="/images/logo_github.png" width="64" class="center"/></a>
 </p>
 
 
