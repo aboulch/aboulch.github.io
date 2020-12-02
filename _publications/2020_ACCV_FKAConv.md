@@ -28,10 +28,10 @@ Alexandre Boulch, Gilles Puy and Renaud Marlet
 <p style="text-align:center">
   <a href="https://openaccess.thecvf.com/content/ACCV2020/html/Boulch_FKAConv_Feature-Kernel_Alignment_for_Point_Cloud_Convolution_ACCV_2020_paper.html">
   <img src="/images/logo_paper.png" width="64" class="center" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://arxiv.org/abs/2004.04462">
     <img src="/images/logo_arxiv.png" width="64" class="center" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/valeoai/FKAConv">
     <img src="/images/logo_github.png" width="64" class="center"/>
   </a>
