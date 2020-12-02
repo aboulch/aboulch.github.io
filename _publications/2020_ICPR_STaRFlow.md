@@ -22,14 +22,19 @@ noteimportant:
 ---
 
 
+### Authors
+Pierre Godet, Alexandre Boulch, Aurélien Plyer and Guy Le Besnerais
+
+
+<p float="center">
+  <a href="https://arxiv.org/abs/2007.05481"><img src="/images/logo_arxiv.png" width="64" /></a>
+  <a href="https://github.com/pgodet/star_flow"><img src="/images/logo_github.png" width="64" /></a>
+</p>
+
+
 ### Abstract
 
 We present a new lightweight CNN-based algorithm for multi-frame optical flow estimation. Our solution introduces a double recurrence over spatial scale and time through repeated use of a generic "STaR" (SpatioTemporal Recurrent) cell. It includes (i) a temporal recurrence based on conveying learned features rather than optical flow estimates; (ii) an occlusion detection process which is coupled with optical flow estimation and therefore uses a very limited number of extra parameters. The resulting STaRFlow algorithm gives state-of-the-art performances on MPI Sintel and Kitti2015 and involves significantly less parameters than all other methods with comparable results.
-
-### Ressources
-
-[![Arxiv](/images/logo_arxiv.png){: .align-center}](https://arxiv.org/abs/2007.05481)
-[![Code](/images/logo_github.png){: .align-center}](https://github.com/pgodet/star_flow)
 
 
 ### Citation
