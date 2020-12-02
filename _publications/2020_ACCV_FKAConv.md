@@ -21,7 +21,8 @@ note:
 noteimportant: 
 ---
 
-
+### Authors
+Alexandre Boulch, Gilles Puy and Renaud Marlet
 
 ### Abstract
 
