@@ -16,14 +16,10 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2020-fkaconv.png"
+teaser: "//files/2020_accv_fkaconv/2020_accv_fkaconv_thumbnail.png"
 note:
 noteimportant: 
 ---
-
-### Authors
-Alexandre Boulch, Gilles Puy and Renaud Marlet
-
 
 <p style="text-align:center">
   <a href="https://openaccess.thecvf.com/content/ACCV2020/html/Boulch_FKAConv_Feature-Kernel_Alignment_for_Point_Cloud_Convolution_ACCV_2020_paper.html">
@@ -34,8 +30,15 @@ Alexandre Boulch, Gilles Puy and Renaud Marlet
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/valeoai/FKAConv">
     <img src="/images/logo_github.png" width="64" class="center"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="/files/2020_accv_fkaconv/2020_accv_fkaconv_slides.pdf">
+    <img src="/images/logo_slides.png" width="64" class="center"/>
   </a>
 </p>
+
+
+### Authors
+Alexandre Boulch, Gilles Puy and Renaud Marlet
 
 
 ### Abstract
