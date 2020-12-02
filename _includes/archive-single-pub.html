@@ -19,7 +19,7 @@
           <th style="border:0px">
             {% if post.teaser %}
               <img src=
-                {% if post.teaser contains "://" %}
+                {% if post.teaser contains "/files/" %}
                   "{{ post.teaser }}"
                 {% else %}
                   "{{ post.teaser | prepend: "/images/publications/" | prepend: base_path }}"

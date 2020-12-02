@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "//files/2020_accv_fkaconv/2020_accv_fkaconv_thumbnail.png"
+teaser: "/files/2020_accv_fkaconv/2020_accv_fkaconv_thumbnail.png"
 note:
 noteimportant: 
 ---
