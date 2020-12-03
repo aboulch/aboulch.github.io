@@ -8,7 +8,7 @@ type: conference
 venue: "European Conference on Computer Vision (ECCV)"
 venue2: 
 venue3:
-paperurl: 
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-030-58604-1_32"
 arxivurl: "https://arxiv.org/abs/2007.11142"
 halurl: 
 codeurl: 
