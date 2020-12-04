@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w13/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.pdf'
 slidesurl: 
-teaser: '2017-ICCV-3DRMS-snapnetR.png'
+teaser: '/files/2017-ICCV-3DRMS-snapnetR.png'
 note:
 noteimportant: 
 ---

@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2018_igarss_denoising-sentinel.pdf'
 slidesurl: 
-teaser: '2018-IGARSS-denoising.png'
+teaser: '/files/2018-IGARSS-denoising.png'
 note:
 noteimportant: 
 ---									

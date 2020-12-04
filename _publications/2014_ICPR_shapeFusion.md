@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2014_icpr_boulch.pdf'
 slidesurl: 
-teaser: '2014-ICPR-primitives.png'
+teaser: '/files/2014-ICPR-primitives.png'
 note:
 noteimportant:
 ---

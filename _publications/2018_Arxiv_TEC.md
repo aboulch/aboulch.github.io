@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2017-ICONIP-space.png"
+teaser: "/files/2017-ICONIP-space.png"
 note:
 noteimportant: 
 ---

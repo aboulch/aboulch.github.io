@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: '2018-ICIP-change.png'
+teaser: '/files/2018-ICIP-change.png'
 note:
 noteimportant: 
 ---

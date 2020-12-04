@@ -2,7 +2,7 @@
 title: "Guided Anisotropic Diffusion and Iterative Learning for Weakly Supervised Change Detection"
 author: "R. C. Daudt, B. Le Saux, A. Boulch, Y. Gousseau"
 collection: publications
-permalink:
+permalink: 2019_cvprw_change_detection
 date: 2019-01-01
 type: conference
 venue: "IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR) workshop EarthVision 19"
@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2019-CVPR-EarthVision-change.png"
+teaser: "/files/2019_cvprw_change_detection/2019_cvprw_change_detection_thumbnail.png"
 note:
 noteimportant: "Best Student Paper Award: 1st place"
 ---

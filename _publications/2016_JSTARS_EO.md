@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2015_DFC_classif_benchmark.pdf'
 slidesurl: 
-teaser: '2016-JSTARS-eo.png'
+teaser: '/files/2016-JSTARS-eo.png'
 note:
 noteimportant: 'Awarded paper of the 2015 IEEE GRSS Data Fusion Contest'
 ---

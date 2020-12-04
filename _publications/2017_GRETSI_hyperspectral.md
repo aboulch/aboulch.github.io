@@ -17,7 +17,7 @@ blogurl:
 pdfurl: 'https://aboulch.github.io/files/2017_gretsi-autoencodeurs.pdf'
 slidesurl: 
 posterurl: 'https://aboulch.github.io/files/posters/2017_gretsi-autoencodeurs_poster.pdf'
-teaser: '2017-GRETSI-ae.png'
+teaser: '/files/2017-GRETSI-ae.png'
 note:
 noteimportant: 
 ---

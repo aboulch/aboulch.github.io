@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: '2015-GRETSI-boxes.png'
+teaser: '/files/2015-GRETSI-boxes.png'
 note:
 noteimportant:
 ---

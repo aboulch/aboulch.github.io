@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: '2018-IGARSS-change.png'
+teaser: '/files/2018-IGARSS-change.png'
 note:
 noteimportant: 
 ---

@@ -21,15 +21,6 @@ note:
 noteimportant: 
 ---
 
-<p style="text-align:center">
-  <a href="https://arxiv.org/abs/2007.05481"><img src="/images/logo_arxiv.png" width="64" class="center" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/pgodet/star_flow"><img src="/images/logo_github.png" width="64" class="center"/></a>
-</p>
-
-### Authors
-Pierre Godet, Alexandre Boulch, Aurélien Plyer and Guy Le Besnerais
-
-
 
 ### Abstract
 

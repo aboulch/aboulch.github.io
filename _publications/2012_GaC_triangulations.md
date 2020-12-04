@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: '2012-GaC-triangulation.png'
+teaser: '/files/2012-GaC-triangulation.png'
 note:
 noteimportant:
 ---

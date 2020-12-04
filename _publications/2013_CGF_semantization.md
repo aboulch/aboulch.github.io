@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2013_sgp_boulch.pdf'
 slidesurl: 
-teaser: '2013-CGF-grammars.png'
+teaser: '/files/2013-CGF-grammars.png'
 note:
 noteimportant:
 ---

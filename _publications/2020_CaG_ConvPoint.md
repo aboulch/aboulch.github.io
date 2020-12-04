@@ -6,7 +6,7 @@ permalink: 2020_cag_convpoint
 date: 2020-01-01
 type: journal
 venue: "Computers & Graphics"
-venue2: 
+venue2: "Eurographics Workshop 3D Object Retrieval (3DOR) 2019"
 venue3:
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224"
 arxivurl: "https://arxiv.org/abs/1904.02375"
@@ -15,27 +15,11 @@ codeurl: "https://github.com/aboulch/ConvPoint"
 mediumurl: 
 blogurl: 
 pdfurl: 
-slidesurl: 
+slidesurl: "https://aboulch.github.io/files/talks/2019_3dor_conv_slides.pdf"
 teaser: "/files/2020_cag_convpoint/2020_cag_convpoint_thumbnail.png"
 note:
 noteimportant: 
 ---	
-
-<p style="text-align:center">
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224">
-        <img src="/images/logo_paper.png" width="64" class="center" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://arxiv.org/abs/1904.02375">
-        <img src="/images/logo_arxiv.png" width="64" class="center" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/aboulch/ConvPoint">
-        <img src="/images/logo_github.png" width="64" class="center"/>
-    </a>
-</p>
-
-### Authors
-
-Alexandre Boulch
 
 
 ### Abstract

@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2017_cag_snapNet.pdf'
 slidesurl: 
-teaser: '2017-CAG-snapnet.png'
+teaser: '/files/2017-CAG-snapnet.png'
 note:
 noteimportant: 
 ---									 

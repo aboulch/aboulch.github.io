@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2018-PRL-sharesnet.png"
+teaser: "/files/2018-PRL-sharesnet.png"
 note:
 noteimportant: 
 ---									

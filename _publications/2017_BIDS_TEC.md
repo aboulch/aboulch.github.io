@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2017_bids_esa_forecasting.pdf'
 slidesurl: 'https://aboulch.github.io/files/talks/2017_bids_esa_forecasting_slides.pdf'
-teaser: '2017-ICONIP-space.png'
+teaser: '/files/2017-ICONIP-space.png'
 note:
 noteimportant: 
 ---								

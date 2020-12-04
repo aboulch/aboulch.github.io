@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2019-RFIAP-distance.png"
+teaser: "/files/2019-RFIAP-distance.png"
 note:
 noteimportant: 
 ---									

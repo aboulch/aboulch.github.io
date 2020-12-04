@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2017_jurse_deep.pdf'
 slidesurl: 
-teaser: '2017-JURSE-deep.png'
+teaser: '/files/2017-JURSE-deep.png'
 note:
 noteimportant: 
 ---									

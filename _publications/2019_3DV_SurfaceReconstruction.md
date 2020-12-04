@@ -2,7 +2,7 @@
 title: "Surface Reconstruction from 3D Line Segments"
 author: "P.-A. Langlois, A. Boulch, R. Marlet"
 collection: publications
-permalink:
+permalink: 2019_3dv_surface_recons
 date: 2019-01-01
 type: conference
 venue: "International Conference on 3D vision (3DV 2019)"
@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: "2019-3DV-line.png"
+teaser: "/files/2019_3dv_surface_recons/2019_3dv_surface_recons_thumbnail.png"
 note:
 noteimportant: 
 ---

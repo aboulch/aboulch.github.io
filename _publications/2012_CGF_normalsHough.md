@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2012_sgp_boulch.pdf'
 slidesurl: 'https://aboulch.github.io/files/talks/2012_sgp_boulch_slides.pdf'
-teaser: '2012-CGF-normals.png'
+teaser: '/files/2012-CGF-normals.png'
 note:
 noteimportant:
 ---

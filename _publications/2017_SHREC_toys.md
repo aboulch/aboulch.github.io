@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2017_3dor-shrec-toys.pdf'
 slidesurl: 
-teaser: '2017-3DOR-SHREC-toys.png'
+teaser: '/files/2017-3DOR-SHREC-toys.png'
 note:
 noteimportant: 
 ---

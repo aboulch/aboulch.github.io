@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2016_ODAS_DeepLearn4RemoteSensing.pdf'
 slidesurl: 
-teaser: '2016-ODAS-DL4RS.png'
+teaser: '/files/2016-ODAS-DL4RS.png'
 note:
 noteimportant: 
 ---

@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2017_iconip_spatial_forecasting.pdf'
 slidesurl: 
-teaser: '2017-ICONIP-space.png'
+teaser: '/files/2017-ICONIP-space.png'
 note:
 noteimportant: 'Best paper award finalist at ICONIP 2017'
 ---									

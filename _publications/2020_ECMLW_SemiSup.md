@@ -22,15 +22,6 @@ noteimportant:
 videourl: "https://www.youtube.com/watch?v=PjRpFidKxp4&feature=youtu.be"
 ---
 
-<p style="text-align:center">
-  <a href="https://www.youtube.com/watch?v=PjRpFidKxp4&feature=youtu.be"><img src="/images/logo_video.png" width="64" class="center"/></a>
-</p>
-
-
-### Authors
-
-Javiera Castillo-Navarro, Bertrand Le Saux, Alexandre Boulch, and Sébastien Lefèvre
-
 
 ### Abstract
 

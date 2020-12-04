@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 'https://aboulch.github.io/files/2017_bids_esa_shelf-dl.pdf'
 slidesurl: 
-teaser: '2017-BIDS-shelf.png'
+teaser: '/files/2017-BIDS-shelf.png'
 note:
 noteimportant: 
 ---
