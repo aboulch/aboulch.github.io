@@ -8,13 +8,13 @@ type: conference
 venue: "ECML-PKDD Workshop – MACLEAN – Machine Learning for Earth Observation"
 venue2: 
 venue3:
-paperurl: 
+paperurl: "http://ceur-ws.org/Vol-2766/"
 arxivurl:
 halurl: 
 codeurl: 
 mediumurl: 
 blogurl: 
-pdfurl: 
+pdfurl: "http://ceur-ws.org/Vol-2766/paper3.pdf"
 slidesurl: 
 teaser: "/files/2020_ecmlw_maclean_semisup/2020_ecmlw_maclean_semisup_thumbnail.png"
 note:
