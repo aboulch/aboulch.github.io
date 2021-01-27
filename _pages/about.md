@@ -13,8 +13,6 @@ Researcher at [Valeo.ai](https://ptrckprz.github.io/valeoai/)
 
 ## Positions
 
-[An internship position on self-supervision for 3D point clouds](/files/internships/2021_valeoai_Self-supervised_learning_for_3D_point_clouds.pdf) is open, together with people I am working with at Valeo.ai. Applicants shall be finishing their Masters of Science (last year) for the period spring/summer 2021, with a strong background in computer vision, machine (deep) learning and, ideally, 3D geometry processing.
-
 ## Area of interest
 
 ![Machine Learning](/images/machine_learning.png){: .align-center}

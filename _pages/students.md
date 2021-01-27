@@ -5,7 +5,6 @@ permalink: /students/
 author_profile: true
 ---
 
-
 # PhD Students
 
 ## [Pierre-Alain Langlois](http://imagine.enpc.fr/~langloip/index.html?page=CV)
@@ -13,22 +12,29 @@ author_profile: true
 At ENPC (Imagine team). <br/>
 with **Renaud Marlet**
 
-## [Rodrigo Caye Daudt](https://rcdaudt.github.io/)
-*Deep learning for remote sensing multi-temporal image analysis*. <br/>
-At ONERA (DTIS/IVA) and Télécom Paris (LTCI/IMAGES). <br/>
-with Bertrand Le Saux and **Yann Gousseau**.
-
 ## [Javiera Castillo Navarro](https://javicastillo.ml/)
 *Semi-supervised semantic segmentation of large scale remote sensing data* <br/>
 At ONERA (DTIS/IVA) and IRISA. <br/>
 with Bertrand Le Saux and **Sébastien Lefèvre**
 
+# Interns
+
+# Past PhD students
+
 ## [Pierre Godet](https://pgodet.github.io/)
 *Machine learning for multi-frame motion estimation in videos* <br/>
 At ONERA (DTIS/IVA) <br/>
 with Aurélien Plyer and **Guy Le Besnerais**
+PhD January 2021.
 
-# Interns
+## [Rodrigo Caye Daudt](https://rcdaudt.github.io/)
+*Deep learning for remote sensing multi-temporal image analysis*. <br/>
+At ONERA (DTIS/IVA) and Télécom Paris (LTCI/IMAGES). <br/>
+with Bertrand Le Saux and **Yann Gousseau**.
+PhD November 2020.
+
+
+# Undergrad / MSc. Students
 
 **Anh Quan Cao**: *Scene Flow Estimation from 3D Lidar point cloud using deep learning*, 2020, co-supervised with Gilles Puy and Renaud Marlet
 
