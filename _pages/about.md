@@ -18,7 +18,7 @@ Researcher at [Valeo.ai](https://ptrckprz.github.io/valeoai/)
 ![Machine Learning](/images/machine_learning.png){: .align-center}
 
 **Machine Learning** is a transverse field that aims at extracting information from data in order to make decisions and predictions.
-I currently work to developp new architectures (
+I currently work to develop new architectures (
 <span style="color:blue">
 [ShaResNet](/publications/2018-sharesnet)
 </span>), apply them various application fields from classification to cartography to 3D scene understanding to space wearther prediction.
