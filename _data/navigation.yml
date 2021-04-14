@@ -27,5 +27,8 @@ main:
   - title: "Students"
     url: /students/
     
+  - title: "Talks"
+    url: /talks/
+  
   # - title: "Guide"
   #   url: /markdown/
