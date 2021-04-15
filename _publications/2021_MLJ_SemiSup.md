@@ -8,7 +8,7 @@ type: journal
 venue: "accepted at Machine Learning Journal"
 venue2: 
 venue3:
-paperurl: 
+paperurl: "https://rdcu.be/ciIvN"
 arxivurl: "https://arxiv.org/abs/2010.07830"
 halurl: 
 codeurl: 
