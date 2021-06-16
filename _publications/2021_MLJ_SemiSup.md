@@ -5,10 +5,10 @@ collection: publications
 permalink: 2021_mlj_semisup
 date: 2021-01-01
 type: journal
-venue: "accepted at Machine Learning Journal"
+venue: "Machine Learning Journal"
 venue2: 
 venue3:
-paperurl: "https://rdcu.be/ciIvN"
+paperurl: "https://link.springer.com/article/10.1007/s10994-020-05943-y"
 arxivurl: "https://arxiv.org/abs/2010.07830"
 halurl: 
 codeurl: 
@@ -20,8 +20,6 @@ teaser: "/files/2020_ml_semisup/2020_ml_semisup_thumbnail.png"
 note:
 noteimportant: 
 ---
-
-Accepted but not publisehd yet.
 
 ### Abstract
 
