@@ -16,7 +16,7 @@ mediumurl:
 blogurl: 
 pdfurl: 
 slidesurl: 
-teaser: 
+teaser: "/files/2021_3dv_needrop/2021_3dv_needrop_thumbnail.png"
 note:
 noteimportant: 
 ---

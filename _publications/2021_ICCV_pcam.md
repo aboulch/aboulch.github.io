@@ -14,7 +14,7 @@ halurl:
 codeurl: "https://github.com/valeoai/PCAM"
 mediumurl: 
 blogurl: 
-pdfurl: 
+pdfurl: "/files/2021_iccv_pcam/2021_iccv_pcam_thumbnail.png"
 slidesurl: 
 teaser: 
 note:
