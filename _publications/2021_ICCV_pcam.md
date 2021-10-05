@@ -5,7 +5,7 @@ collection: publications
 permalink: 2021_iccv_pcam
 date: 2021-10-11
 type: conference
-venue: "International Conference on Computer Vision (ICCV 2021)"
+venue: "International Conference on Computer Vision (ICCV)"
 venue2: 
 venue3:
 paperurl:
@@ -14,9 +14,9 @@ halurl:
 codeurl: "https://github.com/valeoai/PCAM"
 mediumurl: 
 blogurl: 
-pdfurl: "/files/2021_iccv_pcam/2021_iccv_pcam_thumbnail.png"
+pdfurl: 
 slidesurl: 
-teaser: 
+teaser: "/files/2021_iccv_pcam/2021_iccv_pcam_thumbnail.png"
 note:
 noteimportant: 
 ---
@@ -30,7 +30,7 @@ Rigid registration of point clouds with partial overlaps is a longstanding probl
 
 ```
 @inproceedings{cao21pcam,
-  title={{PCAM}: {P}roduct of {C}ross-{A}ttention {M}atrices for {R}igid {R}egistration of {P}oint {C}louds},
+  title={ {PCAM}: {P}roduct of {C}ross-{A}ttention {M}atrices for {R}igid {R}egistration of {P}oint {C}louds},
   author={Cao, Anh-Quan and Puy, Gilles and Boulch, Alexandre and Marlet, Renaud},
   booktitle={International Conference on Computer Vision (ICCV)},
   year={2021},
