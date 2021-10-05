@@ -9,7 +9,7 @@ venue: "International Conference on Computer Vision (ICCV)"
 venue2: 
 venue3:
 paperurl:
-arxivurl: 
+arxivurl: "https://arxiv.org/abs/2110.01269"
 halurl: 
 codeurl: "https://github.com/valeoai/PCAM"
 mediumurl: 
