@@ -7,11 +7,6 @@ author_profile: true
 
 # PhD Students
 
-## [Pierre-Alain Langlois](http://imagine.enpc.fr/~langloip/index.html?page=CV)
-*Geometric and semantic approaches for digital building model reconstruction* <br/>
-At ENPC (Imagine team). <br/>
-with **Renaud Marlet**
-
 ## [Javiera Castillo Navarro](https://javicastillo.ml/)
 *Semi-supervised semantic segmentation of large scale remote sensing data* <br/>
 At ONERA (DTIS/IVA) and IRISA. <br/>
@@ -19,7 +14,12 @@ with Bertrand Le Saux and **Sébastien Lefèvre**
 
 # Interns
 
-# Past PhD students
+# Alumni
+
+## [Pierre-Alain Langlois](http://imagine.enpc.fr/~langloip/index.html?page=CV)
+*Geometric and semantic approaches for digital building model reconstruction* <br/>
+At ENPC (Imagine team). <br/>
+with **Renaud Marlet**
 
 ## [Pierre Godet](https://pgodet.github.io/)
 *Machine learning for multi-frame motion estimation in videos* <br/>
