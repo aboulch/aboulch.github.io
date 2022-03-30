@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: 'Deep Learning for Remote Sensing'
 author: 'N. Audebert, A. Boulch, A. Lagrange, B. Le Saux and S. Lefèvre'
-collection: publications
-permalink:
+permalink: /publications/2016_odas_deep
 date: 2016-01-01
 type: conference
 venue: 'Onera-DLR Aerospace Symposium (ODAS)'

@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: 'Statistical Criteria for Shape Fusion and Selection'
 author: 'A. Boulch and R. Marlet'
-collection: publications
-permalink:
+permalink: /publications/2014_icpr_shapes
 date: 2014-01-01
 type: conference
 venue: 'International Conference on Pattern Recognition, ICPR'

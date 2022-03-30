@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "ShaResNet: reducing residual network parameter number by sharing weights"
 author: "A.Boulch"
-collection: publications
-permalink:
+permalink: /publications/2018_prl_sharesnet
 date: 2018-01-01
 type: journal
 venue: "Pattern Recognition LettersP"
@@ -19,6 +19,7 @@ slidesurl:
 teaser: "/files/2018-PRL-sharesnet.png"
 note:
 noteimportant: 
----									
+---	
+							
 
 								

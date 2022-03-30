@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "ConvPoint: Continuous Convolutions for Point Cloud Processing"
 author: "A. Boulch"
-collection: publications
-permalink: 2020_cag_convpoint
+permalink: /publications/2020_cag_convpoint
 date: 2020-01-01
 type: journal
 venue: "Computers & Graphics"
@@ -20,6 +20,7 @@ teaser: "/files/2020_cag_convpoint/2020_cag_convpoint_thumbnail.png"
 note:
 noteimportant: 
 ---	
+
 
 
 ### Abstract

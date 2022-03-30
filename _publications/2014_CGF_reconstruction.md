@@ -1,10 +1,9 @@
 ---
+layout: publication
 title: 'Piecewise‐planar 3D reconstruction with edge and corner regularization'
 author: 'A. Boulch, M. De La Gorce and R. Marlet'
-collection: publications
-permalink:
+permalink: /publications/2014_cgf_reconstruction
 date: 2014-01-01
-type: journal
 venue: 'Computer Graphics Forum, Wiley'
 venue2: 'Symposium on Geometry Processing 2014 (SGP 2014)'
 venue3:

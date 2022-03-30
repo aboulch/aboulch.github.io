@@ -1,10 +1,9 @@
 ---
+layout: publication
 title: "Fast Normal Estimation for Point Clouds with Sharp Features using a Robust Randomized Hough Transform"
 author: "A. Boulch and R. Marlet"
-collection: publications
-permalink:
+permalink: /publications/2012_cgf_normals
 date: 2012-01-01
-type: journal
 venue: 'Computer Graphics Forum, Wiley'
 venue2: 'Symposium on Geometry Processing 2012 (SGP 2012)'
 venue3:
@@ -17,6 +16,7 @@ blogurl:
 pdfurl: 'https://aboulch.github.io/files/2012_sgp_boulch.pdf'
 slidesurl: 'https://aboulch.github.io/files/talks/2012_sgp_boulch_slides.pdf'
 teaser: '/files/2012-CGF-normals.png'
+thumbnail: '/images/publication_thumbnails/2012-CGF-normals.png'
 note:
 noteimportant:
 ---

@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: 'Deep Learning for Robust Normal Estimation in Unstructured Point Clouds'
 author: 'A. Boulch and R. Marlet'
-collection: publications
-permalink:
+permalink: /publications/2016_cgf_normals
 date: 2016-01-01
 type: journal
 venue: 'Computer Graphics Forum, Wiley'

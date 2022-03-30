@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "NeeDrop: Unsupervised Shape Representation from Sparse Point Clouds using Needle Dropping"
 author: "A. Boulch, P.-A. Langlois, Gilles Puy and R. Marlet"
-collection: publications
-permalink: 2021_3dv_needrop
+permalink: /publications/2021_3dv_needrop
 date: 2021-12-01
 type: conference
 venue: "International Conference on 3D vision (3DV)"
@@ -20,6 +20,7 @@ teaser: "/files/2021_3dv_needrop/2021_3dv_needrop_thumbnail.png"
 note:
 noteimportant: 
 ---
+
 
 ### Abstract
 

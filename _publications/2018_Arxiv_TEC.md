@@ -1,11 +1,11 @@
 ---
+layout: publication
 title: "Ionospheric activity prediction using convolutional recurrent neural networks"
 author: "A. Boulch, N. Cherrier, T. Castaings"
-collection: publications
-permalink:
+permalink: /publications/2018_arxiv_tec
 date: 2018-01-01
 type: misc
-venue: 
+venue: Arxiv
 venue2: 
 venue3:
 paperurl: 
@@ -20,6 +20,7 @@ teaser: "/files/2017-ICONIP-space.png"
 note:
 noteimportant: 
 ---
+
 
 
 

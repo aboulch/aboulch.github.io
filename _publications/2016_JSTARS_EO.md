@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: 'Benchmarking classification of earth-observation data: from learning explicit features to convolutional networks'
 author: 'A. Lagrange, B. Le Saux, A. Beaupere, A. Boulch, A. Chan-Hon-Tong, S. Herbin, H. Randrianarivo and M. Ferecatu'
-collection: publications
-permalink:
+permalink: /publications/2016_jstars_eo
 date: 2016-01-01
 type: journal
 venue: 'IEEE JSTARS'

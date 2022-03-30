@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "Learning to Understand Earth Observation Images with Weak and Unreliable Ground Truth"
 author: "R. C. Daudt, A. Chan-Hon-Tong, B. Le Saux, A. Boulch"
-collection: publications
-permalink: 2029_igarss_weak
+permalink: /publications/2029_igarss_weak
 date: 2019-01-01
 type: conference
 venue: "International Geoscience and Remote Sensing Symposium, IGARSS"
@@ -20,6 +20,7 @@ teaser: "/files/2019_igarss_weak/2019_igarss_weak_thumbnail.png"
 note:
 noteimportant: 
 ---
+
 
 ### Abstract
 

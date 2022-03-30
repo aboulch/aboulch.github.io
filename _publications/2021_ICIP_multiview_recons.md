@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "3D Reconstruction by Parameterized Surface Mapping"
 author: "P.-A. Langlois, M. Fisher, O. Wang, V. Kim, A. Boulch, R. Marlet, B. Russell"
-collection: publications
-permalink: 2021_icip_multiview_recons
+permalink: /publications/2021_icip_multiview_recons
 date: 2021-04-01
 type: conference
 venue: "International Conference on Image Processing (ICIP)"
@@ -20,6 +20,7 @@ teaser: "/files/2021_icip_multiview.png"
 note:
 noteimportant: 
 ---
+
 
 ### Abstract
 

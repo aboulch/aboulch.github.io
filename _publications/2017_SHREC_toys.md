@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "SHREC'17 Track: Point-Cloud Shape Retrieval of Non-Rigid Toys"
 author: "F. A. Limberger, W. C. Richard, M. Aono, N. Audebert, A. Boulch, B. Bustos, A. Giachetti, A. Godil, B. Le Saux and B. Li and others"
-collection: publications
-permalink:
+permalink: /publications/2017_shrec_toys
 date: 2017-01-01
 type: conference
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR	conference'

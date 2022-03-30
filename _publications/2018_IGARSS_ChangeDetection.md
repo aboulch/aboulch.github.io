@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks"
 author: "R. C. Daudt, B. Le Saux, A. Boulch, Y. Gousseau"
-collection: publications
-permalink:
+permalink: /publications/2018_igarss_change
 date: 2018-01-01
 type: conference
 venue: 'International Geoscience and Remote Sensing Symposium, IGARSS'
@@ -20,5 +20,6 @@ teaser: '/files/2018-IGARSS-change.png'
 note:
 noteimportant: 
 ---
+
 
 

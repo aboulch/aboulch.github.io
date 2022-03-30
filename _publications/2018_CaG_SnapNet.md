@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "SnapNet: Unstructured point cloud semantic labeling using deep segmentation networks"
 author: "A. Boulch, J. Guerry, B. Le Saux and N. Audebert"
-collection: publications
-permalink:
+permalink: /publications/2018_cag_snapnet
 date: 2018-01-01
 type: journal
 venue: 'Computer and Graphics'
@@ -19,4 +19,5 @@ slidesurl:
 teaser: '/files/2017-CAG-snapnet.png'
 note:
 noteimportant: 
----									 
+---		
+						 

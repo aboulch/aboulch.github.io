@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds"
 author: "A.-Q. Cao, G. Puy, A. Boulch and R. Marlet"
-collection: publications
-permalink: 2021_iccv_pcam
+permalink: /publications/2021_iccv_pcam
 date: 2021-10-11
 type: conference
 venue: "International Conference on Computer Vision (ICCV)"
@@ -20,6 +20,7 @@ teaser: "/files/2021_iccv_pcam/2021_iccv_pcam_thumbnail.png"
 note:
 noteimportant: 
 ---
+
 
 ### Abstract
 

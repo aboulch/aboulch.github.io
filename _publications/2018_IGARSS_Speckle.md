@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "Learning speckle suppression in SAR images without ground truth: application to Sentinel-1 time-series"
 author: "A. Boulch, P. Trouve, E. Koeniguer, F. Janez, B. Le Saux"
-collection: publications
-permalink:
+permalink: /publications/2018_igarss_speckle
 date: 2018-01-01
 type: conference
 venue: 'International Geoscience and Remote Sensing Symposium, IGARSS'
@@ -19,4 +19,5 @@ slidesurl:
 teaser: '/files/2018-IGARSS-denoising.png'
 note:
 noteimportant: 
----									
+---		
+						

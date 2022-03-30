@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "SHREC’17: Deformable Shape Retrieval with Missing Parts"
 author: 'E. Rodola, L. Cosmo, O. Litany, MM. Bronstein, AM. Bronstein, N. Audebert, A. Ben Hamza, A. Boulch, U. Castellani, MN. Do and others'
-collection: publications
-permalink:
+permalink: /publications/2015_shrec_deformable
 date: 2017-01-01
 type: conference
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR	conference'
@@ -20,4 +20,5 @@ teaser: '/files/2017-3DOR-SHREC-shapes.png'
 note:
 noteimportant: 
 ---
+
 												

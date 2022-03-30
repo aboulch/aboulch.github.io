@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "Deep Learning for Urban Remote Sensing"
 author: "N. Audebert, A. Boulch, H. Randrianarivo, B. Le Saux, M. Ferecatu, S. Lefèvre and R. Marlet"
-collection: publications
-permalink:
+permalink: /publications/2017_jurse_dlurban
 date: 2017-01-01
 type: conference
 venue: 'Joint Urban Remote Sensing Event, JURSE'
@@ -19,4 +19,5 @@ slidesurl:
 teaser: '/files/2017-JURSE-deep.png'
 note:
 noteimportant: 
----									
+---	
+						

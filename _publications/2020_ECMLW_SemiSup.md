@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "On Auxiliary Losses for Semi-Supervised Semantic Segmentation"
 author: "J. Castillo-Navarro, B. Le Saux, A. Boulch, and S. Lefèvre"
-collection: publications
-permalink: 2020_ecmlw_semisup
+permalink: /publications/2020_ecmlw_semisup
 date: 2020-01-01
 type: conference
 venue: "ECML-PKDD Workshop – MACLEAN – Machine Learning for Earth Observation"
@@ -21,6 +21,7 @@ note:
 noteimportant: 
 videourl: "https://www.youtube.com/watch?v=PjRpFidKxp4&feature=youtu.be"
 ---
+
 
 
 ### Abstract

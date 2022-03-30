@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "STaRFlow: A SpatioTemporal Recurrent Cell for Lightweight Multi-Frame Optical Flow Estimation"
 author: "P.Godet, A. Boulch, A. Plyer and G. Le Besnerais"
-collection: publications
-permalink: 2020_icpr_starflow
+permalink: /publications/2020_icpr_starflow
 date: 2020-01-01
 type: conference
 venue: "25th international conference on pattern recognition (ICPR 2020)"
@@ -20,6 +20,7 @@ teaser: "/files/2020_icpr_starflow/2020_icpr_starflow_thumbnail.png"
 note:
 noteimportant: 
 ---
+
 
 
 ### Abstract

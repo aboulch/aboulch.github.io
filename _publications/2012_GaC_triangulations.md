@@ -1,10 +1,9 @@
 ---
+layout: publication
 title: "Irreducible Triangulations of Surfaces with Boundary"
 author: "A. Boulch, É. Colin de Verdière and A. Nakamoto"
-collection: publications
-permalink:
+permalink: /publications/2012_cag_triangulations
 date: 2012-01-01
-type: journal
 venue: 'Graphs and Combinatorics, Springer Verlag'
 venue2: 
 venue3:

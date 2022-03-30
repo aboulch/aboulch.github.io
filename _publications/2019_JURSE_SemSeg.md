@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "What data do we need for semantic segmentation in Earth-observation?"
 author: "J. Castillo-Navarro, N. Audebert, A. Boulch, B. Le Saux, S. Lefèvre"
-collection: publications
-permalink: 2019_jurse_semseg
+permalink: /publications/2019_jurse_semseg
 date: 2019-01-01
 type: conference
 venue: "IEEE Joint Urban Remote Sensing Event (JURSE’2019)"
@@ -20,6 +20,7 @@ teaser: "/files/2019_jurse_semseg/2019_jurse_semseg_thumbnail.png"
 note:
 noteimportant: 
 ---
+
 
 ### Abstract
 

@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "Deep sequence-to-sequence neural networks for ionospheric activity map prediction"
 author: "N. Cherrier, T. Castaings and A. Boulch"
-collection: publications
-permalink:
+permalink: /publications/2017_iconip_tec
 date: 2017-01-01
 type: conference
 venue: 'ICONIP'
@@ -19,4 +19,5 @@ slidesurl:
 teaser: '/files/2017-ICONIP-space.png'
 note:
 noteimportant: 'Best paper award finalist at ICONIP 2017'
----									
+---	
+							

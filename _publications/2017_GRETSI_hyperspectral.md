@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "Autoencodeurs pour la visualisation d'images hyperspectrales"
 author: "A. Boulch, N. Audebert and D. Dubucq"
-collection: publications
-permalink:
+permalink: /publications/2017_gretsi_autoencoders
 date: 2017-01-01
 type: conference
 venue: 'XXVI colloque Gretsi'

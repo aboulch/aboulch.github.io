@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "SnapNet-R: Consistent 3D Multi-View Semantic Labeling for Robotics"
 author: "J. Guerry, A. Boulch, B. Le Saux, J. Moras, A. Plyer and D. Filliat"
-collection: publications
-permalink:
+permalink: /publications/2015_iccvw_snapnetr
 date: 2017-01-01
 type: conference
 venue: 'Workshop 3D Reconstruction Meets Semantics (3DRMS), ICCV'

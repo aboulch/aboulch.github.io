@@ -1,8 +1,8 @@
 ---
+layout: publication
 title: "Semi-Supervised Semantic Segmentation in Earth Observation: The MiniFrance Suite, Dataset Analysis and Multi-task Network Study"
 author: "J. Castillo-Navarro, B. Le Saux, A. Boulch, N. Audebert, and S. Lefèvre"
-collection: publications
-permalink: 2021_mlj_semisup
+permalink: /publications/2021_mlj_semisup
 date: 2021-01-01
 type: journal
 venue: "Machine Learning Journal"
@@ -20,6 +20,7 @@ teaser: "/files/2020_ml_semisup/2020_ml_semisup_thumbnail.png"
 note:
 noteimportant: 
 ---
+
 
 ### Abstract
 
