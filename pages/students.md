@@ -5,16 +5,12 @@ nav_order: 4
 permalink: /students/
 ---
 
-# PhD Students
+# Alumni
 
 ## [Javiera Castillo Navarro](https://javicastillo.ml/)
 *Semi-supervised semantic segmentation of large scale remote sensing data* <br/>
 At ONERA (DTIS/IVA) and IRISA. <br/>
 with Bertrand Le Saux and **Sébastien Lefèvre**
-
-# Interns
-
-# Alumni
 
 ## [Pierre-Alain Langlois](http://imagine.enpc.fr/~langloip/index.html?page=CV)
 *Geometric and semantic approaches for digital building model reconstruction* <br/>

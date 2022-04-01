@@ -9,7 +9,7 @@ venue: "Accepted at Computer Vision and Pattern Recognition (CVPR)"
 venue2: 
 venue3:
 paperurl: 
-arxivurl: 
+arxivurl: https://arxiv.org/abs/2203.16258
 halurl: 
 codeurl: 
 mediumurl: 
