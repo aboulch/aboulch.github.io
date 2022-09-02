@@ -13,10 +13,17 @@ halurl:
 codeurl: 'https://github.com/aboulch/normals_Hough'
 mediumurl: 
 blogurl: 
-pdfurl: 'https://aboulch.github.io/files/2012_sgp_boulch.pdf'
-slidesurl: 'https://aboulch.github.io/files/talks/2012_sgp_boulch_slides.pdf'
-teaser: '/files/2012-CGF-normals.png'
-thumbnail: '/images/publication_thumbnails/2012-CGF-normals.png'
+pdfurl: /files/2012_cgf_normals_boulch.pdf
+slidesurl: /files/2012_cgf_normals_slides_boulch.pdf
+teaser: /files/2012_cgf_normals.png
+thumbnail: /files/2012_cgf_normals.png
 note:
 noteimportant:
 ---
+
+![](/files/2012_cgf_normals.png)
+
+### Abstract
+
+This paper presents a new method for estimating normals on unorganized point clouds that preserves sharp features. It is based on a robust version of the Randomized Hough Transform (RHT). We consider the filled Hough transform accumulator as an image of the discrete probability distribution of possible normals. The normals we estimate corresponds to the maximum of this distribution. We use a fixed-size accumulator for speed, statistical exploration bounds for robustness, and randomized accumulators to prevent discretization effects. We also propose various sampling strategies to deal with anisotropy, as produced by laser scans due to differences of incidence. Our experiments show that our approach offers an ideal compromise between precision, speed, and robustness:
+it is at least as precise and noise-resistant as state-of-the-art methods that preserve sharp features, while being almost an order of magnitude faster. Besides, it can handle anisotropy with minor speed and precision losses
