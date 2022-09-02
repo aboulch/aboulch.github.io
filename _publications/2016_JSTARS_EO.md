@@ -14,9 +14,15 @@ halurl:
 codeurl: 
 mediumurl: 
 blogurl: 
-pdfurl: 'https://aboulch.github.io/files/2015_DFC_classif_benchmark.pdf'
+pdfurl: /files/2015_dfc_classif_benchmark.pdf
 slidesurl: 
 teaser: '/files/2016-JSTARS-eo.png'
 note:
 noteimportant: 'Awarded paper of the 2015 IEEE GRSS Data Fusion Contest'
 ---
+
+![](/files/2015_dfc_classif_benchmark.png)
+
+### Abstract
+
+In this paper, we address the task of semantic labeling of multisource earth-observation (EO) data. Precisely, we benchmark several concurrent methods of the last 15 years, from expert classifiers, spectral support-vector classification and high-level features to deep neural networks. We establish that (1) combining multisensor features is essential for retrieving some specific classes, (2) in the image domain, deep convolutional networks obtain significantly better overall performances and (3) transfer of learning from large genericpurpose image sets is highly effective to build EO data classifiers.

@@ -14,9 +14,15 @@ halurl:
 codeurl: 
 mediumurl: 
 blogurl: 
-pdfurl: 'https://aboulch.github.io/files/2016_ODAS_DeepLearn4RemoteSensing.pdf'
+pdfurl: /files/2016_odas_DeepLearn4RemoteSensing.pdf
 slidesurl: 
 teaser: '/files/2016-ODAS-DL4RS.png'
 note:
 noteimportant: 
 ---
+
+![](/files/2016_odas_DeepLearn4RemoteSensing.png)
+
+### Abstract
+
+This work shows how various, recent statistical techniques can benefit to remote sensing. We focus on three tasks which are recurrent in Earth-observation data analysis: multimodal classification, orthophoto rectification and aerial image segmentation. For each of them we present a novel approach based on recent developments of deep learning and discrete optimization. We assess our approaches on challenging urban, multi-sensor data-sets and establish new state-of-the-art performances. It shows that deep learning allows re-thinking the remote sensing of areas with abundant information and offers promising paths for urban monitoring and modeling.
