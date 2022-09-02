@@ -5,7 +5,7 @@ author: "W.-H. Tseng, H.-Â. Lê, A. Boulch, S. Lefèvre and D. Tiede"
 permalink: /publications/2022_isprs_croco
 date: 2022-03-01
 type: conference
-venue: "Accepted at International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, ISPRS Congress"
+venue: "International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, ISPRS Congress"
 venue2: 
 venue3:
 paperurl: 

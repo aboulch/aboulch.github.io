@@ -5,13 +5,13 @@ author: "C. Sautier, G. Puy, S. Gidaris, A. Boulch, A. Bursuc and R. Marlet"
 permalink: /publications/2022_cvpr_slidr
 date: 2022-03-01
 type: conference
-venue: "Accepted at Computer Vision and Pattern Recognition (CVPR)"
+venue: "Computer Vision and Pattern Recognition (CVPR)"
 venue2: 
 venue3:
-paperurl: 
+paperurl: https://openaccess.thecvf.com/content/CVPR2022/html/Sautier_Image-to-Lidar_Self-Supervised_Distillation_for_Autonomous_Driving_Data_CVPR_2022_paper.html
 arxivurl: https://arxiv.org/abs/2203.16258
 halurl: 
-codeurl: 
+codeurl: https://github.com/valeoai/SLidR
 mediumurl: 
 blogurl: 
 pdfurl: 

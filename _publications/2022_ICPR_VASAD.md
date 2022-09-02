@@ -5,13 +5,13 @@ author: "P.-A. Langlois, Y. Xiao, A. Boulch, R. Marlet"
 permalink: /publications/2022_icpr_vasad
 date: 2022-08-01
 type: conference
-venue: "Accepted at 26th International Conference on Pattern Recognition (ICPR)"
+venue: "International Conference on Pattern Recognition (ICPR)"
 venue2: 
 venue3:
 paperurl: 
 arxivurl: 
 halurl: 
-codeurl: 
+codeurl: https://github.com/palanglois/vasad
 mediumurl: 
 blogurl: 
 pdfurl: 

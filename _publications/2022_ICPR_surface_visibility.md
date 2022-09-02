@@ -5,12 +5,12 @@ author: "R. Sulzer, L. Landrieu, A. Boulch, R. Marlet and B. Vallet"
 permalink: /publications/2022_icpr_surface_visibility
 date: 2022-08-01
 type: conference
-venue: "Accepted at 26th International Conference on Pattern Recognition (ICPR)"
+venue: "International Conference on Pattern Recognition (ICPR)"
 venue2: 
 venue3:
 paperurl: 
-arxivurl: 
-halurl: 
+arxivurl: https://arxiv.org/abs/2202.01810
+halurl: https://hal.archives-ouvertes.fr/hal-03575517/document
 codeurl: 
 mediumurl: 
 blogurl: 
