@@ -14,10 +14,16 @@ halurl:
 codeurl: 
 mediumurl: 
 blogurl: 
-pdfurl: 'https://aboulch.github.io/files/2017_bids_esa_forecasting.pdf'
-slidesurl: 'https://aboulch.github.io/files/talks/2017_bids_esa_forecasting_slides.pdf'
+pdfurl: '/files/2017_bids_esa_forecasting.pdf'
+slidesurl: '/files/2017_bids_esa_forecasting_slides.pdf'
 teaser: '/files/2017-ICONIP-space.png'
 note:
 noteimportant: 
 ---				
 			
+
+![](/files/2017_bids_esa_forecasting.pdf)
+
+### Abstract
+
+Satellite telecommunications and Global Navigation Satellite Systems (GNSS) would benefit from an early prediction of the ionospheric activity. The Total Electron Content (TEC) values of the ionosphere are already locally predicted by models from previous studies, but no model exists to our knowledge for worldwide prediction. A large amount of data for world TEC maps is available from the Center for Orbit Determination in Europe (CODE). With Deep Neural Networks (DNN), we propose a method to forecast a sequence of global TEC maps following past given TEC maps, without introducing any prior knowledge. By combining several state-of-theart architectures, the proposed approach is competitive with previous works on TEC forecast, while predicting global TEC maps.
