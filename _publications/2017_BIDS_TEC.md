@@ -14,15 +14,15 @@ halurl:
 codeurl: 
 mediumurl: 
 blogurl: 
-pdfurl: '/files/2017_bids_esa_forecasting.pdf'
-slidesurl: '/files/2017_bids_esa_forecasting_slides.pdf'
-teaser: '/files/2017-ICONIP-space.png'
+pdfurl: /files/2017_bids_esa_forecasting.pdf
+slidesurl: /files/2017_bids_esa_forecasting_slides.pdf
+teaser: /files/2017-ICONIP-space.png
 note:
 noteimportant: 
 ---				
 			
 
-![](/files/2017_bids_esa_forecasting.pdf)
+![](/files/2017_bids_esa_forecasting.png)
 
 ### Abstract
 

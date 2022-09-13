@@ -14,15 +14,15 @@ halurl:
 codeurl: 
 mediumurl: 
 blogurl: 
-pdfurl: '/files/2017_gretsi-autoencodeurs.pdf'
+pdfurl: /files/2017_gretsi-autoencodeurs.pdf
 slidesurl: 
-posterurl: '/files/posters/2017_gretsi-autoencodeurs_poster.pdf'
-teaser: '/files/2017-GRETSI-ae.png'
+posterurl: /files/2017_gretsi-autoencodeurs_poster.pdf
+teaser: /files/2017-GRETSI-ae.png
 note:
 noteimportant: 
 ---
 
-![](2017_gretsi-autoencodeurs)
+![](/files/2017_gretsi-autoencodeurs.png)
 
 ### Abstract
 
