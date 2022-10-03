@@ -44,6 +44,10 @@ PhD November 2020.
 
 # Undergrad / MSc. Students
 
+**Angelika Ando**: *Exploiting vision transformers for 3d semantic segmentation*, 2022, cosupervised with Spyros Gidaris, Andrei Bursuc and Gilles Puy
+
+**Loick Chambon**: *Multi-modal generation for 3D urban scenes*, 2022, cosupervised with Mickael Chen, Tuan-Hung Vu and Andrei Bursuc
+
 **Corentin Sautier**: *Self-supervision for point clouds*, 2021, cosupervised with Gilles Puy, Renaud Marlet, Spyros Gidaris and Andreï Bursuc
 
 **Anh Quan Cao**: *Scene Flow Estimation from 3D Lidar point cloud using deep learning*, 2020, co-supervised with Gilles Puy and Renaud Marlet
