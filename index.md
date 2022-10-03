@@ -9,6 +9,7 @@ nav_order: 1
 
 |---|---|
 |<img width="128" height="128" src="/images/profile.png" /> | <img width="128" src="/images/valeoai_logo.png" /><br/>**Research scientist** at Valeo.ai<br/> Machine learning and point cloud expert|
+| | <img width="128" src="/images/inria_logo.png"/><br/> Member of the Astra team, Valeo-INRIA joint team|
 
 <!-- from https://simpleicons.org/ -->
 <p align="center">
