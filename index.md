@@ -22,6 +22,11 @@ nav_order: 1
   &emsp;<a href="https://cv.archives-ouvertes.fr/boulch-alexandre" target="_blank"><img width="40" height="40" src="/images/svg_icons/hal.svg" title="HAL" /></a>
 </p>
 
+# [Insternship positions at Valeo.ai](/files/misc/valeoai_internships_2023_description.pdf)
+
+[Here](/files/misc/valeoai_internships_2023_description.pdf) is the PDF file with internship description and contact information to apply for Master 2 internships at valeo.ai.
+
+
 # Publications highlights
 
 |---|---|
