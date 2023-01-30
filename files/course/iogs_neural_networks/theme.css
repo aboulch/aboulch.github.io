@@ -1,0 +1,121 @@
+/* @theme valeo-theme */
+
+@import 'default';
+
+/* valeo green #82E600*/
+/* valeo dark blue #003B71*/
+/* valeo grey #4E6B7C */
+:root {
+  --valeoGreen: #82E600;
+  --valeoDarkBlue: #003B71;
+  --valeoGrey: #4E6B7C;
+}
+
+
+
+
+
+
+h1 {
+  color: var(--valeoGrey);
+}
+
+h2 {
+  color: var(--valeoGrey);
+}
+
+section {
+  font-size: 24px;
+  justify-content: start;
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.columns3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.header {
+  display:table;
+  width:1250px;
+  text-align: right;
+}
+
+.footer {
+  display:table;
+  width:1250px;
+}
+.tr {
+  display:table-row;
+}
+.d1 {
+  display:table-cell;
+  width:45%;
+}
+.d2 {
+  display:table-cell;
+  text-align:center;
+  width:10%;
+}
+.d3 {
+  display:table-cell;
+  text-align:right;
+  width:45%;
+}
+
+
+/* lead section */
+
+section.lead {
+  text-align: center;
+  font-size: 24px;
+  justify-content: center;
+}
+
+section.lead h1 {
+  font-size: 64px;
+}
+
+section.lead h2 {
+  text-align: center;
+  color: var(--valeoGreen);
+}
+
+/* part section */
+
+section.part h1 {
+  font-size: 64px;
+}
+
+section.part {
+  display: table-cell;
+  vertical-align: bottom;
+  height: 720px;
+}
+
+
+
+/* split section */
+
+section.split {
+  overflow: visible;
+  display: grid;
+  grid-template-columns:550px 550px;
+  grid-template-rows: 100px auto;
+  grid-template-areas: 
+      "slideheading slideheading"
+      "leftpanel rightpanel";
+}
+
+section.split h1 {
+  grid-area: slideheading;
+}
+
+section.split .ldiv { grid-area: leftpanel; }
+section.split .rdiv { grid-area: rightpanel; }
