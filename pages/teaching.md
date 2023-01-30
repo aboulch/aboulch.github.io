@@ -16,4 +16,4 @@ permalink: /teaching/
 
 Slides: [PDF](/files/course/iogs_neural_networks/neural_networks.pdf) [HTML](/files/course/iogs_neural_networks/neural_networks.html)
 
-Practical session: Notebook
+Practical session: [Notebook](/files/course/iogs_neural_networks/2023_iogs_ml_nn_practical_session.ipynb)
