@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "ALSO: Automotive Lidar Self-supervision by Occupancy estimation"
-author: "Alexandre Boulch, Corentin Sautier, Björn Michele, Gilles Puy, Renaud Marlet"
+author: "A. Boulch, C. Sautier, B. Michele, G. Puy, R. Marlet"
 permalink: /publications/2023_cvpr_also
 date: 2023-07-01
 type: conference

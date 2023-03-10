@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving"
-author: "Angelika Ando, Spyros Gidaris, Andrei Bursuc, Gilles Puy, Alexandre Boulch, Renaud Marlet"
+author: "A. Ando, S. Gidaris, A. Bursuc, G. Puy, A. Boulch, R. Marlet"
 permalink: /publications/2023_cvpr_rangevit
 date: 2023-07-01
 type: conference
@@ -32,7 +32,7 @@ Casting semantic segmentation of outdoor LiDAR point clouds as a 2D problem, e.g
 ```
 @article{ando2023rangevit,
   title={RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving},
-  author={Ando, Angelika and Gidrais, Spyros and Bursuc, Andrei and Puy, Gilles and Boulch, Alexandre and Marlet, Renaud},
+  author={Ando, Angelika and Gidaris, Spyros and Bursuc, Andrei and Puy, Gilles and Boulch, Alexandre and Marlet, Renaud},
   journal={arXiv preprint arXiv:2301.10222},
   year={2023}
 }
