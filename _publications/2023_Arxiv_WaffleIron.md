@@ -31,7 +31,7 @@ Semantic segmentation of point clouds in autonomous driving datasets requires te
 
 ```
 @article{puy2023waffleiron,
-  title={{Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation}},
+  title={Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation},
   author={Puy, Gilles and Boulch, Alexandre and Marlet, Renaud},
   journal={arXiv preprint arXiv:2301.10100},
   year={2023}

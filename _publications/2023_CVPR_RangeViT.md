@@ -31,7 +31,7 @@ Casting semantic segmentation of outdoor LiDAR point clouds as a 2D problem, e.g
 
 ```
 @article{ando2023rangevit,
-  title={{RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving}},
+  title={RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving},
   author={Ando, Angelika and Gidrais, Spyros and Bursuc, Andrei and Puy, Gilles and Boulch, Alexandre and Marlet, Renaud},
   journal={arXiv preprint arXiv:2301.10222},
   year={2023}
