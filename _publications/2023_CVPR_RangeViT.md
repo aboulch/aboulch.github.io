@@ -8,7 +8,7 @@ type: conference
 venue: "Computer Vision and Pattern Recognition (CVPR)"
 venue2: 
 venue3:
-paperurl: 
+paperurl: "https://openaccess.thecvf.com/content/CVPR2023/html/Ando_RangeViT_Towards_Vision_Transformers_for_3D_Semantic_Segmentation_in_Autonomous_CVPR_2023_paper.html"
 arxivurl: "https://arxiv.org/abs/2301.10222"
 halurl: 
 codeurl: "https://github.com/valeoai/rangevit"

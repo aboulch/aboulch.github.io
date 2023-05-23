@@ -8,8 +8,8 @@ type: conference
 venue: "Computer Vision and Pattern Recognition (CVPR)"
 venue2: 
 venue3:
-paperurl: 
-arxivurl: https://arxiv.org/abs/2212.05867
+paperurl: "https://openaccess.thecvf.com/content/CVPR2023/html/Boulch_ALSO_Automotive_Lidar_Self-Supervision_by_Occupancy_Estimation_CVPR_2023_paper.html"
+arxivurl: "https://arxiv.org/abs/2212.05867"
 halurl: 
 codeurl: "https://github.com/valeoai/ALSO"
 mediumurl: 
