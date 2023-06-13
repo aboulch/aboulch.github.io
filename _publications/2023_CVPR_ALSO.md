@@ -36,7 +36,7 @@ We propose a new self-supervised method for pre-training the backbone of deep pe
 ```
 @InProceedings{ALSO,
 author = {Alexandre Boulch and Corentin Sautier and Björn Michele and Gilles Puy and Renaud Marlet},
-title = {{ALSO}: Automotive Lidar Self-supervision by Occupancy estimation},
+title = {ALSO: Automotive Lidar Self-supervision by Occupancy estimation},
 booktitle = {International Conference on Computer Vision and Pattern Recognition (CVPR)},
 year = 2023,
 }
