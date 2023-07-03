@@ -41,11 +41,17 @@ nav_order: 1
 
 ## News
 
-{: .note }
-2023/06/18 to 2023/06/22 - At CVPR 2023, Vancouver. Presenting [RangeVit](/publications/2023_cvpr_rangevit) and [ALSO](/publications/2023_cvpr_also).
-
-{: .note }
-2023/06/14 - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*
-
+- **2023/06/18 to 2023/06/22** - At CVPR 2023, Vancouver. Presenting [RangeVit](/publications/2023_cvpr_rangevit) and [ALSO](/publications/2023_cvpr_also).
+- **2023/06/14** - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*
+- **2023/01/18** - Talk at IOGS, 3A IOGS/master ATSI on *Research at valeo.ai*
+- **2022/06/19 to 2022/06/24** - At CVPR 2022, New Orleans. Presenting [POCO](/publications/2022_cvpr_poco) and [SLidR](/publications/2022_cvpr_slidr)
+- **2022/05/18** - Talk at the CDV Expert Colloquium, presentation of *POCO: Point Convolution for Surface Reconstruction*
+- **2021/12/01 to 2021/12/03** - 3DV virtual presentation of [NeeDrop](/publications/2021_3dv_needrop)
+- **2021/04/12** - Talk at ONERA, Palaiseau, AI & Physics Workshop on *Convolution on points for classification and segmentation*
+- **2020/11/30 to 2020/12/4** - ACCV virtual presentation of [FKAConv](/publications/2020_accv_fkaconv)
+- **2020/03/05** - Talk at Ecole des Mines, master MVA/IASD on *Point cloud semantic segmentation: from image to 3D*
+- **2019/11/04** - I am joining valeo.ai as recsearch scientist
+- **2019/10/25** - Talk IRIT, Toulouse, STORM seminar on *Point Cloud analysis and processing*
+- **2019/09/27** - Talk at ETHZ, Switzerland, Institut of Geodesy and Photogrammetry on *Deep learning for large scale image and point cloud processing*
 
 
