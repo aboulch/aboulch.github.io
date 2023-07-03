@@ -7,9 +7,9 @@ title: Home
 nav_order: 1
 ---
 
-|---|---|
-|<img width="128" height="128" src="/images/profile.png" /> | <img width="128" src="/images/valeoai_logo.png" /><br/>**Research scientist** at Valeo.ai<br/> Machine learning and point cloud expert|
-| | <img width="128" src="/images/inria_logo.png"/><br/> Member of the Astra team, Valeo-INRIA joint team|
+<p align="center">
+<img style="border-radius: 50%" width="128" height="128" src="/images/profile.png" />
+</p>
 
 <!-- from https://simpleicons.org/ -->
 <p align="center">
@@ -22,8 +22,14 @@ nav_order: 1
   &emsp;<a href="https://cv.archives-ouvertes.fr/boulch-alexandre" target="_blank"><img width="40" height="40" src="/images/svg_icons/hal.svg" title="HAL" /></a>
 </p>
 
+## Affiliation
 
-# Publications highlights
+|---|---|
+|<img width="128" src="/images/valeoai_logo.png" /> | **Research scientist** at Valeo.ai<br/> Machine learning and point cloud expert|
+|<img width="128" src="/images/inria_logo.png"/>    | Member of the Astra team, Valeo-INRIA joint team|
+
+
+## Publications highlights
 
 |---|---|
 |<img width="128" height="128" src="/images/publication_thumbnails/2023_cvpr_rangevit.png" />| [RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving](/publications/2023_cvpr_rangevit)<br/> Computer Vision and Pattern Recognition (CVPR) 2023|
@@ -33,37 +39,13 @@ nav_order: 1
 
 [Here is a more complete list of publications](/publications)
 
-# Research
+## News
 
-## Machine Learning
+{: .note }
+2023/06/18 to 2023/06/22 - At CVPR 2023, Vancouver. Presenting [RangeVit](/publications/2023_cvpr_rangevit) and [ALSO](/publications/2023_cvpr_also).
 
-![Machine learning](/images/machine_learning.png)
+{: .note }
+2023/06/14 - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*
 
-Machine Learning is a transverse field that aims at extracting information from data in order to make decisions and predictions. I currently work to develop new architectures ( ShaResNet ), apply them various application fields from classification to cartography to 3D scene understanding to space wearther prediction.
 
-## Geometry
 
-![Geometry](/images/geo.png)
-
-Computational Geometry and reconstruction was the core area of my thesis. Understanding 3D scenes, and reconstructing abstracted surfaces is a major interest to me. I work on outdoor scenes ( Semantic3D ) as well as indoor data for robotics ( SUNRGB-D ).
-
-# [Thesis](/thesis/)
-at LIGM (ENPC), under the supervision of Renaud Marlet.
-
-*Subject*: “Automatic reconstruction of 3D building information models”.
-
-# Previous research at [ONERA](https://www.onera.fr/en)
-
-## Earth Observation
-
-![Earth Observation](/images/eo.png)
-
-Earth Observation data is now massively available through satellite programs like Copernicus. This allows the emergence of new algorithms and techniques to cartography, analysis or restoration of multiple sensors active (SAR) or passive (optical) images. I am particularly interested in dealing with partially annoted data to create robust machine learning techniques abble to diggest multi-temporal data.
-
-Some projects I have worked on while being a reasearcher at ONERA
-
-*[DeLTA](https://delta-onera.github.io/)*, deep machine learning for aerospace applications
-
-*Medusa* for Big Data in Earth Observation
-
-*[Inachus](https://www.inachus.eu/)* for Urban Search and Rescue
