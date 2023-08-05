@@ -1,6 +1,6 @@
 # Local install
 
-- install just the docs locally
+- install just the docs locally 
 - run
 ```
 jekyll serve --config "_config.yml,_config_dev.yml"
