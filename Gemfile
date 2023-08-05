@@ -6,5 +6,3 @@ gem "jekyll", "~> 4.3.2" # installed by `gem jekyll`
 gem "just-the-docs", "0.5.4" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
-# gem "github-pages", group: :jekyll_plugins
-# gem "jekyll-include-cache", group: :jekyll_plugins
