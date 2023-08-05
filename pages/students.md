@@ -44,6 +44,8 @@ PhD November 2020.
 
 # Undergrad / MSc. Students
 
+**Sophia Sirko-Galouchenko**: *Self-supervision for camera-based bird's-eye-view perception in autonomous driving*, 2023, cosupervised with Spyros Gidaris and Andrei Bursuc
+
 **Angelika Ando**: *Exploiting vision transformers for 3d semantic segmentation*, 2022, cosupervised with Spyros Gidaris, Andrei Bursuc and Gilles Puy
 
 **Loick Chambon**: *Multi-modal generation for 3D urban scenes*, 2022, cosupervised with Mickael Chen, Tuan-Hung Vu and Andrei Bursuc
