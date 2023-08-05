@@ -2,10 +2,10 @@
 layout: publication
 title: "Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation"
 author: "G. Puy, A. Boulch, R. Marlet"
-permalink: /publications/2023_arxiv_waffleiron
+permalink: /publications/2023_iccv_waffleiron
 date: 2023-01-01
-type: misc
-venue: "Arxiv"
+type: conference
+venue: "International Conference on Computer Vision (ICCV)"
 venue2: 
 venue3:
 paperurl: 

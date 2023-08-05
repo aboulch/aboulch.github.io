@@ -32,6 +32,7 @@ nav_order: 1
 ## Publications highlights
 
 |---|---|
+|<img width="128" height="128" src="/images/publication_thumbnails/2023_iccv_waffleiron.png" />| [Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation](/publications/2023_iccv_waffleiron)<br/> International Conference on Computer Vision (ICCV) 2023|
 |<img width="128" height="128" src="/images/publication_thumbnails/2023_cvpr_rangevit.png" />| [RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving](/publications/2023_cvpr_rangevit)<br/> Computer Vision and Pattern Recognition (CVPR) 2023|
 |<img width="128" height="128" src="/images/publication_thumbnails/2023_cvpr_also.png" />| [ALSO: Automotive Lidar Self-supervision by Occupancy estimation](/publications/2023_cvpr_also)<br/> Computer Vision and Pattern Recognition (CVPR) 2023|
 |<img width="128" height="128" src="/images/publication_thumbnails/2022_cvpr_slidr.png" />| [SLidR: Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data](/publications/2022_cvpr_slidr)<br/> Computer Vision and Pattern Recognition (CVPR) 2022|
