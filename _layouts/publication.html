@@ -158,7 +158,7 @@ layout: table_wrappers
         <p><span style="color: #ff0000">{{ page.noteimportant }}</span></p>
         {% endif %}
 
-        <p align="center">
+        <!-- <p align="center">
             {% if page.paperurl %}
             &emsp;<a href="{{ page.paperurl }}" target="_blank"><img width="40" height="40" src="/images/svg_icons/paper.svg" title="Paper" /></a>
             {% endif %}
@@ -182,7 +182,33 @@ layout: table_wrappers
             {% if page.videourl %}
             &emsp;<a href="{{ page.videourl }}" target="_blank"><img width="40" height="40" src="/images/svg_icons/video.svg" title="Video" /></a>
             {% endif %}
-        </p>
+        </p> -->
+
+        <p align="center">
+          {% if page.paperurl %}
+          &emsp;<a href="{{ page.paperurl }}" target="_blank">Paper</a>
+          {% endif %}
+          {% if page.suppurl %}
+          &emsp;<a href="{{ page.suppurl }}" target="_blank">Supp.</a>
+          {% endif %}
+          {% if page.arxivurl %}
+          &emsp;<a href="{{ page.arxivurl }}" target="_blank">Arxiv</a>
+          {% endif %}
+          {% if page.halurl %}
+          &emsp;<a href="{{ page.halurl }}" target="_blank">HAL</a>
+          {% endif %}{% if page.codeurl %}
+          &emsp;<a href="{{ page.codeurl }}" target="_blank">Code</a>
+          {% endif %}
+          {% if page.pdfurl %}
+          &emsp;<a href="{{ page.pdfurl }}" target="_blank">PDF</a>
+          {% endif %}
+          {% if page.slidesurl %}
+          &emsp;<a href="{{ page.slidesurl }}" target="_blank">Slides</a>
+          {% endif %}
+          {% if page.videourl %}
+          &emsp;<a href="{{ page.videourl }}" target="_blank">Video</a>
+          {% endif %}
+      </p>
 
 
         <!-- End Content -->
