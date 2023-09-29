@@ -7,7 +7,7 @@ permalink: /students/
 
 # Ph.D. student
 
-## [Björn Michele](https://scholar.google.com/citations?user=xQcKnXkAAAAJ&hl=en&oi=ao)
+## [Björn Michele](https://www.bjoernmichele.com/)
 *Domain adaptation for 3D data* <br/>
 at valeo.ai and IRISA <br/>
 with Gilles Puy, Renaud Marlet and **Nicolas Courty**
