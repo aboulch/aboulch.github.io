@@ -25,8 +25,8 @@ nav_order: 1
 ## Affiliation
 
 |---|---|
-|<img width="128" src="/images/valeoai_logo.png" /> | **Research scientist** at Valeo.ai<br/> Machine learning and point cloud expert|
-|<img width="128" src="/images/inria_logo.png"/>    | Member of the Astra team, Valeo-INRIA joint team|
+|<img width="128" src="/images/valeoai_logo.png" /> | **Research scientist** at Valeo.ai<br/> Machine learning and point cloud expert<br/> [Team scholar](https://scholar.google.com/citations?user=eM4nZ1sAAAAJ){: .btn } [Team page](https://valeoai.github.io/blog/){: .btn }|
+|<img width="128" src="/images/inria_logo.png"/>    | Member of the Astra team, Valeo-INRIA joint team<br/> [Team page](https://astra-vision.github.io/){: .btn }|
 
 
 ## Publications highlights
@@ -42,6 +42,7 @@ nav_order: 1
 
 ## News
 
+- **2023/10/02 to 2023/10/06** - At ICCV 2023, Paris. Presenting [WaffleIron](/publications/2023_iccv_waffleiron).
 - **2023/06/18 to 2023/06/22** - At CVPR 2023, Vancouver. Presenting [RangeVit](/publications/2023_cvpr_rangevit) and [ALSO](/publications/2023_cvpr_also).
 - **2023/06/14** - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*
 - **2023/01/18** - Talk at IOGS, 3A IOGS/master ATSI on *Research at valeo.ai*
