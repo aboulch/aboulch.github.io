@@ -9,9 +9,9 @@ venue: "International Conference on Computer Vision (ICCV)"
 venue2: 
 venue3:
 paperurl: 
-arxivurl: "https://arxiv.org/abs/2301.10100"
+arxivurl:
 halurl: 
-codeurl: "https://github.com/valeoai/WaffleIron"
+codeurl: 
 mediumurl: 
 blogurl: 
 pdfurl: 
@@ -20,6 +20,10 @@ teaser:
 note:
 noteimportant: 
 ---
+
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Puy_Using_a_Waffle_Iron_for_Automotive_Point_Cloud_Semantic_Segmentation_ICCV_2023_paper.html){: .btn }
+[Arxiv](https://arxiv.org/abs/2301.10100){: .btn }
+[Code](https://github.com/valeoai/WaffleIron){: .btn }
 
 ### Abstract
 
