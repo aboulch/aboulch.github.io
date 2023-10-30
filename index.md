@@ -30,6 +30,7 @@ nav_order: 1
 
 ## News
 
+- **2023/10/19**: Talk at Eurobios on *From surface reconstruction to self-supervision for automotive perception*
 - **2023/10/02 to 2023/10/06** - At ICCV 2023, Paris. Presenting [WaffleIron](/publications/2023_iccv_waffleiron).
 - **2023/06/18 to 2023/06/22** - At CVPR 2023, Vancouver. Presenting [RangeVit](/publications/2023_cvpr_rangevit) and [ALSO](/publications/2023_cvpr_also).
 - **2023/06/14** - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*

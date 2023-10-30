@@ -3,7 +3,7 @@ layout: publication
 title: "SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation"
 author: "B. Michele, A. Boulch, G. Puy, T.-H. Vu, R. Marlet, N. Courty"
 permalink: /publications/2024_3DV_saluda
-date: 2024-03-18
+date: 2023-10-30
 type: conference
 venue: "International Conference on 3D vision (3DV)"
 venue2: 
