@@ -14,7 +14,7 @@ with Gilles Puy, Renaud Marlet and **Nicolas Courty**
 
 ## [Corentin Sautier](https://fr.linkedin.com/in/corentin-sautier-74415917b)
 *Self-supervised learning for 3D point clouds with multi-modal data* <br/>
-at valeo.ai and ENPCS <br/>
+at valeo.ai and ENPC <br/>
 with Gilles Puy, Renaud Marlet and **Vincent Lepetit**
 
 # Alumni
@@ -52,11 +52,11 @@ PhD November 2020.
 
 **Loick Chambon**: *Multi-modal generation for 3D urban scenes*, 2022, cosupervised with Mickael Chen, Tuan-Hung Vu and Andrei Bursuc
 
-**Corentin Sautier**: *Self-supervision for point clouds*, 2021, cosupervised with Gilles Puy, Renaud Marlet, Spyros Gidaris and Andreï Bursuc
+[**Corentin Sautier**](https://fr.linkedin.com/in/corentin-sautier-74415917b): *Self-supervision for point clouds*, 2021, cosupervised with Gilles Puy, Renaud Marlet, Spyros Gidaris and Andreï Bursuc
 
-**Anh Quan Cao**: *Scene Flow Estimation from 3D Lidar point cloud using deep learning*, 2020, co-supervised with Gilles Puy and Renaud Marlet
+[**Anh Quan Cao**](https://anhquancao.github.io/): *Scene Flow Estimation from 3D Lidar point cloud using deep learning*, 2020, co-supervised with Gilles Puy and Renaud Marlet
 
-**Björn Michele**: *Zero-shot learning for 3D data*, 2020, co-supervised with Maxime Bucher, Renaud Marlet and Gilles Puy
+[**Björn Michele**](https://www.bjoernmichele.com/): *Zero-shot learning for 3D data*, 2020, co-supervised with Maxime Bucher, Renaud Marlet and Gilles Puy
 
 **Jean-Lynce Gnanago**: *Deep learning TEC map prediction*, 2018, co-supervised with Fabien Gachet
 
