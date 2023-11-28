@@ -34,6 +34,7 @@ nav_order: 1
 - **2023/10/02 to 2023/10/06** - At ICCV 2023, Paris. Presenting [WaffleIron](/publications/2023_iccv_waffleiron).
 - **2023/06/18 to 2023/06/22** - At CVPR 2023, Vancouver. Presenting [RangeVit](/publications/2023_cvpr_rangevit) and [ALSO](/publications/2023_cvpr_also).
 - **2023/06/14** - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*
+- **2023/03/27** - PhD commitee as external examiner for Tong Zhao's defense, INRIA Sophia Antipolis
 - **2023/01/18** - Talk at IOGS, 3A IOGS/master ATSI on *Research at valeo.ai*
 - **2022/06/19 to 2022/06/24** - At CVPR 2022, New Orleans. Presenting [POCO](/publications/2022_cvpr_poco) and [SLidR](/publications/2022_cvpr_slidr)
 - **2022/05/18** - Talk at the CDV Expert Colloquium, presentation of *POCO: Point Convolution for Surface Reconstruction*
