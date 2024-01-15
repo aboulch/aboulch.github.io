@@ -30,6 +30,7 @@ nav_order: 1
 
 ## News
 
+-**2023/01/24**: Talk at IOGS, 3A IOGS/master ATSI with [Oriane Simeoni](https://osimeoni.github.io/)
 - **2023/01/15**: [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) will be a spotlight at 3DV
 - **2023/10**: [BEVContrast](https://boulch.eu/publications/2024_3DV_bevcontrast) and [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) are accepted at 3DV
 - **2023/10/19**: Talk at Eurobios on *From surface reconstruction to self-supervision for automotive perception*
