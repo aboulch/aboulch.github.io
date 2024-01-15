@@ -30,6 +30,8 @@ nav_order: 1
 
 ## News
 
+- **2023/01/15**: [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) will be a spotlight at 3DV
+- **2023/10**: [BEVContrast](https://boulch.eu/publications/2024_3DV_bevcontrast) and [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) are accepted at 3DV
 - **2023/10/19**: Talk at Eurobios on *From surface reconstruction to self-supervision for automotive perception*
 - **2023/10/02 to 2023/10/06** - At ICCV 2023, Paris. Presenting [WaffleIron](/publications/2023_iccv_waffleiron).
 - **2023/06/18 to 2023/06/22** - At CVPR 2023, Vancouver. Presenting [RangeVit](/publications/2023_cvpr_rangevit) and [ALSO](/publications/2023_cvpr_also).
