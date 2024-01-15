@@ -30,23 +30,29 @@ nav_order: 1
 
 ## News
 
-- **2023/01/24**: Talk at IOGS, 3A IOGS/master ATSI with [Oriane Simeoni](https://osimeoni.github.io/)
-- **2023/01/15**: [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) will be a spotlight at 3DV
-- **2023/10**: [BEVContrast](https://boulch.eu/publications/2024_3DV_bevcontrast) and [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) are accepted at 3DV
-- **2023/10/19**: Talk at Eurobios on *From surface reconstruction to self-supervision for automotive perception*
+<!---
+![Static Badge](https://img.shields.io/badge/2023%2F10-green?color=red) News
+![Static Badge](https://img.shields.io/badge/2023%2F10-green?color=green) Talk
+![Static Badge](https://img.shields.io/badge/2023%2F10-green?color=blue) Papers / Conferences
+--->
+
+- ![Static Badge](https://img.shields.io/badge/2024%2F01%2F24-green?color=green) - Talk at IOGS, 3A IOGS/master ATSI with [Oriane Simeoni](https://osimeoni.github.io/)
+- **2023/01/15** - [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) will be a spotlight at 3DV
+- **2023/10** - [BEVContrast](https://boulch.eu/publications/2024_3DV_bevcontrast) and [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) are accepted at 3DV
+- ![Static Badge](https://img.shields.io/badge/2023%2F10%2F19-green?color=green) - Talk at Eurobios on *From surface reconstruction to self-supervision for automotive perception*
 - **2023/10/02 to 2023/10/06** - At ICCV 2023, Paris. Presenting [WaffleIron](/publications/2023_iccv_waffleiron).
 - **2023/06/18 to 2023/06/22** - At CVPR 2023, Vancouver. Presenting [RangeVit](/publications/2023_cvpr_rangevit) and [ALSO](/publications/2023_cvpr_also).
-- **2023/06/14** - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*
+- ![Static Badge](https://img.shields.io/badge/2023%2F06%2F14-green?color=green) - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*
 - **2023/03/27** - PhD commitee as external examiner for Tong Zhao's defense, INRIA Sophia Antipolis
-- **2023/01/18** - Talk at IOGS, 3A IOGS/master ATSI on *Research at valeo.ai*
+- ![Static Badge](https://img.shields.io/badge/2023%2F01%2F18-green?color=green) - Talk at IOGS, 3A IOGS/master ATSI on *Research at valeo.ai*
 - **2022/06/19 to 2022/06/24** - At CVPR 2022, New Orleans. Presenting [POCO](/publications/2022_cvpr_poco) and [SLidR](/publications/2022_cvpr_slidr)
-- **2022/05/18** - Talk at the CDV Expert Colloquium, presentation of *POCO: Point Convolution for Surface Reconstruction*
+- ![Static Badge](https://img.shields.io/badge/2022%2F05%2F18-green?color=green)**2022/05/18** - Talk at the CDV Expert Colloquium, presentation of *POCO: Point Convolution for Surface Reconstruction*
 - **2021/12/01 to 2021/12/03** - 3DV virtual presentation of [NeeDrop](/publications/2021_3dv_needrop)
-- **2021/04/12** - Talk at ONERA, Palaiseau, AI & Physics Workshop on *Convolution on points for classification and segmentation*
+- ![Static Badge](https://img.shields.io/badge/2021%2F04%2F12-green?color=green) - Talk at ONERA, Palaiseau, AI & Physics Workshop on *Convolution on points for classification and segmentation*
 - **2020/11/30 to 2020/12/4** - ACCV virtual presentation of [FKAConv](/publications/2020_accv_fkaconv)
-- **2020/03/05** - Talk at Ecole des Mines, master MVA/IASD on *Point cloud semantic segmentation: from image to 3D*
+- ![Static Badge](https://img.shields.io/badge/2020%2F03%2F05-green?color=green) - Talk at Ecole des Mines, master MVA/IASD on *Point cloud semantic segmentation: from image to 3D*
 - **2019/11/04** - I am joining valeo.ai as recsearch scientist
-- **2019/10/25** - Talk IRIT, Toulouse, STORM seminar on *Point Cloud analysis and processing*
-- **2019/09/27** - Talk at ETHZ, Switzerland, Institut of Geodesy and Photogrammetry on *Deep learning for large scale image and point cloud processing*
+- ![Static Badge](https://img.shields.io/badge/2019%2F10%2F25-green?color=green) - Talk IRIT, Toulouse, STORM seminar on *Point Cloud analysis and processing*
+- ![Static Badge](https://img.shields.io/badge/2019%2F09%2F27-green?color=green) - Talk at ETHZ, Switzerland, Institut of Geodesy and Photogrammetry on *Deep learning for large scale image and point cloud processing*
 
 
