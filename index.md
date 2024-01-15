@@ -45,11 +45,16 @@ nav_order: 1
 - ![Static Badge](https://img.shields.io/badge/2023%2F06%2F14-darkgreen) - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*
 - ![Static Badge](https://img.shields.io/badge/2023%2F03%2F27-yellow) - PhD commitee as external examiner for Tong Zhao's defense, INRIA Sophia Antipolis
 - ![Static Badge](https://img.shields.io/badge/2023%2F01%2F18-darkgreen) - Talk at IOGS, 3A IOGS/master ATSI on *Research at valeo.ai*
+- ![Static Badge](https://img.shields.io/badge/2022%2F10%2F17-yellow) - PhD commitee as external examiner for Raphael's Sulzer defense, IGN
 - ![Static Badge](https://img.shields.io/badge/2022%2F06%2F19_to_2022%2F06%2F24-blue) - At CVPR 2022, New Orleans. Presenting [POCO](/publications/2022_cvpr_poco) and [SLidR](/publications/2022_cvpr_slidr)
-- ![Static Badge](https://img.shields.io/badge/2022%2F05%2F18-darkgreen)**2022/05/18** - Talk at the CDV Expert Colloquium, presentation of *POCO: Point Convolution for Surface Reconstruction*
-- ![Static Badge](https://img.shields.io/badge/2023%2F12%2F01_to_2023%2F12%2F03-blue) - 3DV virtual presentation of [NeeDrop](/publications/2021_3dv_needrop)
+- ![Static Badge](https://img.shields.io/badge/2022%2F05%2F18-darkgreen) - Talk at the CDV Expert Colloquium, presentation of *POCO: Point Convolution for Surface Reconstruction*
+- ![Static Badge](https://img.shields.io/badge/2022%2F03%2F23-yellow)  - PhD commitee as supervisor for Javiera Castillo-Navarro's defense, CNAM
+- ![Static Badge](https://img.shields.io/badge/2021%2F12%2F14-yellow)  - PhD commitee as supervisor for Pierre-Alain Langlois's defense, ENPC
+- ![Static Badge](https://img.shields.io/badge/2021%2F12%2F01_to_2021%2F12%2F03-blue) - 3DV virtual presentation of [NeeDrop](/publications/2021_3dv_needrop)
 - ![Static Badge](https://img.shields.io/badge/2021%2F04%2F12-darkgreen) - Talk at ONERA, Palaiseau, AI & Physics Workshop on *Convolution on points for classification and segmentation*
-- **2020/11/30 to 2020/12/4** - ACCV virtual presentation of [FKAConv](/publications/2020_accv_fkaconv)
+- ![Static Badge](https://img.shields.io/badge/2021%2F01%2F22-yellow)  - PhD commitee as supervisor for Pierre Godet's defense, ONERA
+- ![Static Badge](https://img.shields.io/badge/2020%2F11%2F30_to_2020%2F12%2F04-blue) - ACCV virtual presentation of [FKAConv](/publications/2020_accv_fkaconv)
+- ![Static Badge](https://img.shields.io/badge/2020%2F11%2F06-yellow)  - PhD commitee as supervisor for Rodrigo Caye Daudt's defense, ONERA
 - ![Static Badge](https://img.shields.io/badge/2020%2F03%2F05-darkgreen) - Talk at Ecole des Mines, master MVA/IASD on *Point cloud semantic segmentation: from image to 3D*
 - ![Static Badge](https://img.shields.io/badge/2019%2F11%2F04-red) - I am joining valeo.ai as recsearch scientist
 - ![Static Badge](https://img.shields.io/badge/2019%2F10%2F25-darkgreen) - Talk IRIT, Toulouse, STORM seminar on *Point Cloud analysis and processing*
