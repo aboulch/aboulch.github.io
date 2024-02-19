@@ -59,7 +59,7 @@ nav_order: 1
 - ![Static Badge](https://img.shields.io/badge/2019%2F11%2F04-red) - I am joining valeo.ai as recsearch scientist
 - ![Static Badge](https://img.shields.io/badge/2019%2F10%2F25-darkgreen) - Talk IRIT, Toulouse, STORM seminar on *Point Cloud analysis and processing*
 - ![Static Badge](https://img.shields.io/badge/2019%2F09%2F27-darkgreen) - Talk at ETHZ, Switzerland, Institut of Geodesy and Photogrammetry on *Deep learning for large scale image and point cloud processing*
-- ![Static Badge](https://img.shields.io/badge/2019%2F05%2F28-darkgreen) - Talk at *Recontres franciliennes de mécanique* on *Deep-learning pour la mécanique*
+- ![Static Badge](https://img.shields.io/badge/2019%2F05%2F28-darkgreen) - Talk at *Rencontres franciliennes de mécanique* on *Deep-learning pour la mécanique*
 - ![Static Badge](https://img.shields.io/badge/2019%2F05%2F05_to_2019%2F05%2F10-blue) At Eurographics 2019, Genova, Presenting [ConvPoint](/publications/2020_cag_convpoint) at 3DOR workshop.
 
 
