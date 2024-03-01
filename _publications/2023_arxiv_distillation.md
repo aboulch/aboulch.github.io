@@ -1,11 +1,11 @@
 ---
 layout: publication
-title: "Revisiting the Distillation of Image Representations into Point Clouds for Autonomous Driving"
+title: "Three Pillars improving Vision Foundation Model Distillation for Lidar"
 author: "G. Puy, S. Gidaris, A. Boulch, O. Simeoni, C. Sautier, P. Perez, A. Bursuc, R. Marlet"
-permalink: /publications/2023_arxiv_distillation
-date: 2023-10-30
+permalink: /publications/2024_cvpr_distillation
+date: 2024-01-01
 type: misc
-venue:
+venue: "Computer Vision and Pattern Recognition (CVPR)"
 venue2: 
 venue3:
 paperurl: 
@@ -22,10 +22,11 @@ noteimportant:
 ---
 
 [Arxiv](https://arxiv.org/abs/2310.17504){: .btn }
+[Code](https://github.com/valeoai/ScaLR){: .btn}
 
 ### Abstract
 
-Self-supervised image networks can be used to address complex 2D tasks (e.g., semantic segmentation, object discovery) very efficiently and with little or no downstream supervision. However, self-supervised 3D networks on lidar data do not perform as well for now. A few methods therefore propose to distill high-quality self-supervised 2D features into 3D networks. The most recent ones doing so on autonomous driving data show promising results. Yet, a performance gap persists between these distilled features and fully-supervised ones. In this work, we revisit 2D-to-3D distillation. First, we propose, for semantic segmentation, a simple approach that leads to a significant improvement compared to prior 3D distillation methods. Second, we show that distillation in high capacity 3D networks is key to reach high quality 3D features. This actually allows us to significantly close the gap between unsupervised distilled 3D features and fully-supervised ones. Last, we show that our high-quality distilled representations can also be used for open-vocabulary segmentation and background/foreground discovery.
+Self-supervised image backbones can be used to address complex 2D tasks (e.g., semantic segmentation, object discovery) very efficiently and with little or no downstream supervision. Ideally, 3D backbones for lidar should be able to inherit these properties after distillation of these powerful 2D features. The most recent methods for image-to-lidar distillation on autonomous driving data show promising results, obtained thanks to distillation methods that keep improving. Yet, we still notice a large performance gap when measuring the quality of distilled and fully supervised features by linear probing. In this work, instead of focusing only on the distillation method, we study the effect of three pillars for distillation: the 3D backbone, the pretrained 2D backbones, and the pretraining dataset. In particular, thanks to our scalable distillation method named ScaLR, we show that scaling the 2D and 3D backbones and pretraining on diverse datasets leads to a substantial improvement of the feature quality. This allows us to significantly reduce the gap between the quality of distilled and fully-supervised 3D features, and to improve the robustness of the pretrained backbones to domain gaps and perturbations.
 
 
 ### Citation
