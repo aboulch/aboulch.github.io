@@ -9,7 +9,7 @@ permalink: /students/
 
 ## [Tetiana Martyniuk](https://scholar.google.com/citations?user=Ur0vgfMAAAAJ&hl=en)
 *Conditional generation for urban scenes* </br>
-in ASTRA team, joint valeo.ai / INRIA team
+in ASTRA team, joint valeo.ai / INRIA team </br>
 with Gilles Puy, Renaud Marlet and **Raoul de Charette**
 
 ## [Björn Michele](https://www.bjoernmichele.com/)
