@@ -53,9 +53,9 @@ PhD November 2020.
 
 **Sophia Sirko-Galouchenko**: *Self-supervision for camera-based bird's-eye-view perception in autonomous driving*, 2023, cosupervised with Spyros Gidaris and Andrei Bursuc
 
-**Angelika Ando**: *Exploiting vision transformers for 3d semantic segmentation*, 2022, cosupervised with Spyros Gidaris, Andrei Bursuc and Gilles Puy
+[**Angelika Ando**](https://scholar.google.com/citations?user=xMNyXlEAAAAJ&hl=en): *Exploiting vision transformers for 3d semantic segmentation*, 2022, cosupervised with Spyros Gidaris, Andrei Bursuc and Gilles Puy
 
-**Loick Chambon**: *Multi-modal generation for 3D urban scenes*, 2022, cosupervised with Mickael Chen, Tuan-Hung Vu and Andrei Bursuc
+[**Loick Chambon**](https://loickch.github.io/): *Multi-modal generation for 3D urban scenes*, 2022, cosupervised with Mickael Chen, Tuan-Hung Vu and Andrei Bursuc
 
 [**Corentin Sautier**](https://fr.linkedin.com/in/corentin-sautier-74415917b): *Self-supervision for point clouds*, 2021, cosupervised with Gilles Puy, Renaud Marlet, Spyros Gidaris and Andreï Bursuc
 
@@ -65,4 +65,4 @@ PhD November 2020.
 
 **Jean-Lynce Gnanago**: *Deep learning TEC map prediction*, 2018, co-supervised with Fabien Gachet
 
-**Noellie Cherrier**: *Deep learning TEC map prediction*, 2017, co-supervised with Thibault Castaings
+[**Noellie Cherrier**](https://scholar.google.com/citations?user=q-1yshoAAAAJ&hl=fr): *Deep learning TEC map prediction*, 2017, co-supervised with Thibault Castaings
