@@ -2,8 +2,8 @@
 layout: publication
 title: "Three Pillars improving Vision Foundation Model Distillation for Lidar"
 author: "G. Puy, S. Gidaris, A. Boulch, O. Simeoni, C. Sautier, P. Perez, A. Bursuc, R. Marlet"
-permalink: /publications/2024_cvpr_distillation
-date: 2024-01-01
+permalink: /publications/2024_cvpr_scalr
+date: 2024-06-20
 type: misc
 venue: "Computer Vision and Pattern Recognition (CVPR)"
 venue2: 
@@ -23,6 +23,9 @@ noteimportant:
 
 [Arxiv](https://arxiv.org/abs/2310.17504){: .btn }
 [Code](https://github.com/valeoai/ScaLR){: .btn}
+
+
+![ScaLR teaser](/images/publications/2024_CVPR_ScaLR/teaser.png)
 
 ### Abstract
 

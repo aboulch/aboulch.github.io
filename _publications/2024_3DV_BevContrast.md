@@ -22,6 +22,11 @@ noteimportant:
 ---
 
 [Arxiv](https://arxiv.org/abs/2310.17281){: .btn }
+[Code](https://github.com/valeoai/BEVContrast){: .btn}
+
+
+![BEVContrast teaser](/images/publications/2024_3DV_bevcontrast/teaser.png)
+
 
 ### Abstract
 
