@@ -6,8 +6,6 @@ permalink: /publications/2021_3dv_needrop
 date: 2021-12-01
 type: conference
 venue: "International Conference on 3D vision (3DV)"
-venue2: 
-venue3:
 paperurl:
 arxivurl: 
 halurl: 

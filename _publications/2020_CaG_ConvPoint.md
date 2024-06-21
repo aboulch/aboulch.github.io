@@ -5,9 +5,8 @@ author: "A. Boulch"
 permalink: /publications/2020_cag_convpoint
 date: 2020-01-01
 type: journal
-venue: "Computers & Graphics"
-venue2: "Eurographics Workshop 3D Object Retrieval (3DOR) 2019"
-venue3:
+venue: "Computers & Graphics <br/>
+        Eurographics Workshop 3D Object Retrieval (3DOR) 2019"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224"
 arxivurl: "https://arxiv.org/abs/1904.02375"
 halurl: 

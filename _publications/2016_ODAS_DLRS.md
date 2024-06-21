@@ -6,8 +6,6 @@ permalink: /publications/2016_odas_deep
 date: 2016-01-01
 type: conference
 venue: 'Onera-DLR Aerospace Symposium (ODAS)'
-venue2: 
-venue3:
 paperurl: 
 arxivurl: 
 halurl: 

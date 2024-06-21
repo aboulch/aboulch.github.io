@@ -6,8 +6,6 @@ permalink: /publications/2021_mlj_weak_change
 date: 2021-04-01
 type: journal
 venue: "Machine Learning Journal"
-venue2: 
-venue3:
 paperurl: "https://link.springer.com/article/10.1007/s10994-021-06008-4"
 arxivurl:
 halurl: 

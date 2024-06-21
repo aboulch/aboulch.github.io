@@ -6,8 +6,6 @@ permalink: /publications/2017_iconip_tec
 date: 2017-01-01
 type: conference
 venue: 'ICONIP'
-venue2: 
-venue3:
 paperurl: https://link.springer.com/chapter/10.1007/978-3-319-70139-4_55
 arxivurl: 
 halurl: 

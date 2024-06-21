@@ -6,8 +6,6 @@ permalink: /publications/2014_icpr_shapes
 date: 2014-01-01
 type: conference
 venue: 'International Conference on Pattern Recognition, ICPR'
-venue2: 
-venue3:
 paperurl: 'https://dl.acm.org/doi/abs/10.1109/ICPR.2014.171'
 arxivurl: 
 halurl:

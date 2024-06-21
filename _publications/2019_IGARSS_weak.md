@@ -6,8 +6,6 @@ permalink: /publications/2029_igarss_weak
 date: 2019-01-01
 type: conference
 venue: "International Geoscience and Remote Sensing Symposium, IGARSS"
-venue2: 
-venue3:
 paperurl: "https://ieeexplore.ieee.org/document/8898563"
 arxivurl: 
 halurl: "https://hal.archives-ouvertes.fr/hal-02355360"

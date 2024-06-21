@@ -6,8 +6,6 @@ permalink: /publications/2021_mlj_semisup
 date: 2021-01-01
 type: journal
 venue: "Machine Learning Journal"
-venue2: 
-venue3:
 paperurl: "https://link.springer.com/article/10.1007/s10994-020-05943-y"
 arxivurl: "https://arxiv.org/abs/2010.07830"
 halurl: 

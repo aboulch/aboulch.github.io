@@ -6,8 +6,6 @@ permalink: /publications/2024_cvpr_scalr
 date: 2024-06-20
 type: misc
 venue: "Computer Vision and Pattern Recognition (CVPR)"
-venue2: 
-venue3:
 paperurl: 
 arxivurl:
 halurl: 

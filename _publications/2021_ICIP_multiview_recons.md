@@ -6,8 +6,6 @@ permalink: /publications/2021_icip_multiview_recons
 date: 2021-04-01
 type: conference
 venue: "International Conference on Image Processing (ICIP)"
-venue2: 
-venue3:
 paperurl:
 arxivurl:
 halurl: 

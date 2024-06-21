@@ -6,8 +6,6 @@ permalink: /publications/2022_icpr_vasad
 date: 2022-08-01
 type: conference
 venue: "International Conference on Pattern Recognition (ICPR)"
-venue2: 
-venue3:
 paperurl: 
 arxivurl: 
 halurl: 

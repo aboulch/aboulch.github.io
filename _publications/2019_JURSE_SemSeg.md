@@ -6,8 +6,6 @@ permalink: /publications/2019_jurse_semseg
 date: 2019-01-01
 type: conference
 venue: "IEEE Joint Urban Remote Sensing Event (JURSE’2019)"
-venue2: 
-venue3:
 paperurl: "https://ieeexplore.ieee.org/document/8809071"
 arxivurl: 
 halurl: 

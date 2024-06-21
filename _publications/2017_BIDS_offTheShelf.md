@@ -6,8 +6,6 @@ permalink: /publications/2017_bids_offtheshelf
 date: 2017-01-01
 type: conference
 venue: 'Big Data from Space (BIDS), ESA Workshop'
-venue2: 
-venue3:
 paperurl: 
 arxivurl: 
 halurl: 

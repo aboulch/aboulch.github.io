@@ -6,8 +6,6 @@ permalink: /publications/2021_iccv_pcam
 date: 2021-10-11
 type: conference
 venue: "International Conference on Computer Vision (ICCV)"
-venue2: 
-venue3:
 paperurl:
 arxivurl: "https://arxiv.org/abs/2110.01269"
 halurl: 

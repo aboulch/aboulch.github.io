@@ -6,8 +6,6 @@ permalink: /publications/2020_icpr_starflow
 date: 2020-01-01
 type: conference
 venue: "25th international conference on pattern recognition (ICPR 2020)"
-venue2: 
-venue3:
 paperurl: 
 arxivurl: "https://arxiv.org/abs/2007.05481"
 halurl: 

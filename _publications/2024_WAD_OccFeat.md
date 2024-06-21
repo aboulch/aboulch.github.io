@@ -6,8 +6,6 @@ permalink: /publications/2024_WAD_OccFeat
 date: 2024-06-17
 type: conference
 venue: "CVPR Workshop on Autonomous Driving (WAD)"
-venue2: 
-venue3:
 paperurl: 
 arxivurl:
 halurl: 

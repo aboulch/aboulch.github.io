@@ -6,8 +6,6 @@ permalink: /publications/2018_rfiap_semseg
 date: 2018-01-01
 type: conference
 venue: "Conference Reconnaissance des Formes, Images, Apprentissage et Perception, RFIAP"
-venue2: 
-venue3:
 paperurl: 
 arxivurl: 
 halurl: "https://hal.archives-ouvertes.fr/hal-01809991v1"

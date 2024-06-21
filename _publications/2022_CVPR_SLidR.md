@@ -6,8 +6,6 @@ permalink: /publications/2022_cvpr_slidr
 date: 2022-03-01
 type: conference
 venue: "Computer Vision and Pattern Recognition (CVPR)"
-venue2: 
-venue3:
 paperurl: https://openaccess.thecvf.com/content/CVPR2022/html/Sautier_Image-to-Lidar_Self-Supervised_Distillation_for_Autonomous_Driving_Data_CVPR_2022_paper.html
 arxivurl: https://arxiv.org/abs/2203.16258
 halurl: 

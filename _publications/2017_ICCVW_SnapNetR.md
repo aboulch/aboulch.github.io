@@ -6,8 +6,6 @@ permalink: /publications/2015_iccvw_snapnetr
 date: 2017-01-01
 type: conference
 venue: 'Workshop 3D Reconstruction Meets Semantics (3DRMS), ICCV'
-venue2: 
-venue3:
 paperurl: https://openaccess.thecvf.com/content_ICCV_2017_workshops/w13/html/Guerry_SnapNet-R_Consistent_3D_ICCV_2017_paper.html
 arxivurl: 
 halurl: 

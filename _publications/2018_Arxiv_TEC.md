@@ -6,8 +6,6 @@ permalink: /publications/2018_arxiv_tec
 date: 2018-01-01
 type: misc
 venue: Arxiv
-venue2: 
-venue3:
 paperurl: 
 arxivurl: "https://arxiv.org/abs/1810.13273"
 halurl: 

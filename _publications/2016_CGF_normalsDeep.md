@@ -5,9 +5,8 @@ author: 'A. Boulch and R. Marlet'
 permalink: /publications/2016_cgf_normals
 date: 2016-01-01
 type: journal
-venue: 'Computer Graphics Forum, Wiley'
-venue2: 'Symposium on Geometry Processing 201 (SGP 2016)'
-venue3:
+venue: 'Computer Graphics Forum, Wiley <br/>
+        Symposium on Geometry Processing 201 (SGP 2016)'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12983'
 arxivurl: 
 halurl: 

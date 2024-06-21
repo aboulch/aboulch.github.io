@@ -6,8 +6,6 @@ permalink: /publications/2022_isprs_croco
 date: 2022-03-01
 type: conference
 venue: "International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, ISPRS Congress"
-venue2: 
-venue3:
 paperurl: "https://isprs-annals.copernicus.org/articles/V-2-2022/415/2022/"
 arxivurl: "https://arxiv.org/abs/2204.07052"
 halurl: "https://hal.science/hal-03991207/"

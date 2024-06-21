@@ -4,9 +4,9 @@ title: "Fast Normal Estimation for Point Clouds with Sharp Features using a Robu
 author: "A. Boulch and R. Marlet"
 permalink: /publications/2012_cgf_normals
 date: 2012-01-01
-venue: 'Computer Graphics Forum, Wiley'
-venue2: 'Symposium on Geometry Processing 2012 (SGP 2012)'
-venue3:
+venue: "Computer Graphics Forum, Wiley <br/>
+        Symposium on Geometry Processing 2012 (SGP 2012)
+        "
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03181.x'
 arxivurl: 
 halurl: 

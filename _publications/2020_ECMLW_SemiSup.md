@@ -6,8 +6,6 @@ permalink: /publications/2020_ecmlw_semisup
 date: 2020-01-01
 type: conference
 venue: "ECML-PKDD Workshop – MACLEAN – Machine Learning for Earth Observation"
-venue2: 
-venue3:
 paperurl: "http://ceur-ws.org/Vol-2766/"
 arxivurl:
 halurl: 

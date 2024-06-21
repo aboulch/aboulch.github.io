@@ -6,8 +6,6 @@ permalink: /publications/2018_igarss_change
 date: 2018-01-01
 type: conference
 venue: 'International Geoscience and Remote Sensing Symposium, IGARSS'
-venue2: 
-venue3:
 paperurl: 'https://ieeexplore.ieee.org/document/8518015'
 arxivurl: 'https://arxiv.org/abs/1810.08468'
 halurl: 

@@ -5,9 +5,8 @@ author: 'A. Lagrange, B. Le Saux, A. Beaupere, A. Boulch, A. Chan-Hon-Tong, S. H
 permalink: /publications/2016_jstars_eo
 date: 2016-01-01
 type: journal
-venue: 'IEEE JSTARS'
-venue2: 'IGARSS 2015'
-venue3:
+venue: 'IEEE JSTARS <br/>
+        IGARSS 2015'
 paperurl: 'https://ieeexplore.ieee.org/document/7326745'
 arxivurl: 
 halurl: 

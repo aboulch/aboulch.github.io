@@ -6,8 +6,6 @@ permalink: /publications/2024_3DV_saluda
 date: 2024-03-18
 type: conference
 venue: "International Conference on 3D vision (3DV)"
-venue2: 
-venue3:
 paperurl: 
 arxivurl:
 halurl: 

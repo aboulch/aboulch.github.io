@@ -6,8 +6,6 @@ permalink: /publications/2023_iccv_waffleiron
 date: 2023-01-01
 type: conference
 venue: "International Conference on Computer Vision (ICCV)"
-venue2: 
-venue3:
 paperurl: 
 arxivurl:
 halurl: 

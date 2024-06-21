@@ -6,8 +6,6 @@ permalink: /publications/2022_cvpr_poco
 date: 2022-03-01
 type: conference
 venue: "Computer Vision and Pattern Recognition (CVPR)"
-venue2: 
-venue3:
 paperurl: https://openaccess.thecvf.com/content/CVPR2022/html/Boulch_POCO_Point_Convolution_for_Surface_Reconstruction_CVPR_2022_paper.html
 arxivurl: https://arxiv.org/abs/2201.01831
 halurl: 

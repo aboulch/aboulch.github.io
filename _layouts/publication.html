@@ -139,15 +139,7 @@ layout: table_wrappers
 
 
         {% if page.venue %}
-        <p>Published in {{ page.venue }}, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-        {% endif %}
-        
-        {% if page.venue2 %}
-        <p>Also in {{ page.venue2 }}</p>
-        {% endif %}
-        
-        {% if page.venue3 %}
-        <p>Also in {{ page.venue3 }}</p>
+        <p> {{ page.venue }}, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% endif %}
         
         {% if page.note %}

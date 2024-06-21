@@ -6,8 +6,6 @@ permalink: /publications/2015_shrec_deformable
 date: 2017-01-01
 type: conference
 venue: '10th Eurographics workshop on 3D Object retrieval, 3DOR	conference'
-venue2: 
-venue3:
 paperurl: https://diglib.eg.org/handle/10.2312/3dor20171057
 arxivurl: 
 halurl: 

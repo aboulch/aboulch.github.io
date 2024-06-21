@@ -5,9 +5,8 @@ author: "A. Boulch, J. Guerry, B. Le Saux and N. Audebert"
 permalink: /publications/2018_cag_snapnet
 date: 2018-01-01
 type: journal
-venue: 'Computer and Graphics'
-venue2: 'Eurographics Workshop 3D Object Retrieval 2017'
-venue3:
+venue: 'Computer and Graphics <br/>
+        Eurographics Workshop 3D Object Retrieval 2017'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0097849317301942'
 arxivurl: 
 halurl: 

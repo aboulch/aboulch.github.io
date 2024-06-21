@@ -6,8 +6,6 @@ permalink: /publications/2017_gretsi_autoencoders
 date: 2017-01-01
 type: conference
 venue: 'XXVI colloque Gretsi'
-venue2: 
-venue3:
 paperurl:
 arxivurl: 
 halurl: 

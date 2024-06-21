@@ -5,8 +5,6 @@ author: "A. Boulch, É. Colin de Verdière and A. Nakamoto"
 permalink: /publications/2012_cag_triangulations
 date: 2012-01-01
 venue: 'Graphs and Combinatorics, Springer Verlag'
-venue2: 
-venue3:
 paperurl: 'https://link.springer.com/article/10.1007/s00373-012-1244-1'
 arxivurl: 
 halurl: 'https://hal.archives-ouvertes.fr/hal-01163747/document'

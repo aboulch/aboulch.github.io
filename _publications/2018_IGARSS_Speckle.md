@@ -6,8 +6,6 @@ permalink: /publications/2018_igarss_speckle
 date: 2018-01-01
 type: conference
 venue: 'International Geoscience and Remote Sensing Symposium, IGARSS'
-venue2: 
-venue3:
 paperurl: 'https://ieeexplore.ieee.org/document/8519370'
 arxivurl: 
 halurl: 

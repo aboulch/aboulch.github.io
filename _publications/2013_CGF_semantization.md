@@ -4,9 +4,8 @@ title: 'Semantizing Complex 3D Scenes using Constrained Attribute Grammars'
 author: 'A. Boulch, S. Houllier, R. Marlet and O. Tournaire'
 permalink: /publications/2013_cgf_semantization
 date: 2013-01-01
-venue: 'Computer Graphics Forum, Wiley'
-venue2: 'Symposium on Geometry Processing 2013 (SGP 2013)'
-venue3:
+venue: "Computer Graphics Forum, Wiley <br/>
+        Symposium on Geometry Processing 2013 (SGP 2013)"
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12170'
 arxivurl: 
 halurl:

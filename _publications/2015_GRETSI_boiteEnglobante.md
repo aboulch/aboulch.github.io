@@ -6,8 +6,6 @@ permalink: /publications/2015_gretsi_generator
 date: 2015-01-01
 type: conference
 venue: 'XXV colloque Gretsi'
-venue2: 
-venue3:
 paperurl: 
 arxivurl: 
 halurl: 'https://hal.archives-ouvertes.fr/hal-01175556/document'
