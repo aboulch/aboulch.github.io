@@ -37,7 +37,9 @@ nav_order: 1
 ![Static Badge](https://img.shields.io/badge/2023%2F10-darkgreen) Talk
 ![Static Badge](https://img.shields.io/badge/2023%2F10-blue) Papers / Conferences
 --->
-
+- ![Static Badge](https://img.shields.io/badge/2024%2F08%2F26-blue) - Modular4Cast (Valeo4Cast) is accepted at ECCV workshop ROAD
+- ![Static Badge](https://img.shields.io/badge/2024%2F08%2F11-blue) - ReGentS is accepted at ECCV workshop CODA
+- ![Static Badge](https://img.shields.io/badge/2024%2F07%2F01-blue) - TTYD is accepted at ECCV, main conference
 - ![Static Badge](https://img.shields.io/badge/2024%2F06%2F17-blue) - Valeo4Cast wins AV2 forecast challenge at [CVPR Workshop on Autonomous Driving 2024](https://cvpr2024.wad.vision/)
 - ![Static Badge](https://img.shields.io/badge/2024%2F05%2F15-darkgreen) - Talk at the CDV Expert Colloquium, presentation of *Unsupervised learning for point clouds*
 - ![Static Badge](https://img.shields.io/badge/2024%2F04%2F11-blue) - OccFeat is accepted at [CVPR Workshop on Autonomous Driving 2024](https://cvpr2024.wad.vision/)
