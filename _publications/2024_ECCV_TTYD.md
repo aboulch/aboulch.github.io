@@ -8,7 +8,7 @@ author: "Björn Michele &ensp;
         Renaud Marlet &ensp;
         Nicolas Courty"
 permalink: /publications/2024_ECCV_TTYD
-date: 2024-06-17
+date: 2024-09-29
 type: conference
 venue: "European Conference on Computer Vision (ECCV)"
 paperurl: 
