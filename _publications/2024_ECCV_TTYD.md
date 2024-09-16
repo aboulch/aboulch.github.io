@@ -26,6 +26,7 @@ noteimportant:
 
 [Arxiv](https://www.arxiv.org/abs/2409.04409){: .btn }
 [Code](https://github.com/valeoai/TTYD){: .btn }
+[Project](https://valeoai.github.io/publications/ttyd/){: .btn }
 
 ### Abstract
 
