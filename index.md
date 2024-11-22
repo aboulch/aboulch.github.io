@@ -13,7 +13,7 @@ nav_order: 1
 ## Affiliation
 
 |---|---|
-|<img width="128" src="/images/valeoai_logo.png" /> | **Research scientist** at Valeo.ai<br/> Machine learning and point cloud expert<br/> [Team scholar](https://scholar.google.com/citations?user=eM4nZ1sAAAAJ){: .btn } [Team page](https://valeoai.github.io/blog/){: .btn }|
+|<img width="128" src="/images/valeoai_logo.png" /> | **Senior research scientist** at Valeo.ai<br/> Machine learning and point cloud expert<br/> [Team scholar](https://scholar.google.com/citations?user=eM4nZ1sAAAAJ){: .btn } [Team page](https://valeoai.github.io/blog/){: .btn }|
 |<img width="128" src="/images/inria_logo.png"/>    | Member of the **Astra team**, Valeo-INRIA joint team<br/> [Team page](https://astra-vision.github.io/){: .btn }|
 
 
