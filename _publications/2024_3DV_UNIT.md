@@ -6,14 +6,14 @@ author: "Corentin Sautier &ensp
         Alexandre Boulch &ensp
         Renaud Marlet &ensp
         Vincent Lepetit"
-permalink: /publications/2024_arxiv_UNIT
-date: 2024-09-16
+permalink: /publications/2025_3DV_UNIT
+date: 2025-03-25
 type: conference
-venue: "Arxiv"
+venue: "International Conference on 3D vision (3DV)"
 paperurl: 
 arxivurl:
 halurl: 
-codeurl: 
+codeurl: https://github.com/valeoai/UNIT
 mediumurl: 
 blogurl: 
 pdfurl: 
@@ -24,6 +24,7 @@ noteimportant:
 ---
 
 [Arxiv](https://arxiv.org/abs/2409.07887){: .btn }
+[Code](https://github.com/valeoai/UNIT){: .btn}
 
 ### Abstract
 
