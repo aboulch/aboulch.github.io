@@ -22,7 +22,7 @@ venue: "CVPR Workshop on Autonomous Driving (WAD)"
 paperurl: 
 arxivurl:
 halurl: 
-codeurl: 
+codeurl: https://github.com/valeoai/valeo4cast
 mediumurl: 
 blogurl: 
 pdfurl: 
@@ -33,6 +33,7 @@ noteimportant:
 ---
 
 [Arxiv](https://arxiv.org/abs/2406.08113){: .btn }
+[Code](https://github.com/valeoai/valeo4cast){: .btn}
 
 ![Valeo4Cast teaser](/images/publications/2024_CVPR_WAD_valeo4cast/teaser.png)
 

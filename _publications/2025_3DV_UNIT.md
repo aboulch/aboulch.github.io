@@ -13,7 +13,7 @@ venue: "International Conference on 3D vision (3DV)"
 paperurl: 
 arxivurl:
 halurl: 
-codeurl: https://github.com/valeoai/UNIT
+codeurl:
 mediumurl: 
 blogurl: 
 pdfurl: 

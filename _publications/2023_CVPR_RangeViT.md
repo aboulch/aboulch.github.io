@@ -6,10 +6,10 @@ permalink: /publications/2023_cvpr_rangevit
 date: 2023-01-01
 type: conference
 venue: "Computer Vision and Pattern Recognition (CVPR)"
-paperurl: "https://openaccess.thecvf.com/content/CVPR2023/html/Ando_RangeViT_Towards_Vision_Transformers_for_3D_Semantic_Segmentation_in_Autonomous_CVPR_2023_paper.html"
-arxivurl: "https://arxiv.org/abs/2301.10222"
+paperurl: 
+arxivurl: 
 halurl: 
-codeurl: "https://github.com/valeoai/rangevit"
+codeurl: 
 mediumurl: 
 blogurl: 
 pdfurl: 
@@ -18,6 +18,10 @@ teaser:
 note:
 noteimportant: 
 ---
+
+[Arxiv](https://arxiv.org/abs/2301.10222){: .btn }
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ando_RangeViT_Towards_Vision_Transformers_for_3D_Semantic_Segmentation_in_Autonomous_CVPR_2023_paper.html){: .btn }
+[Code](https://github.com/valeoai/rangevit){: .btn }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/urd2ZIJ70WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

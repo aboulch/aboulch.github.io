@@ -6,10 +6,10 @@ permalink: /publications/2023_cvpr_also
 date: 2023-01-01
 type: conference
 venue: "Computer Vision and Pattern Recognition (CVPR)"
-paperurl: "https://openaccess.thecvf.com/content/CVPR2023/html/Boulch_ALSO_Automotive_Lidar_Self-Supervision_by_Occupancy_Estimation_CVPR_2023_paper.html"
-arxivurl: "https://arxiv.org/abs/2212.05867"
+paperurl: 
+arxivurl: 
 halurl: 
-codeurl: "https://github.com/valeoai/ALSO"
+codeurl: 
 mediumurl: 
 blogurl: 
 pdfurl: 
@@ -19,8 +19,12 @@ note:
 noteimportant: 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GGIBKlMvphw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Boulch_ALSO_Automotive_Lidar_Self-Supervision_by_Occupancy_Estimation_CVPR_2023_paper.html){: .btn }
+[Arxiv](https://arxiv.org/abs/2212.05867){: .btn }
+[Code](https://github.com/valeoai/ALSO){: .btn }
+[valeo.ai](https://valeoai.github.io/publications/also/){: .btn }
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GGIBKlMvphw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Abstract
