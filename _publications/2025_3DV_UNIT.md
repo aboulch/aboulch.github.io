@@ -1,10 +1,10 @@
 ---
 layout: publication
 title: "UNIT: Unsupervised Online Instance Segmentation through Time"
-author: "Corentin Sautier &ensp
-        Gilles Puy &ensp
-        Alexandre Boulch &ensp
-        Renaud Marlet &ensp
+author: "Corentin Sautier &ensp;
+        Gilles Puy &ensp;
+        Alexandre Boulch &ensp;
+        Renaud Marlet &ensp;
         Vincent Lepetit"
 permalink: /publications/2025_3DV_UNIT
 date: 2025-03-25
@@ -24,7 +24,8 @@ noteimportant:
 ---
 
 [Arxiv](https://arxiv.org/abs/2409.07887){: .btn }
-[Code](https://github.com/valeoai/UNIT){: .btn}
+[Code](https://github.com/valeoai/UNIT){: .btn }
+[Project](https://csautier.github.io/unit/){: .btn }
 
 ### Abstract
 
