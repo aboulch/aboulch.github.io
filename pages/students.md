@@ -5,6 +5,13 @@ nav_order: 4
 permalink: /students/
 ---
 
+# Post-doc
+
+## [Yuan Yin](https://yuan-yin.github.io/)
+*Adversarial trajectories for motion planners* <br/>
+at valeo.ai <br/>
+with Eloi Zablocki
+
 # Ph.D. student
 
 ## [Tetiana Martyniuk](https://scholar.google.com/citations?user=Ur0vgfMAAAAJ&hl=en)
@@ -48,6 +55,10 @@ PhD November 2020.
 
 
 # Undergrad / MSc. Students
+
+[**Matteo Marengo**](https://www.linkedin.com/in/matteolmarengo/): *Urban scene reconstruction*, 2024, cosupervised with Renaud Marlet and Raoul De Charette
+
+**Achraff Adlileye**: *Motion forecasting with additional data*, 2024, cosupervised with Yhong Xu
 
 **Pegah Khayatan**: *Robustness and corner case generation for motion forecasting*, 2023, cosupervised with Eloi Zablocki
 
