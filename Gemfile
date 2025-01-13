@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 # From just-the-docs gem file
-gemspec
 gem "base64"
 gem "csv"
 gem "jekyll-github-metadata", ">= 2.15"
