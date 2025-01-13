@@ -5,12 +5,6 @@ nav_order: 4
 permalink: /students/
 ---
 
-# Post-doc
-
-## [Yuan Yin](https://yuan-yin.github.io/)
-*Adversarial trajectories for motion planners* <br/>
-at valeo.ai <br/>
-with Eloi Zablocki
 
 # Ph.D. student
 
@@ -31,23 +25,33 @@ with Gilles Puy, Renaud Marlet and **Vincent Lepetit**
 
 # Alumni
 
+## [Yuan Yin](https://yuan-yin.github.io/)
+Post-doc <br/>
+*Adversarial trajectories for motion planners* <br/>
+at valeo.ai <br/>
+with Eloi Zablocki
+
 ## [Javiera Castillo Navarro](https://javicastillo.ml/)
+Ph.D. student <br/>
 *Semi-supervised semantic segmentation of large scale remote sensing data* <br/>
 At ONERA (DTIS/IVA) and IRISA. <br/>
 with Bertrand Le Saux and **Sébastien Lefèvre**
 
 ## [Pierre-Alain Langlois](http://imagine.enpc.fr/~langloip/index.html?page=CV)
+Ph.D. student <br/>
 *Geometric and semantic approaches for digital building model reconstruction* <br/>
 At ENPC (Imagine team). <br/>
 with **Renaud Marlet**
 
 ## [Pierre Godet](https://pgodet.github.io/)
+Ph.D. student <br/>
 *Machine learning for multi-frame motion estimation in videos* <br/>
 At ONERA (DTIS/IVA) <br/>
 with Aurélien Plyer and **Guy Le Besnerais**
 PhD January 2021.
 
 ## [Rodrigo Caye Daudt](https://rcdaudt.github.io/)
+Ph.D. student <br/>
 *Deep learning for remote sensing multi-temporal image analysis*. <br/>
 At ONERA (DTIS/IVA) and Télécom Paris (LTCI/IMAGES). <br/>
 with Bertrand Le Saux and **Yann Gousseau**.
@@ -74,6 +78,6 @@ PhD November 2020.
 
 [**Björn Michele**](https://www.bjoernmichele.com/): *Zero-shot learning for 3D data*, 2020, co-supervised with Maxime Bucher, Renaud Marlet and Gilles Puy
 
-**Jean-Lynce Gnanago**: *Deep learning TEC map prediction*, 2018, co-supervised with Fabien Gachet
+[**Jean-Lynce Gnanago**](https://fr.linkedin.com/in/jean-lynce-gnanago-0073ab159): *Deep learning TEC map prediction*, 2018, co-supervised with Fabien Gachet
 
 [**Noellie Cherrier**](https://scholar.google.com/citations?user=q-1yshoAAAAJ&hl=fr): *Deep learning TEC map prediction*, 2017, co-supervised with Thibault Castaings
