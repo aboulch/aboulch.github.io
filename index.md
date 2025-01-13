@@ -37,6 +37,7 @@ nav_order: 1
 ![Static Badge](https://img.shields.io/badge/2023%2F10-darkgreen) Talk
 ![Static Badge](https://img.shields.io/badge/2023%2F10-blue) Papers / Conferences
 --->
+- ![Static Badge](https://img.shields.io/badge/2025%2F01%2F22-darkgreen) - Talk at IOGS, 3A IOGS/master ATSI
 - ![Static Badge](https://img.shields.io/badge/2024%2F08%2F26-blue) - [UNIT](https://boulch.eu/publications/2025_3DV_UNIT) is accepted at [3DV](https://3dvconf.github.io/2025/)
 - ![Static Badge](https://img.shields.io/badge/2024%2F08%2F26-blue) - [Modular4Cast (Valeo4Cast)](https://boulch.eu/publications/2024_WAD_valeo4cast) is accepted at [ECCV workshop ROAD](https://sites.google.com/view/road-eccv2024/home)
 - ![Static Badge](https://img.shields.io/badge/2024%2F08%2F11-blue) - [ReGentS](https://boulch.eu/publications/2024_ECCVW_Regents) is accepted at [ECCV workshop CODA](https://coda-dataset.github.io/w-coda2024/)
