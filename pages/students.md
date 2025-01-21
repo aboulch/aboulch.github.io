@@ -8,6 +8,11 @@ permalink: /students/
 
 # Ph.D. student
 
+## [Loick Chambon](https://loickch.github.io/)
+*Scene perception for autonomous driving* <br/>
+at valeo.ai and Sorbonne University <br/>
+with Eloi Zablocki and **Matthieu Cord**
+
 ## [Tetiana Martyniuk](https://scholar.google.com/citations?user=Ur0vgfMAAAAJ&hl=en)
 *Conditional generation for urban scenes* <br/>
 in ASTRA team, joint valeo.ai / INRIA team <br/>
