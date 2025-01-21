@@ -30,9 +30,6 @@ nav_order: 1
 
 [Here is a more complete list of publications](/publications) -->
 
-2025/01/22
-{: .label .label-green } 
-Talk at IOGS, 3A IOGS/master ATSI
 
 ## News
 
