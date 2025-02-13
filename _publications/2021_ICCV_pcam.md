@@ -4,20 +4,13 @@ title: "PCAM: Product of Cross-Attention Matrices for Rigid Registration of Poin
 author: "A.-Q. Cao, G. Puy, A. Boulch and R. Marlet"
 permalink: /publications/2021_iccv_pcam
 date: 2021-10-11
-type: conference
 venue: "International Conference on Computer Vision (ICCV)"
-paperurl:
-arxivurl: "https://arxiv.org/abs/2110.01269"
-halurl: 
-codeurl: "https://github.com/valeoai/PCAM"
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser: "/files/2021_iccv_pcam/2021_iccv_pcam_thumbnail.png"
-note:
-noteimportant: 
 ---
+
+[Paper](https://ieeexplore.ieee.org/document/9711218){: .btn }
+[Arxiv](https://arxiv.org/abs/2110.01269){: .btn }
+[HAL](https://dumas.ccsd.cnrs.fr/LIGM_A3SI/hal-03364975v1){: .btn }
+[Code](https://github.com/valeoai/PCAM){: .btn}
 
 
 ### Abstract

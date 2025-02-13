@@ -4,20 +4,12 @@ title: "3D Reconstruction by Parameterized Surface Mapping"
 author: "P.-A. Langlois, M. Fisher, O. Wang, V. Kim, A. Boulch, R. Marlet, B. Russell"
 permalink: /publications/2021_icip_multiview_recons
 date: 2021-04-01
-type: conference
 venue: "International Conference on Image Processing (ICIP)"
-paperurl:
-arxivurl:
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser: "/files/2021_icip_multiview.png"
-note:
-noteimportant: 
 ---
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/9506425){: .btn}
+[HAL](https://hal.inrae.fr/LIGM_A3SI/hal-04496462v1){: .btn }
+
 
 
 ### Abstract

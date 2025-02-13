@@ -4,21 +4,12 @@ title: "Semi-Supervised Semantic Segmentation in Earth Observation: The MiniFran
 author: "J. Castillo-Navarro, B. Le Saux, A. Boulch, N. Audebert, and S. Lefèvre"
 permalink: /publications/2021_mlj_semisup
 date: 2021-01-01
-type: journal
 venue: "Machine Learning Journal"
-paperurl: "https://link.springer.com/article/10.1007/s10994-020-05943-y"
-arxivurl: "https://arxiv.org/abs/2010.07830"
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser: "/files/2020_ml_semisup/2020_ml_semisup_thumbnail.png"
-note:
-noteimportant: 
 ---
 
+[Paper](https://link.springer.com/article/10.1007/s10994-020-05943-y){: .btn}
+[Arxiv](https://arxiv.org/abs/2010.07830){: .btn}
+[Dataset](https://ieee-dataport.org/open-access/minifrance){: .btn }
 
 ### Abstract
 

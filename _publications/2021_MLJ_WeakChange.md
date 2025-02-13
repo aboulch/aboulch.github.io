@@ -4,21 +4,11 @@ title: "Weakly Supervised Change Detection Using Guided Anisotropic Diffusion"
 author: "R. C. Daudt, B. Le Saux, A. Boulch and Y. Gousseau"
 permalink: /publications/2021_mlj_weak_change
 date: 2021-04-01
-type: journal
 venue: "Machine Learning Journal"
-paperurl: "https://link.springer.com/article/10.1007/s10994-021-06008-4"
-arxivurl:
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser: "/files/2019_cvprw_change_detection/2019_cvprw_change_detection_thumbnail.png"
-note:
-noteimportant: 
 ---
 
+[Paper](https://link.springer.com/article/10.1007/s10994-021-06008-4){: .btn }
+[Arxiv](https://arxiv.org/abs/2112.15367){: .btn }
 
 ### Abstract
 

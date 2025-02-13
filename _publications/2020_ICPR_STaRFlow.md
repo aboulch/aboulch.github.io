@@ -4,22 +4,13 @@ title: "STaRFlow: A SpatioTemporal Recurrent Cell for Lightweight Multi-Frame Op
 author: "P.Godet, A. Boulch, A. Plyer and G. Le Besnerais"
 permalink: /publications/2020_icpr_starflow
 date: 2020-01-01
-type: conference
 venue: "25th international conference on pattern recognition (ICPR 2020)"
-paperurl: 
-arxivurl: "https://arxiv.org/abs/2007.05481"
-halurl: 
-codeurl: "https://github.com/pgodet/star_flow"
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser: "/files/2020_icpr_starflow/2020_icpr_starflow_thumbnail.png"
-note:
-noteimportant: 
 ---
 
-
+[Paper](https://ieeexplore.ieee.org/document/9412269){: .btn }
+[Arxiv](https://arxiv.org/abs/2007.05481){: .btn }
+[HAL](https://hal.science/hal-03132982){: .btn }
+[Code](https://github.com/pgodet/star_flow){: .btn }
 
 ### Abstract
 

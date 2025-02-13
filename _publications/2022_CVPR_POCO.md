@@ -4,20 +4,13 @@ title: "POCO: Point Convolution for Surface Reconstruction"
 author: "A. Boulch and R. Marlet"
 permalink: /publications/2022_cvpr_poco
 date: 2022-03-01
-type: conference
 venue: "Computer Vision and Pattern Recognition (CVPR)"
-paperurl: https://openaccess.thecvf.com/content/CVPR2022/html/Boulch_POCO_Point_Convolution_for_Surface_Reconstruction_CVPR_2022_paper.html
-arxivurl: https://arxiv.org/abs/2201.01831
-halurl: 
-codeurl: "https://github.com/valeoai/POCO"
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
+
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Boulch_POCO_Point_Convolution_for_Surface_Reconstruction_CVPR_2022_paper.html){: .btn }
+[Arxiv](https://arxiv.org/abs/2201.01831){: .btn}
+[Code](https://github.com/valeoai/POCO){: .btn }
+
 
 ### Abstract
 
