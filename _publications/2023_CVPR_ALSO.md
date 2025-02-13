@@ -4,19 +4,7 @@ title: "ALSO: Automotive Lidar Self-supervision by Occupancy estimation"
 author: "A. Boulch, C. Sautier, B. Michele, G. Puy, R. Marlet"
 permalink: /publications/2023_cvpr_also
 date: 2023-01-01
-type: conference
 venue: "Computer Vision and Pattern Recognition (CVPR)"
-paperurl: 
-arxivurl: 
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
 [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Boulch_ALSO_Automotive_Lidar_Self-Supervision_by_Occupancy_Estimation_CVPR_2023_paper.html){: .btn }

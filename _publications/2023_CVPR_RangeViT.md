@@ -4,19 +4,7 @@ title: "RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Au
 author: "A. Ando, S. Gidaris, A. Bursuc, G. Puy, A. Boulch, R. Marlet"
 permalink: /publications/2023_cvpr_rangevit
 date: 2023-01-01
-type: conference
 venue: "Computer Vision and Pattern Recognition (CVPR)"
-paperurl: 
-arxivurl: 
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
 [Arxiv](https://arxiv.org/abs/2301.10222){: .btn }

@@ -4,21 +4,12 @@ title: "VASAD: a Volume and Semantic dataset for Building Reconstruction from Po
 author: "P.-A. Langlois, Y. Xiao, A. Boulch, R. Marlet"
 permalink: /publications/2022_icpr_vasad
 date: 2022-08-01
-type: conference
 venue: "International Conference on Pattern Recognition (ICPR)"
-paperurl: 
-arxivurl: 
-halurl: 
-codeurl: https://github.com/palanglois/vasad
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
+[Paper](https://ieeexplore.ieee.org/document/9956356){: .btn }
+[Code](https://github.com/palanglois/vasad){: .btn }
+[HAL](https://hal.science/hal-03887305){: .btn }
 
 ### Abstract
 

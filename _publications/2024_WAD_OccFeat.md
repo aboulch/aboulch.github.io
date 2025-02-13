@@ -4,19 +4,7 @@ title: "OccFeat: Self-supervised Occupancy Feature Prediction for Pretraining BE
 author: "S. Sirko-Galouchenko, A. Boulch, S. Gidaris, A. Bursuc, A. Vobecky, P. Pérez, R. Marlet"
 permalink: /publications/2024_WAD_OccFeat
 date: 2024-06-17
-type: conference
 venue: "CVPR Workshop on Autonomous Driving (WAD)"
-paperurl: 
-arxivurl:
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
 [Arxiv](https://arxiv.org/abs/2404.14027){: .btn }

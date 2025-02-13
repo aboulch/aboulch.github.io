@@ -8,19 +8,7 @@ author: "Corentin Sautier &ensp;
         Vincent Lepetit"
 permalink: /publications/2025_3DV_UNIT
 date: 2025-03-25
-type: conference
 venue: "International Conference on 3D vision (3DV)"
-paperurl: 
-arxivurl:
-halurl: 
-codeurl:
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
 [Arxiv](https://arxiv.org/abs/2409.07887){: .btn }

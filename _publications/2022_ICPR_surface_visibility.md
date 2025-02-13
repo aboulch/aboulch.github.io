@@ -4,21 +4,13 @@ title: "Deep Surface Reconstruction from Point Clouds with Visibility Informatio
 author: "R. Sulzer, L. Landrieu, A. Boulch, R. Marlet and B. Vallet"
 permalink: /publications/2022_icpr_surface_visibility
 date: 2022-08-01
-type: conference
 venue: "International Conference on Pattern Recognition (ICPR)"
-paperurl: 
-arxivurl: https://arxiv.org/abs/2202.01810
-halurl: https://hal.archives-ouvertes.fr/hal-03575517/document
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
+[Paper](https://ieeexplore.ieee.org/document/9956560){: .btn }
+[Arxiv](https://arxiv.org/abs/2202.01810){: .btn }
+[HAL](https://hal.archives-ouvertes.fr/hal-03575517/document){: .btn }
+[Code](https://github.com/raphaelsulzer/dsrv-data){: .btn }
 
 ### Abstract
 

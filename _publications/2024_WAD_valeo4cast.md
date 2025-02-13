@@ -17,19 +17,7 @@ author: "Yihong Xu &ensp;
          Matthieu Cord"
 permalink: /publications/2024_WAD_valeo4cast
 date: 2024-06-17
-type: conference
 venue: "CVPR Workshop on Autonomous Driving (WAD)"
-paperurl: 
-arxivurl:
-halurl: 
-codeurl: https://github.com/valeoai/valeo4cast
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
 [Arxiv](https://arxiv.org/abs/2406.08113){: .btn }

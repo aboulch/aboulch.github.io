@@ -8,19 +8,7 @@ author: "Loick Chambon &ensp;
         Matthieu Cord"
 permalink: /publications/2025_GaussRender
 date: 2025-02-10
-type: preprint
 venue: "Arxiv"
-paperurl: 
-arxivurl: https://arxiv.org/abs/2502.05040
-halurl: 
-codeurl:
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
 [Arxiv](https://arxiv.org/abs/2502.05040){: .btn }

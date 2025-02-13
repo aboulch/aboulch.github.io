@@ -1,5 +1,5 @@
 ---
-layout: table_wrappers
+layout: default
 ---
 
 <!-- Content -->
@@ -21,7 +21,7 @@ layout: table_wrappers
 <p><span style="color: #ff0000">{{ page.noteimportant }}</span></p>
 {% endif %}
 
-<p align="center">
+<!-- <p align="center">
   {% if page.paperurl %}
   &emsp;<a href="{{ page.paperurl }}" target="_blank">Paper</a>
   {% endif %}
@@ -45,5 +45,8 @@ layout: table_wrappers
   {% if page.videourl %}
   &emsp;<a href="{{ page.videourl }}" target="_blank">Video</a>
   {% endif %}
-</p>
+</p> -->
+
+{{ content }}
+
 <!-- End Content -->

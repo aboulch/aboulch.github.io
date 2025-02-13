@@ -4,20 +4,12 @@ title: "CroCo: Cross-Modal Contrastive learning for localization of Earth Observ
 author: "W.-H. Tseng, H.-Â. Lê, A. Boulch, S. Lefèvre and D. Tiede"
 permalink: /publications/2022_isprs_croco
 date: 2022-03-01
-type: conference
 venue: "International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, ISPRS Congress"
-paperurl: "https://isprs-annals.copernicus.org/articles/V-2-2022/415/2022/"
-arxivurl: "https://arxiv.org/abs/2204.07052"
-halurl: "https://hal.science/hal-03991207/"
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
+
+[Paper](https://isprs-annals.copernicus.org/articles/V-2-2022/415/2022/){: .btn }
+[Arxiv](https://arxiv.org/abs/2204.07052){: .btn }
+[HAL](https://hal.science/hal-03991207/){: .btn }
 
 
 ### Abstract

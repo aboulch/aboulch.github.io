@@ -8,19 +8,7 @@ author: "Yuan Yin &ensp
         Matthieu Cord"
 permalink: /publications/2024_ECCVW_Regents
 date: 2024-09-29
-type: conference
 venue: "ECCV Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving"
-paperurl: 
-arxivurl:
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
 [Arxiv](https://arxiv.org/abs/2409.07830){: .btn }

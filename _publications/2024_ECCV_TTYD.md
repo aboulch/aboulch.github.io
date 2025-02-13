@@ -9,19 +9,7 @@ author: "Björn Michele &ensp;
         Nicolas Courty"
 permalink: /publications/2024_ECCV_TTYD
 date: 2024-09-29
-type: conference
 venue: "European Conference on Computer Vision (ECCV)"
-paperurl: 
-arxivurl:
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
 [Arxiv](https://www.arxiv.org/abs/2409.04409){: .btn }

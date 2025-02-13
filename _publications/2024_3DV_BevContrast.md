@@ -4,19 +4,7 @@ title: "BEVContrast: Self-Supervision in BEV Space for Automotive Lidar Point Cl
 author: "C. Sautier, G. Puy, A. Boulch, R. Marlet, V. Lepetit"
 permalink: /publications/2024_3DV_bevcontrast
 date: 2024-03-18
-type: conference
 venue: "International Conference on 3D vision (3DV)"
-paperurl: 
-arxivurl:
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser:
-note:
-noteimportant: 
 ---
 
 [Arxiv](https://arxiv.org/abs/2310.17281){: .btn }
