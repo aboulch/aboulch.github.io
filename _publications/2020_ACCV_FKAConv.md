@@ -4,20 +4,13 @@ title: "FKAConv: Feature-Kernel Alignment for Point Cloud Convolution"
 author: "A. Boulch, G. Puy and R. Marlet"
 permalink: /publications/2020_accv_fkaconv
 date: 2020-12-01
-type: conference
 venue: "15th Asian Conference on Computer Vision (ACCV 2020)"
-paperurl: "https://openaccess.thecvf.com/content/ACCV2020/html/Boulch_FKAConv_Feature-Kernel_Alignment_for_Point_Cloud_Convolution_ACCV_2020_paper.html"
-arxivurl: "https://arxiv.org/abs/2004.04462"
-halurl: 
-codeurl: "https://github.com/valeoai/FKAConv"
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: "/files/2020_accv_fkaconv/2020_accv_fkaconv_slides.pdf"
-teaser: "/files/2020_accv_fkaconv/2020_accv_fkaconv_thumbnail.png"
-note:
-noteimportant: 
 ---
+
+[Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Boulch_FKAConv_Feature-Kernel_Alignment_for_Point_Cloud_Convolution_ACCV_2020_paper.html){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2004.04462){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/FKAConv){: .btn .btn-purple .mr-4 }
+[Slides](/files/2020_accv_fkaconv/2020_accv_fkaconv_slides.pdf){: .btn .btn-purple .mr-4 }
 
 
 ### Abstract

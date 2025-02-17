@@ -12,9 +12,9 @@ date: 2024-09-29
 venue: "European Conference on Computer Vision (ECCV)"
 ---
 
-[Arxiv](https://www.arxiv.org/abs/2409.04409){: .btn }
-[Code](https://github.com/valeoai/TTYD){: .btn }
-[Project](https://valeoai.github.io/publications/ttyd/){: .btn }
+[Arxiv](https://www.arxiv.org/abs/2409.04409){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/TTYD){: .btn .btn-purple .mr-4 }
+[Project](https://valeoai.github.io/publications/ttyd/){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

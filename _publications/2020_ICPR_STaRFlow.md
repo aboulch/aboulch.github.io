@@ -7,10 +7,10 @@ date: 2020-01-01
 venue: "25th international conference on pattern recognition (ICPR 2020)"
 ---
 
-[Paper](https://ieeexplore.ieee.org/document/9412269){: .btn }
-[Arxiv](https://arxiv.org/abs/2007.05481){: .btn }
-[HAL](https://hal.science/hal-03132982){: .btn }
-[Code](https://github.com/pgodet/star_flow){: .btn }
+[Paper](https://ieeexplore.ieee.org/document/9412269){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2007.05481){: .btn .btn-purple .mr-4 }
+[HAL](https://hal.science/hal-03132982){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/pgodet/star_flow){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

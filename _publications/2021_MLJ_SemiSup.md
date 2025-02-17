@@ -7,9 +7,9 @@ date: 2021-01-01
 venue: "Machine Learning Journal"
 ---
 
-[Paper](https://link.springer.com/article/10.1007/s10994-020-05943-y){: .btn}
-[Arxiv](https://arxiv.org/abs/2010.07830){: .btn}
-[Dataset](https://ieee-dataport.org/open-access/minifrance){: .btn }
+[Paper](https://link.springer.com/article/10.1007/s10994-020-05943-y){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2010.07830){: .btn .btn-purple .mr-4 }
+[Dataset](https://ieee-dataport.org/open-access/minifrance){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

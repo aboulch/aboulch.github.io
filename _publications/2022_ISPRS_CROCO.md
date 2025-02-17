@@ -7,9 +7,9 @@ date: 2022-03-01
 venue: "International Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, ISPRS Congress"
 ---
 
-[Paper](https://isprs-annals.copernicus.org/articles/V-2-2022/415/2022/){: .btn }
-[Arxiv](https://arxiv.org/abs/2204.07052){: .btn }
-[HAL](https://hal.science/hal-03991207/){: .btn }
+[Paper](https://isprs-annals.copernicus.org/articles/V-2-2022/415/2022/){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2204.07052){: .btn .btn-purple .mr-4 }
+[HAL](https://hal.science/hal-03991207/){: .btn .btn-purple .mr-4 }
 
 
 ### Abstract

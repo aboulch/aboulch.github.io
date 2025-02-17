@@ -7,9 +7,9 @@ date: 2022-08-01
 venue: "International Conference on Pattern Recognition (ICPR)"
 ---
 
-[Paper](https://ieeexplore.ieee.org/document/9956356){: .btn }
-[Code](https://github.com/palanglois/vasad){: .btn }
-[HAL](https://hal.science/hal-03887305){: .btn }
+[Paper](https://ieeexplore.ieee.org/document/9956356){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/palanglois/vasad){: .btn .btn-purple .mr-4 }
+[HAL](https://hal.science/hal-03887305){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

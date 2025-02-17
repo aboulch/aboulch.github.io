@@ -4,22 +4,14 @@ title: "ConvPoint: Continuous Convolutions for Point Cloud Processing"
 author: "A. Boulch"
 permalink: /publications/2020_cag_convpoint
 date: 2020-01-01
-type: journal
 venue: "Computers & Graphics <br/>
         Eurographics Workshop 3D Object Retrieval (3DOR) 2019"
-paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224"
-arxivurl: "https://arxiv.org/abs/1904.02375"
-halurl: 
-codeurl: "https://github.com/aboulch/ConvPoint"
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: "https://aboulch.github.io/files/talks/2019_3dor_conv_slides.pdf"
-teaser: "/files/2020_cag_convpoint/2020_cag_convpoint_thumbnail.png"
-note:
-noteimportant: 
 ---	
 
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/1904.02375){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/aboulch/ConvPoint){: .btn .btn-purple .mr-4 }
+[Slides](https://aboulch.github.io/files/talks/2019_3dor_conv_slides.pdf){: .btn .btn-purple .mr-4 }
 
 
 ### Abstract

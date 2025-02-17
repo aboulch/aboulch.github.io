@@ -7,9 +7,9 @@ date: 2022-03-01
 venue: "Computer Vision and Pattern Recognition (CVPR)"
 ---
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Boulch_POCO_Point_Convolution_for_Surface_Reconstruction_CVPR_2022_paper.html){: .btn }
-[Arxiv](https://arxiv.org/abs/2201.01831){: .btn}
-[Code](https://github.com/valeoai/POCO){: .btn }
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Boulch_POCO_Point_Convolution_for_Surface_Reconstruction_CVPR_2022_paper.html){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2201.01831){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/POCO){: .btn .btn-purple .mr-4 }
 
 
 ### Abstract

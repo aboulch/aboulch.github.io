@@ -7,8 +7,8 @@ date: 2021-04-01
 venue: "International Conference on Image Processing (ICIP)"
 ---
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9506425){: .btn}
-[HAL](https://hal.inrae.fr/LIGM_A3SI/hal-04496462v1){: .btn }
+[Paper](https://ieeexplore.ieee.org/abstract/document/9506425){: .btn .btn-purple .mr-4 }
+[HAL](https://hal.inrae.fr/LIGM_A3SI/hal-04496462v1){: .btn .btn-purple .mr-4 }
 
 
 

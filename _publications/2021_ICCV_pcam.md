@@ -7,10 +7,10 @@ date: 2021-10-11
 venue: "International Conference on Computer Vision (ICCV)"
 ---
 
-[Paper](https://ieeexplore.ieee.org/document/9711218){: .btn }
-[Arxiv](https://arxiv.org/abs/2110.01269){: .btn }
-[HAL](https://dumas.ccsd.cnrs.fr/LIGM_A3SI/hal-03364975v1){: .btn }
-[Code](https://github.com/valeoai/PCAM){: .btn}
+[Paper](https://ieeexplore.ieee.org/document/9711218){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2110.01269){: .btn .btn-purple .mr-4 }
+[HAL](https://dumas.ccsd.cnrs.fr/LIGM_A3SI/hal-03364975v1){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/PCAM){: .btn .btn-purple .mr-4 }
 
 
 ### Abstract

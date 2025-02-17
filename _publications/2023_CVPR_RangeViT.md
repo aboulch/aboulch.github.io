@@ -7,10 +7,10 @@ date: 2023-01-01
 venue: "Computer Vision and Pattern Recognition (CVPR)"
 ---
 
-[Arxiv](https://arxiv.org/abs/2301.10222){: .btn }
-[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ando_RangeViT_Towards_Vision_Transformers_for_3D_Semantic_Segmentation_in_Autonomous_CVPR_2023_paper.html){: .btn }
-[Code](https://github.com/valeoai/rangevit){: .btn }
-[valeo.ai](https://valeoai.github.io/publications/rangevit/){: .btn }
+[Arxiv](https://arxiv.org/abs/2301.10222){: .btn .btn-purple .mr-4 }
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ando_RangeViT_Towards_Vision_Transformers_for_3D_Semantic_Segmentation_in_Autonomous_CVPR_2023_paper.html){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/rangevit){: .btn .btn-purple .mr-4 }
+[valeo.ai](https://valeoai.github.io/publications/rangevit/){: .btn .btn-purple .mr-4 }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/urd2ZIJ70WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

@@ -7,9 +7,9 @@ date: 2021-12-01
 venue: "International Conference on 3D vision (3DV)"
 ---
 
-[Paper](https://www.computer.org/csdl/proceedings-article/3dv/2021/268800a940/1zWEezCujxC){: .btn }
-[Arxiv](https://arxiv.org/abs/2111.15207){: .btn }
-[Code](https://github.com/valeoai/NeeDrop){: .btn }
+[Paper](https://www.computer.org/csdl/proceedings-article/3dv/2021/268800a940/1zWEezCujxC){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2111.15207){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/NeeDrop){: .btn .btn-purple .mr-4 }
 
 
 ### Abstract

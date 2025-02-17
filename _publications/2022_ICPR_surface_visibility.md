@@ -7,10 +7,10 @@ date: 2022-08-01
 venue: "International Conference on Pattern Recognition (ICPR)"
 ---
 
-[Paper](https://ieeexplore.ieee.org/document/9956560){: .btn }
-[Arxiv](https://arxiv.org/abs/2202.01810){: .btn }
-[HAL](https://hal.archives-ouvertes.fr/hal-03575517/document){: .btn }
-[Code](https://github.com/raphaelsulzer/dsrv-data){: .btn }
+[Paper](https://ieeexplore.ieee.org/document/9956560){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2202.01810){: .btn .btn-purple .mr-4 }
+[HAL](https://hal.archives-ouvertes.fr/hal-03575517/document){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/raphaelsulzer/dsrv-data){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

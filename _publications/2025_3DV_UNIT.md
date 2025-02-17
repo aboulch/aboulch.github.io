@@ -11,9 +11,9 @@ date: 2025-03-25
 venue: "International Conference on 3D vision (3DV)"
 ---
 
-[Arxiv](https://arxiv.org/abs/2409.07887){: .btn }
-[Code](https://github.com/valeoai/UNIT){: .btn }
-[Project](https://csautier.github.io/unit/){: .btn }
+[Arxiv](https://arxiv.org/abs/2409.07887){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/UNIT){: .btn .btn-purple .mr-4 }
+[Project](https://csautier.github.io/unit/){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

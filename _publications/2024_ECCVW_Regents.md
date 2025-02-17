@@ -11,8 +11,8 @@ date: 2024-09-29
 venue: "ECCV Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving"
 ---
 
-[Arxiv](https://arxiv.org/abs/2409.07830){: .btn }
-[Code](https://github.com/valeoai/ReGentS){: .btn}
+[Arxiv](https://arxiv.org/abs/2409.07830){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/ReGentS){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

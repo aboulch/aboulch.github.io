@@ -7,9 +7,9 @@ date: 2023-01-01
 venue: "International Conference on Computer Vision (ICCV)"
 ---
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Puy_Using_a_Waffle_Iron_for_Automotive_Point_Cloud_Semantic_Segmentation_ICCV_2023_paper.html){: .btn }
-[Arxiv](https://arxiv.org/abs/2301.10100){: .btn }
-[Code](https://github.com/valeoai/WaffleIron){: .btn }
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Puy_Using_a_Waffle_Iron_for_Automotive_Point_Cloud_Semantic_Segmentation_ICCV_2023_paper.html){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2301.10100){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/WaffleIron){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

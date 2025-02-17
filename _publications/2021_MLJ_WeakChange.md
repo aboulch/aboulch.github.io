@@ -7,8 +7,8 @@ date: 2021-04-01
 venue: "Machine Learning Journal"
 ---
 
-[Paper](https://link.springer.com/article/10.1007/s10994-021-06008-4){: .btn }
-[Arxiv](https://arxiv.org/abs/2112.15367){: .btn }
+[Paper](https://link.springer.com/article/10.1007/s10994-021-06008-4){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2112.15367){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

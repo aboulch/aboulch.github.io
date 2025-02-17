@@ -4,21 +4,11 @@ title: "FLOT: Scene Flow on Point Clouds Guided by Optimal Transport"
 author: "G. Puy, A. Boulch and R. Marlet"
 permalink: /publications/2020_eccv_flot
 date: 2020-01-01
-type: conference
 venue: "European Conference on Computer Vision (ECCV)"
-paperurl: "https://link.springer.com/chapter/10.1007/978-3-030-58604-1_32"
-arxivurl: "https://arxiv.org/abs/2007.11142"
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: 
-slidesurl: 
-teaser: "/files/2020_eccv_flot/2020_eccv_flot_thumbnail.png"
-note:
-noteimportant: 
 ---
 
+[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_32){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2007.11142){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

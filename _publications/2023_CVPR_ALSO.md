@@ -7,10 +7,10 @@ date: 2023-01-01
 venue: "Computer Vision and Pattern Recognition (CVPR)"
 ---
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Boulch_ALSO_Automotive_Lidar_Self-Supervision_by_Occupancy_Estimation_CVPR_2023_paper.html){: .btn }
-[Arxiv](https://arxiv.org/abs/2212.05867){: .btn }
-[Code](https://github.com/valeoai/ALSO){: .btn }
-[valeo.ai](https://valeoai.github.io/publications/also/){: .btn }
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Boulch_ALSO_Automotive_Lidar_Self-Supervision_by_Occupancy_Estimation_CVPR_2023_paper.html){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2212.05867){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/ALSO){: .btn .btn-purple .mr-4 }
+[valeo.ai](https://valeoai.github.io/publications/also/){: .btn .btn-purple .mr-4 }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGIBKlMvphw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

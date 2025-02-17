@@ -7,9 +7,9 @@ date: 2022-03-01
 venue: "Computer Vision and Pattern Recognition (CVPR)"
 ---
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Sautier_Image-to-Lidar_Self-Supervised_Distillation_for_Autonomous_Driving_Data_CVPR_2022_paper.html){: .btn }
-[Arxiv](https://arxiv.org/abs/2203.16258){: .btn }
-[Code](https://github.com/valeoai/SLidR){: .btn }
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Sautier_Image-to-Lidar_Self-Supervised_Distillation_for_Autonomous_Driving_Data_CVPR_2022_paper.html){: .btn .btn-purple .mr-4 }
+[Arxiv](https://arxiv.org/abs/2203.16258){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/SLidR){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

@@ -7,8 +7,8 @@ date: 2024-03-18
 venue: "International Conference on 3D vision (3DV)"
 ---
 
-[Arxiv](https://arxiv.org/abs/2310.17281){: .btn }
-[Code](https://github.com/valeoai/BEVContrast){: .btn}
+[Arxiv](https://arxiv.org/abs/2310.17281){: .btn .btn-purple .mr-4 }
+[Code](https://github.com/valeoai/BEVContrast){: .btn .btn-purple .mr-4 }
 
 
 ![BEVContrast teaser](/images/publications/2024_3DV_bevcontrast/teaser.png)
