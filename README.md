@@ -1,5 +1,7 @@
 # Local install
 
+Note: old version
+
 - install just the docs locally 
 - run
 ```
