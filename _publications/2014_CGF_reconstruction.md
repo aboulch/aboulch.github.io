@@ -11,7 +11,7 @@ venue: 'Computer Graphics Forum, Wiley <br/>
 [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12431){: .btn .btn-purple .mr-4}
 [PDF](/files/2014_cgf_reconstruction/2014_cgf_reconstruction_boulch.pdf){: .btn .btn-purple .mr-4}
 
-![](/files/2014_cgf_reconstruction/2014_cgf_reconstruction.png)
+![](/files/2014_cgf_reconstruction/teaser.png)
 
 ### Abstract
 

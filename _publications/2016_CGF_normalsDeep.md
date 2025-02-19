@@ -4,23 +4,16 @@ title: 'Deep Learning for Robust Normal Estimation in Unstructured Point Clouds'
 author: 'A. Boulch and R. Marlet'
 permalink: /publications/2016_cgf_normals
 date: 2016-01-01
-type: journal
 venue: 'Computer Graphics Forum, Wiley <br/>
         Symposium on Geometry Processing 201 (SGP 2016)'
-paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12983'
-arxivurl: 
-halurl: 
-codeurl: 'https://github.com/aboulch/normals_HoughCNN'
-mediumurl: 
-blogurl: 
-pdfurl: /files/2016_cgf_normals.pdf
-slidesurl: /files/2016_cgf_normals_slides.pdf
-teaser: '/files/2016-CGF-normals.png'
-note:
-noteimportant:
 ---
 
-![](/files/2016_cgf_normals.png)
+[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12983){: .btn .btn-purple .mr-4}
+[Code](https://github.com/aboulch/normals_HoughCNN){: .btn .btn-purple .mr-4}
+[PDF](/files/2016_cgf_normals/2016_cgf_normals.pdf){: .btn .btn-purple .mr-4}
+[Slides](/files/2016_cgf_normals/2016_cgf_normals_slides.pdf){: .btn .btn-purple .mr-4}
+
+![](/files/2016_cgf_normals/teaser.png)
 
 ### Abstract
 

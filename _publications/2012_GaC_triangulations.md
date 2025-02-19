@@ -11,7 +11,7 @@ venue: 'Graphs and Combinatorics, Springer Verlag'
 [HAL](https://hal.archives-ouvertes.fr/hal-01163747/document){: .btn .btn-purple .mr-4}
 [PDF](/files/2012_gac_triangulations/2012_gac_triangulations.pdf){: .btn .btn-purple .mr-4}
 
-![](/files/2012_gac_triangulations/2012_gac_triangulations.png)
+![](/files/2012_gac_triangulations/teaser.png)
 
 ### Abstract
 

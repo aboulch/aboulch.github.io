@@ -4,23 +4,18 @@ title: 'Benchmarking classification of earth-observation data: from learning exp
 author: 'A. Lagrange, B. Le Saux, A. Beaupere, A. Boulch, A. Chan-Hon-Tong, S. Herbin, H. Randrianarivo and M. Ferecatu'
 permalink: /publications/2016_jstars_eo
 date: 2016-01-01
-type: journal
 venue: 'IEEE JSTARS <br/>
         IGARSS 2015'
-paperurl: 'https://ieeexplore.ieee.org/document/7326745'
-arxivurl: 
-halurl: 
-codeurl: 
-mediumurl: 
-blogurl: 
-pdfurl: /files/2015_dfc_classif_benchmark.pdf
-slidesurl: 
-teaser: '/files/2016-JSTARS-eo.png'
-note:
-noteimportant: 'Awarded paper of the 2015 IEEE GRSS Data Fusion Contest'
 ---
 
-![](/files/2015_dfc_classif_benchmark.png)
+{: .note }
+> Awarded paper of the 2015 IEEE GRSS Data Fusion Contest
+
+[Paper](https://ieeexplore.ieee.org/document/7326745){: .btn .btn-purple .mr-4}
+[PDF](/files/2016_jstars_eo/2015_dfc_classif_benchmark.pdf){: .btn .btn-purple .mr-4}
+
+
+![](/files/2016_jstars_eo/teaser.png)
 
 ### Abstract
 

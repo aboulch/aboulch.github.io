@@ -15,7 +15,7 @@ venue: "Computer Graphics Forum, Wiley <br/>
 [Slides](/files/2012_cgf_normals/2012_cgf_normals_slides_boulch.pdf){: .btn .btn-purple .mr-4 }
 
 
-![](/files/2012_cgf_normals/2012_cgf_normals.png)
+![](/files/2012_cgf_normals/teaser.png)
 
 ### Abstract
 

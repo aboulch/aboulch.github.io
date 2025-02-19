@@ -11,7 +11,7 @@ venue: 'International Conference on Pattern Recognition, ICPR'
 [PDF](/files/2014_icpr_fusion/2014_icpr_fusion_boulch.pdf){: .btn .btn-purple .mr-4}
 [Code](https://github.com/aboulch/primitive_merging){: .btn .btn-purple .mr-4}
 
-![](/files/2014_icpr_fusion/2014_icpr_fusion.png)
+![](/files/2014_icpr_fusion/teaser.png)
 
 ### Abstract
 
