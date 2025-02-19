@@ -11,7 +11,7 @@ venue: "Computer Vision and Pattern Recognition (CVPR)"
 [Code](https://github.com/valeoai/ScaLR){: .btn .btn-purple .mr-4 }
 
 
-![ScaLR teaser](/images/publications/2024_CVPR_ScaLR/teaser.png)
+![ScaLR teaser](/files/2024_CVPR_ScaLR/teaser.png)
 
 ### Abstract
 

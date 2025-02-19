@@ -11,7 +11,7 @@ venue: "International Conference on 3D vision (3DV)"
 [Code](https://github.com/valeoai/BEVContrast){: .btn .btn-purple .mr-4 }
 
 
-![BEVContrast teaser](/images/publications/2024_3DV_bevcontrast/teaser.png)
+![BEVContrast teaser](/files/2024_3DV_bevcontrast/teaser.png)
 
 
 ### Abstract

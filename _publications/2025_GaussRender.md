@@ -11,7 +11,7 @@ date: 2025-02-10
 venue: "Arxiv"
 ---
 
-[Arxiv](https://arxiv.org/abs/2502.05040){: .btn }
+[Arxiv](https://arxiv.org/abs/2502.05040){: .btn .btn-purple .mr-4 }
 
 ### Abstract
 

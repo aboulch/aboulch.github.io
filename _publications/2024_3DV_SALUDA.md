@@ -10,7 +10,7 @@ venue: "International Conference on 3D vision (3DV)"
 [Arxiv](https://arxiv.org/abs/2304.03251){: .btn .btn-purple .mr-4 }
 [Code](https://github.com/valeoai/saluda){: .btn .btn-purple .mr-4 }
 
-![SALUDA teaser](/images/publications/2024_3DV_saluda/teaser.png)
+![SALUDA teaser](/files/2024_3DV_saluda/teaser.png)
 
 ### Abstract
 

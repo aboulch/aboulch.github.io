@@ -9,7 +9,7 @@ venue: "CVPR Workshop on Autonomous Driving (WAD)"
 
 [Arxiv](https://arxiv.org/abs/2404.14027){: .btn .btn-purple .mr-4 }
 
-![OccFeat teaser](/images/publications/2024_CVPR_WAD_OccFeat/teaser.png)
+![OccFeat teaser](/files/2024_CVPR_WAD_OccFeat/teaser.png)
 
 ### Abstract
 
