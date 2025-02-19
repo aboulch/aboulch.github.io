@@ -1,6 +1,6 @@
 # Local install
 
-Note: old version
+Note: old version not valid anymore
 
 - install just the docs locally 
 - run
