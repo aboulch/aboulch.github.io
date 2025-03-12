@@ -7,6 +7,14 @@ permalink: /teaching/
 
 # MSIA - Point clouds
 
+{: .warning }
+> **Colab notebooks**
+> 
+> Copy / paste the link of the notebook (github link) in colab
+>
+> Click on **Copy to Drive** oterwise you cannot save the changes to the notebook
+
+
 ## From local properties to surface reconstruction
 
 * Local features
