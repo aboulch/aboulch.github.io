@@ -61,6 +61,7 @@ nav_order: 1
 - ![Static Badge](https://img.shields.io/badge/2022%2F03%2F23-yellow)  - PhD commitee as supervisor for Javiera Castillo-Navarro's defense, CNAM
 - ![Static Badge](https://img.shields.io/badge/2021%2F12%2F14-yellow)  - PhD commitee as supervisor for Pierre-Alain Langlois's defense, ENPC
 - ![Static Badge](https://img.shields.io/badge/2021%2F12%2F01_to_2021%2F12%2F03-blue) - 3DV virtual presentation of [NeeDrop](/publications/2021_3dv_needrop)
+- ![Static Badge](https://img.shields.io/badge/2021%2F05%2F21-yellow) - PhD commitee as external examiner for Ahmed Nassar's defense, UBS / ETH Zurich
 - ![Static Badge](https://img.shields.io/badge/2021%2F04%2F12-darkgreen) - Talk at ONERA, Palaiseau, AI & Physics Workshop on *Convolution on points for classification and segmentation*
 - ![Static Badge](https://img.shields.io/badge/2021%2F01%2F22-yellow)  - PhD commitee as supervisor for Pierre Godet's defense, ONERA
 - ![Static Badge](https://img.shields.io/badge/2020%2F11%2F30_to_2020%2F12%2F04-blue) - ACCV virtual presentation of [FKAConv](/publications/2020_accv_fkaconv)
