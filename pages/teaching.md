@@ -41,3 +41,4 @@ permalink: /teaching/
 
 [Slides](/files/course/msia_point_clouds/MSIA_Points_4_ML1.pdf){: .btn .btn-purple .mr-4}
 [Notebook](https://github.com/aboulch/MSIA_points/blob/main/04_ml1/MSIA_Points_4_ML1.ipynb){: .btn .btn-purple .mr-4 }
+[Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/04_ml1/MSIA_Points_4_ML1_answers.ipynb){: .btn .btn-purple .mr-4 }
