@@ -51,3 +51,4 @@ permalink: /teaching/
 
 [Slides](/files/course/msia_point_clouds/MSIA_Points_5_images_graph.pdf){: .btn .btn-purple .mr-4}
 [Notebook](https://github.com/aboulch/MSIA_points/blob/main/05_graph/MSIA_Points_5_Geometric_Deep_Learning.ipynb){: .btn .btn-purple .mr-4}
+[Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/05_graph/MSIA_Points_5_Geometric_Deep_Learning_answers.ipynb){: .btn .btn-purple .mr-4 }
