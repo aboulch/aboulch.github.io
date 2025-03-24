@@ -10,7 +10,7 @@ permalink: /cv/
 
 
 |---|---|
-|<img width="128" src="/images/valeoai_logo.png" /> | **Research scientist** at [Valeo.ai](https://www.valeo.com/en/valeo-ai/)<br/> Machine learning and point cloud expert|
+|<img width="128" src="/images/valeoai_logo.png" /> | **Senio research scientist** at [Valeo.ai](https://www.valeo.com/en/valeo-ai/)<br/> Machine learning and point cloud expert|
 
 ### 2014-2019
 
