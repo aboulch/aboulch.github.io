@@ -58,4 +58,6 @@ permalink: /teaching/
 * Voxels
 * Mixers and transformers
 
+[Slides](/files/course/msia_point_clouds/MSIA_Points_6_convolutions.pdf){: .btn .btn-purple .mr-4}
+
 ## Applications
