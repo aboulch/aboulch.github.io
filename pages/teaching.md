@@ -61,3 +61,11 @@ permalink: /teaching/
 [Slides](/files/course/msia_point_clouds/MSIA_Points_6_convolutions.pdf){: .btn .btn-purple .mr-4}
 
 ## Applications
+
+* Tasks
+* Self-supervised training
+* Domain adaptation
+* Open Vocabulary
+
+[Slides](/files/course/msia_point_clouds/MSIA_Points_7_Applications.pdf){: .btn .btn-purple .mr-4}
+[Notebook](https://github.com/aboulch/MSIA_points/blob/main/07_maskclip/MSIA_Points_7_maskclip.ipynb){: .btn .btn-purple .mr-4}
