@@ -71,3 +71,4 @@ permalink: /teaching/
 
 [Slides](/files/course/msia_point_clouds/MSIA_Points_7_Applications.pdf){: .btn .btn-purple .mr-4}
 [Notebook](https://github.com/aboulch/MSIA_points/blob/main/07_maskclip/MSIA_Points_7_maskclip.ipynb){: .btn .btn-purple .mr-4}
+[Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/07_maskclip/MSIA_Points_7_maskclip_answers.ipynb){: .btn .btn-purple .mr-4}
