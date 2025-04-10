@@ -79,4 +79,4 @@ permalink: /teaching/
 * Gaussian splatting
 * Dust3R and follow-ups
 
-[Slides](/files/course/msia_point_clouds/MSIA_Points_8_Rendering_and_MultiView_novideos.pdf)
+[Slides](/files/course/msia_point_clouds/MSIA_Points_8_Rendering_and_MultiView_novideos.pdf){: .btn .btn-purple .mr-4}
