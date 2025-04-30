@@ -13,7 +13,7 @@ permalink: /students/
 at valeo.ai and Sorbonne University <br/>
 with Eloi Zablocki and **Matthieu Cord**
 
-## [Tetiana Martyniuk](https://scholar.google.com/citations?user=Ur0vgfMAAAAJ&hl=en)
+## [Tetiana Martyniuk](https://t-martyniuk.github.io/)
 *Conditional generation for urban scenes* <br/>
 in ASTRA team, joint valeo.ai / INRIA team <br/>
 with Gilles Puy, Renaud Marlet and **Raoul de Charette**
