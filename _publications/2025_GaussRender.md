@@ -8,7 +8,7 @@ author: "Loick Chambon &ensp;
         Matthieu Cord"
 permalink: /publications/2025_GaussRender
 date: 2025-02-10
-venue: "Arxiv"
+venue: "International Conference on Computer Vision (ICCV), 2025"
 ---
 
 [Arxiv](https://arxiv.org/abs/2502.05040){: .btn .btn-purple .mr-4 }
