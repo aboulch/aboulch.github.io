@@ -38,6 +38,7 @@ nav_order: 1
 ![Static Badge](https://img.shields.io/badge/2023%2F10-blue) Papers / Conferences
 --->
 
+- ![Static Badge](https://img.shields.io/badge/2025%2F06%2F25-blue) - [GaussRender](https://boulch.eu/publications/2025_GaussRender) is accepted at ICCV2025
 - ![Static Badge](https://img.shields.io/badge/2025%2F05%2F10-blue) - Outstanding reviewer at CVPR2025
 - ![Static Badge](https://img.shields.io/badge/2025%2F01%2F22-darkgreen) - Talk at IOGS, 3A IOGS/master ATSI
 - ![Static Badge](https://img.shields.io/badge/2024%2F08%2F26-blue) - [UNIT](https://boulch.eu/publications/2025_3DV_UNIT) is accepted at [3DV](https://3dvconf.github.io/2025/)
