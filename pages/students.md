@@ -67,11 +67,11 @@ PhD November 2020.
 
 [**Matteo Marengo**](https://www.linkedin.com/in/matteolmarengo/): *Urban scene reconstruction*, 2024, cosupervised with Renaud Marlet and Raoul De Charette
 
-**Achraff Adlileye**: *Motion forecasting with additional data*, 2024, cosupervised with Yhong Xu
+[**Achraff Adjileye**](https://www.linkedin.com/in/achraff-adjileye-3740a5211?original_referer=): *Motion forecasting with additional data*, 2024, cosupervised with Yhong Xu
 
-**Pegah Khayatan**: *Robustness and corner case generation for motion forecasting*, 2023, cosupervised with Eloi Zablocki
+[**Pegah Khayatan**](https://pegah-kh.github.io/): *Robustness and corner case generation for motion forecasting*, 2023, cosupervised with Eloi Zablocki
 
-**Sophia Sirko-Galouchenko**: *Self-supervision for camera-based bird's-eye-view perception in autonomous driving*, 2023, cosupervised with Spyros Gidaris and Andrei Bursuc
+[**Sophia Sirko-Galouchenko**](https://scholar.google.com/citations?user=3ac3PQMAAAAJ): *Self-supervision for camera-based bird's-eye-view perception in autonomous driving*, 2023, cosupervised with Spyros Gidaris and Andrei Bursuc
 
 [**Angelika Ando**](https://scholar.google.com/citations?user=xMNyXlEAAAAJ&hl=en): *Exploiting vision transformers for 3d semantic segmentation*, 2022, cosupervised with Spyros Gidaris, Andrei Bursuc and Gilles Puy
 
