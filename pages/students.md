@@ -8,25 +8,30 @@ permalink: /students/
 
 # Ph.D. student
 
+## [Fatima Balde](https://fr.linkedin.com/in/fatima-balde-146312220)
+*3D scene-level modeling from a single image* <br/>
+in ASTRA team, joint valeo.ai / INRIA team <br/>
+with **[Raoul de Charette](https://rdecharette.github.io/)**
+
 ## [Loick Chambon](https://loickch.github.io/)
 *Scene perception for autonomous driving* <br/>
 at valeo.ai and Sorbonne University <br/>
-with Eloi Zablocki and **Matthieu Cord**
+with [Eloi Zablocki](https://eloiz.github.io/) and **[Matthieu Cord](https://cord.isir.upmc.fr/)**
 
 ## [Tetiana Martyniuk](https://t-martyniuk.github.io/)
 *Conditional generation for urban scenes* <br/>
 in ASTRA team, joint valeo.ai / INRIA team <br/>
-with Gilles Puy, Renaud Marlet and **Raoul de Charette**
+with [Gilles Puy](https://sites.google.com/site/puygilles/), [Renaud Marlet](https://imagine.enpc.fr/~marletr/) and **[Raoul de Charette](https://rdecharette.github.io/)**
 
 ## [Björn Michele](https://www.bjoernmichele.com/)
 *Domain adaptation for 3D data* <br/>
 at valeo.ai and IRISA <br/>
-with Gilles Puy, Renaud Marlet and **Nicolas Courty**
+with [Gilles Puy](https://sites.google.com/site/puygilles/), [Renaud Marlet](https://imagine.enpc.fr/~marletr/) and **[Nicolas Courty](https://ncourty.github.io/)**
 
 ## [Corentin Sautier](https://fr.linkedin.com/in/corentin-sautier-74415917b)
 *Self-supervised learning for 3D point clouds with multi-modal data* <br/>
 at valeo.ai and ENPC <br/>
-with Gilles Puy, Renaud Marlet and **Vincent Lepetit**
+with [Gilles Puy](https://sites.google.com/site/puygilles/), [Renaud Marlet](https://imagine.enpc.fr/~marletr/) and **[Vincent Lepetit](https://vincentlepetit.github.io/)**
 
 # Alumni
 
