@@ -9,7 +9,7 @@ author: "
         Vincent Lepetit"
 permalink: /publications/2026_ALPINE
 date: 2026-03-20
-venue: International Conference on 3D Vision (3DV), 2026
+venue: International Conference on 3D Vision (3DV)
 ---
 
 [Arxiv](https://arxiv.org/abs/2503.13203){: .btn .btn-purple .mr-4 }
