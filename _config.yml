@@ -12,14 +12,27 @@ aux_links:
 
 future: true
 
+# collections:
+#   publications:
+#     permalink: "/:collection/:path/"
+#     output: true
+#     name: publications
+#     nav_exclude: false
+#     search_exclude: false
+#     sort_by: date
+
+
 collections:
   publications:
-    permalink: "/:collection/:path/"
     output: true
-    name: publications
-    nav_exclude: false
-    search_exclude: false
     sort_by: date
+
+just_the_docs:
+  collections:
+    publications:
+      name: Publications
+      nav_exclude: true
+
 
 
 callouts:

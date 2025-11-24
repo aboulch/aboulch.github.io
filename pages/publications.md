@@ -4,6 +4,7 @@ title: Publications
 nav_order: 2
 permalink: /publications/
 has_children: false
+search_exclude: true
 ---
 
 <h1>{{ page.title }}</h1>
