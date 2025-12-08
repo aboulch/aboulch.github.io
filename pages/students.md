@@ -23,17 +23,17 @@ with [Eloi Zablocki](https://eloiz.github.io/) and **[Matthieu Cord](https://cor
 in ASTRA team, joint valeo.ai / INRIA team <br/>
 with [Gilles Puy](https://sites.google.com/site/puygilles/), [Renaud Marlet](https://imagine.enpc.fr/~marletr/) and **[Raoul de Charette](https://rdecharette.github.io/)**
 
-## [Björn Michele](https://www.bjoernmichele.com/)
-*Domain adaptation for 3D data* <br/>
-at valeo.ai and IRISA <br/>
-with [Gilles Puy](https://sites.google.com/site/puygilles/), [Renaud Marlet](https://imagine.enpc.fr/~marletr/) and **[Nicolas Courty](https://ncourty.github.io/)**
+# Alumni
 
 ## [Corentin Sautier](https://fr.linkedin.com/in/corentin-sautier-74415917b)
 *Self-supervised learning for 3D point clouds with multi-modal data* <br/>
 at valeo.ai and ENPC <br/>
 with [Gilles Puy](https://sites.google.com/site/puygilles/), [Renaud Marlet](https://imagine.enpc.fr/~marletr/) and **[Vincent Lepetit](https://vincentlepetit.github.io/)**
 
-# Alumni
+## [Björn Michele](https://www.bjoernmichele.com/)
+*Domain adaptation for 3D data* <br/>
+at valeo.ai and IRISA <br/>
+with [Gilles Puy](https://sites.google.com/site/puygilles/), [Renaud Marlet](https://imagine.enpc.fr/~marletr/) and **[Nicolas Courty](https://ncourty.github.io/)**
 
 ## [Yuan Yin](https://yuan-yin.github.io/)
 Post-doc <br/>
