@@ -31,7 +31,7 @@ permalink: /teaching/
 [Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_3_surfaces_answers.ipynb){: .btn .btn-purple .mr-4 }
 
 
- ## Descriptors and classic ML
+## Descriptors and classic ML
 
 * Descriptors
   * Local descriptors
