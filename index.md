@@ -19,53 +19,8 @@ nav_order: 1
 
 ## News
 
-<!---
-![Static Badge](https://img.shields.io/badge/2023%2F10-red) News
-![Static Badge](https://img.shields.io/badge/2023%2F10-darkgreen) Talk
-![Static Badge](https://img.shields.io/badge/2023%2F10-blue) Papers / Conferences
---->
-
-<!-- - ![Static Badge](https://img.shields.io/badge/2025%2F06%2F25-blue) - [GaussRender](https://boulch.eu/publications/2025_GaussRender) is accepted at ICCV2025
-- ![Static Badge](https://img.shields.io/badge/2025%2F05%2F10-blue) - Outstanding reviewer at CVPR2025
-- ![Static Badge](https://img.shields.io/badge/2025%2F03%2F30-blue) - [LiDPM](https://boulch.eu/publications/2025_LiDPM) is accepted at IV2025
-- ![Static Badge](https://img.shields.io/badge/2025%2F01%2F22-darkgreen) - Talk at IOGS, 3A IOGS/master ATSI
-- ![Static Badge](https://img.shields.io/badge/2024%2F08%2F26-blue) - [UNIT](https://boulch.eu/publications/2025_3DV_UNIT) is accepted at [3DV](https://3dvconf.github.io/2025/)
-- ![Static Badge](https://img.shields.io/badge/2024%2F08%2F26-blue) - [Modular4Cast (Valeo4Cast)](https://boulch.eu/publications/2024_WAD_valeo4cast) is accepted at [ECCV workshop ROAD](https://sites.google.com/view/road-eccv2024/home)
-- ![Static Badge](https://img.shields.io/badge/2024%2F08%2F11-blue) - [ReGentS](https://boulch.eu/publications/2024_ECCVW_Regents) is accepted at [ECCV workshop CODA](https://coda-dataset.github.io/w-coda2024/)
-- ![Static Badge](https://img.shields.io/badge/2024%2F07%2F01-blue) - [TTYD](https://boulch.eu/publications/2024_ECCV_TTYD) is accepted at ECCV, main conference
-- ![Static Badge](https://img.shields.io/badge/2024%2F06%2F17-blue) - [Valeo4Cast](https://boulch.eu/publications/2024_WAD_valeo4cast) wins AV2 forecast challenge at [CVPR Workshop on Autonomous Driving 2024](https://cvpr2024.wad.vision/)
-- ![Static Badge](https://img.shields.io/badge/2024%2F05%2F15-darkgreen) - Talk at the CDV Expert Colloquium, presentation of *Unsupervised learning for point clouds*
-- ![Static Badge](https://img.shields.io/badge/2024%2F04%2F11-blue) - OccFeat is accepted at [CVPR Workshop on Autonomous Driving 2024](https://cvpr2024.wad.vision/)
-- ![Static Badge](https://img.shields.io/badge/2024%2F01%2F24-darkgreen) - Talk at IOGS, 3A IOGS/master ATSI with [Oriane Simeoni](https://osimeoni.github.io/)
-- ![Static Badge](https://img.shields.io/badge/2024%2F01%2F15-blue) - [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) will be a spotlight at 3DV
-- ![Static Badge](https://img.shields.io/badge/2023%2F10-blue) - [BEVContrast](https://boulch.eu/publications/2024_3DV_bevcontrast) and [SALUDA](https://boulch.eu/publications/2024_3DV_saluda) are accepted at 3DV
-- ![Static Badge](https://img.shields.io/badge/2023%2F10%2F19-darkgreen) - Talk at Eurobios on *From surface reconstruction to self-supervision for automotive perception*
-- ![Static Badge](https://img.shields.io/badge/2023%2F10%2F02_to_2023%2F10%2F06-blue) - At ICCV 2023, Paris. Presenting [WaffleIron](/publications/2023_iccv_waffleiron).
-- ![Static Badge](https://img.shields.io/badge/2023%2F06%2F18_to_2023%2F06%2F22-blue) - At CVPR 2023, Vancouver. Presenting [RangeVit](/publications/2023_cvpr_rangevit) and [ALSO](/publications/2023_cvpr_also).
-- ![Static Badge](https://img.shields.io/badge/2023%2F06%2F14-darkgreen) - Talk at Imagine ENPC on *From object surface surface reconstruction to automotive lidar self-supervision*
-- ![Static Badge](https://img.shields.io/badge/2023%2F03%2F27-yellow) - PhD commitee as external examiner for Tong Zhao's defense, INRIA Sophia Antipolis
-- ![Static Badge](https://img.shields.io/badge/2023%2F01%2F18-darkgreen) - Talk at IOGS, 3A IOGS/master ATSI on *Research at valeo.ai*
-- ![Static Badge](https://img.shields.io/badge/2022%2F10%2F17-yellow) - PhD commitee as external examiner for Raphael's Sulzer defense, IGN
-- ![Static Badge](https://img.shields.io/badge/2022%2F06%2F19_to_2022%2F06%2F24-blue) - At CVPR 2022, New Orleans. Presenting [POCO](/publications/2022_cvpr_poco) and [SLidR](/publications/2022_cvpr_slidr)
-- ![Static Badge](https://img.shields.io/badge/2022%2F05%2F18-darkgreen) - Talk at the CDV Expert Colloquium, presentation of *POCO: Point Convolution for Surface Reconstruction*
-- ![Static Badge](https://img.shields.io/badge/2022%2F03%2F23-yellow)  - PhD commitee as supervisor for Javiera Castillo-Navarro's defense, CNAM
-- ![Static Badge](https://img.shields.io/badge/2021%2F12%2F08-yellow)  - PhD commitee as external examiner for Guillaume Vaudaux-Ruth's defense, ONERA
-- ![Static Badge](https://img.shields.io/badge/2021%2F12%2F14-yellow)  - PhD commitee as supervisor for Pierre-Alain Langlois's defense, ENPC
-- ![Static Badge](https://img.shields.io/badge/2021%2F12%2F01_to_2021%2F12%2F03-blue) - 3DV virtual presentation of [NeeDrop](/publications/2021_3dv_needrop)
-- ![Static Badge](https://img.shields.io/badge/2021%2F05%2F21-yellow) - PhD commitee as external examiner for Ahmed Samy Nassar's defense, UBS / ETH Zurich
-- ![Static Badge](https://img.shields.io/badge/2021%2F04%2F12-darkgreen) - Talk at ONERA, Palaiseau, AI & Physics Workshop on *Convolution on points for classification and segmentation*
-- ![Static Badge](https://img.shields.io/badge/2021%2F01%2F22-yellow)  - PhD commitee as supervisor for Pierre Godet's defense, ONERA
-- ![Static Badge](https://img.shields.io/badge/2020%2F11%2F30_to_2020%2F12%2F04-blue) - ACCV virtual presentation of [FKAConv](/publications/2020_accv_fkaconv)
-- ![Static Badge](https://img.shields.io/badge/2020%2F11%2F06-yellow)  - PhD commitee as supervisor for Rodrigo Caye Daudt's defense, ONERA
-- ![Static Badge](https://img.shields.io/badge/2020%2F03%2F05-darkgreen) - Talk at Ecole des Mines, master MVA/IASD on *Point cloud semantic segmentation: from image to 3D*
-- ![Static Badge](https://img.shields.io/badge/2019%2F11%2F04-red) - I am joining valeo.ai as recsearch scientist
-- ![Static Badge](https://img.shields.io/badge/2019%2F10%2F25-darkgreen) - Talk IRIT, Toulouse, STORM seminar on *Point Cloud analysis and processing*
-- ![Static Badge](https://img.shields.io/badge/2019%2F09%2F27-darkgreen) - Talk at ETHZ, Switzerland, Institut of Geodesy and Photogrammetry on *Deep learning for large scale image and point cloud processing*
-- ![Static Badge](https://img.shields.io/badge/2019%2F05%2F28-darkgreen) - Talk at *Rencontres franciliennes de mécanique* on *Deep-learning pour la mécanique*
-- ![Static Badge](https://img.shields.io/badge/2019%2F05%2F05_to_2019%2F05%2F10-blue) At Eurographics 2019, Genova, Presenting [ConvPoint](/publications/2020_cag_convpoint) at 3DOR workshop. -->
-
-
 |---|---|
+| 2026/02/20 | Two papers accepted at CVPR: [DrivoR](https://boulch.eu/publications/2026_DrivoR) and [NAF](https://boulch.eu/publications/2025_NAF) |
 | 2025/11/24 | Outstanding reviewer at BMVC2025 |
 | 2025/06/25 | [GaussRender](https://boulch.eu/publications/2025_GaussRender) is accepted at ICCV2025 |
 | 2025/05/10 | Outstanding reviewer at CVPR2025 |

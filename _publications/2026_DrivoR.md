@@ -24,7 +24,7 @@ venue: "Computer Vision and Pattern Recognition (CVPR)"
 [arXiv](https://arxiv.org/abs/2601.05083){: .btn .btn-purple .mr-4 }
 [Code](https://github.com/valeoai/DrivoR){: .btn .btn-purple .mr-4 }
 
-![DrivoR architecture](/files/2026_DrivoR/architecture.gif)
+![DrivoR architecture](/files/2026_DrivoR/architecture.png)
 
 ### Abstract
 
