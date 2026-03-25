@@ -27,6 +27,9 @@ permalink: /teaching/
   * RANSAC
 
 [Slides](/files/course/msia_point_clouds/MSIA_Points_3_surfaces.pdf){: .btn .btn-purple .mr-4}
+
+#### Practical session
+
 [Notebook](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_3_surfaces.ipynb){: .btn .btn-purple .mr-4 }
 [Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_3_surfaces_answers.ipynb){: .btn .btn-purple .mr-4 }
 
@@ -39,6 +42,9 @@ permalink: /teaching/
   * Clustering
 
 [Slides](/files/course/msia_point_clouds/MSIA_Points_4_ML1.pdf){: .btn .btn-purple .mr-4}
+
+### Practical session
+
 [Notebook](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_4_ML1.ipynb){: .btn .btn-purple .mr-4 }
 [Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_4_ML1_answers.ipynb){: .btn .btn-purple .mr-4 }
 
@@ -49,6 +55,16 @@ permalink: /teaching/
 * Graph-based approaches
 
 [Slides](/files/course/msia_point_clouds/MSIA_Points_5_ML2.pdf){: .btn .btn-purple .mr-4}
+
+#### Practical session
+For the practical session, if not working on Google Colab directly, the material can be found on huggingface:
+```python
+from huggingface_hub import hf_hub_download
+hf_hub_download(repo_id="Msun/modelnet40", filename="modelnet40_ply_hdf5_2048.zip", repo_type="dataset", cache_dir=".")
+!unzip ./datasets--Msun--modelnet40/snapshots/d5dc795541800feeb7a4b3bd3142729a0d2adf7a/modelnet40_ply_hdf5_2048
+```
+
+
 [Notebook](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_5_Geometric_Deep_Learning.ipynb){: .btn .btn-purple .mr-4}
 [Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_5_Geometric_Deep_Learning_answers.ipynb){: .btn .btn-purple .mr-4 }
 
@@ -60,8 +76,20 @@ permalink: /teaching/
 
 [Slides](/files/course/msia_point_clouds/MSIA_Points_6_ML3.pdf){: .btn .btn-purple .mr-4}
 
-<!-- [Notebook](https://github.com/aboulch/MSIA_points/blob/main/06_conv/MSIA_Points_6_segmentation.ipynb){: .btn .btn-purple .mr-4}
-[Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/06_conv/MSIA_Points_6_segmentation_answers.ipynb){: .btn .btn-purple .mr-4}
+#### Practical session
+
+For the practical session, if not working on Google Colab directly, the material can be found on huggingface:
+
+```python
+from huggingface_hub import hf_hub_download
+hf_hub_download(repo_id="wangps/shapenet_segmentation", filename="shapenetcore_partanno_segmentation_benchmark_v0_normal.zip", repo_type="dataset", cache_dir=".")
+!unzip -qq ./datasets--wangps--shapenet_segmentation/snapshots/dbde146b974e1fc8628b47b1b1c4e50d8bc1a2ef/shapenetcore_partanno_segmentation_benchmark_v0_normal
+!mv shapenetcore_partanno_segmentation_benchmark_v0_normal shape_data
+```
+
+[Notebook](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_6_segmentation.ipynb){: .btn .btn-purple .mr-4}
+
+<!-- [Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/06_conv/MSIA_Points_6_segmentation_answers.ipynb){: .btn .btn-purple .mr-4}
 
 ## Applications
 
