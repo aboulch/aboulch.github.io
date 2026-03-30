@@ -7,6 +7,22 @@ permalink: /teaching/
 
 # MSIA - Point clouds
 
+## Evaluation:
+
+Chose a paper and time slot here:
+[LINK](https://docs.google.com/spreadsheets/d/1xyd0vpf2dMOysuWdJ3U6bDxitowzhoWawHMgpoQT55g/edit?usp=sharing)
+A visio link will be added in the dedicated column.
+
+#### Rules of the game
+The idea is to do presentation in the style of a conference presentation.
+* 15 minutes slot
+* 7 minutes presentation of the paper with slides (better not be overtime)
+* 8 minutes discussion / questions on the paper and related notions.
+
+
+
+
+
 {: .warning }
 > **Colab notebooks**
 > 
@@ -89,7 +105,7 @@ hf_hub_download(repo_id="wangps/shapenet_segmentation", filename="shapenetcore_p
 
 [Notebook](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_6_segmentation.ipynb){: .btn .btn-purple .mr-4}
 
-<!-- [Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/06_conv/MSIA_Points_6_segmentation_answers.ipynb){: .btn .btn-purple .mr-4}
+[Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_6_segmentation_answers.ipynb){: .btn .btn-purple .mr-4}
 
 ## Applications
 
@@ -98,9 +114,19 @@ hf_hub_download(repo_id="wangps/shapenet_segmentation", filename="shapenetcore_p
 * Domain adaptation
 * Open Vocabulary
 
-[Slides](/files/course/msia_point_clouds/MSIA_Points_7_Applications.pdf){: .btn .btn-purple .mr-4}
-[Notebook](https://github.com/aboulch/MSIA_points/blob/main/07_maskclip/MSIA_Points_7_maskclip.ipynb){: .btn .btn-purple .mr-4}
-[Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/07_maskclip/MSIA_Points_7_maskclip_answers.ipynb){: .btn .btn-purple .mr-4}
+[Slides](/files/course/msia_point_clouds/MSIA_Points_7_ML4.pdf){: .btn .btn-purple .mr-4}
+
+
+```python
+import os
+if not os.path.exists("./driving.hdf5"):
+  !wget https://github.com/aboulch/MSIA_points/releases/download/v0.0.0/driving.tar.gz
+  !tar -xvzf driving.tar.gz
+```
+
+[Notebook](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_7_maskclip.ipynb){: .btn .btn-purple .mr-4}
+
+<!-- [Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/07_maskclip/MSIA_Points_7_maskclip_answers.ipynb){: .btn .btn-purple .mr-4}
 
 ## Opening
 * Multi-view reconstruction
