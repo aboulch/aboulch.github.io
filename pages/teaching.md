@@ -125,8 +125,7 @@ if not os.path.exists("./driving.hdf5"):
 ```
 
 [Notebook](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_7_maskclip.ipynb){: .btn .btn-purple .mr-4}
-
-<!-- [Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/07_maskclip/MSIA_Points_7_maskclip_answers.ipynb){: .btn .btn-purple .mr-4}
+[Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_7_maskclip_answers.ipynb){: .btn .btn-purple .mr-4}
 
 ## Opening
 * Multi-view reconstruction
@@ -134,4 +133,5 @@ if not os.path.exists("./driving.hdf5"):
 * Gaussian splatting
 * Dust3R and follow-ups
 
-[Slides](/files/course/msia_point_clouds/MSIA_Points_8_Rendering_and_MultiView_novideos.pdf){: .btn .btn-purple .mr-4} -->
+[Slides](/files/course/msia_point_clouds/MSIA_Points_8_rendering_multiview.pdf){: .btn .btn-purple .mr-4}
+[Notebook](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_8_ShapeRepresentation.ipynb){: .btn .btn-purple .mr-4}
