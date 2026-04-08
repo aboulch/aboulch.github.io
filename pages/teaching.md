@@ -134,4 +134,12 @@ if not os.path.exists("./driving.hdf5"):
 * Dust3R and follow-ups
 
 [Slides](/files/course/msia_point_clouds/MSIA_Points_8_rendering_multiview.pdf){: .btn .btn-purple .mr-4}
+
+```python
+!wget https://github.com/aboulch/MSIA_points/releases/download/v0.0.0/msia_shapenet_bench.zip
+!unzip -qq msia_shapenet_bench
+!mkdir data
+!mv msia_subset data/
+```
+
 [Notebook](https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_8_ShapeRepresentation.ipynb){: .btn .btn-purple .mr-4}
