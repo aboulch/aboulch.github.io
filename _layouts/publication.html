@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<!-- Content -->
+
+<h2>{{ page.title }}</h2>
+
+<p><i>{{ page.author }}</i><br/></p>
+
+
+{% if page.venue %}
+<p> {{ page.venue }}, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+{% endif %}
+
+{% if page.note %}
+<p>{{ page.note }}</p>
+{% endif %}
+
+{% if page.noteimportant %}
+<p><span style="color: #ff0000">{{ page.noteimportant }}</span></p>
+{% endif %}
+
+<!-- <p align="center">
+  {% if page.paperurl %}
+  &emsp;<a href="{{ page.paperurl }}" target="_blank">Paper</a>
+  {% endif %}
+  {% if page.suppurl %}
+  &emsp;<a href="{{ page.suppurl }}" target="_blank">Supp.</a>
+  {% endif %}
+  {% if page.arxivurl %}
+  &emsp;<a href="{{ page.arxivurl }}" target="_blank">Arxiv</a>
+  {% endif %}
+  {% if page.halurl %}
+  &emsp;<a href="{{ page.halurl }}" target="_blank">HAL</a>
+  {% endif %}{% if page.codeurl %}
+  &emsp;<a href="{{ page.codeurl }}" target="_blank">Code</a>
+  {% endif %}
+  {% if page.pdfurl %}
+  &emsp;<a href="{{ page.pdfurl }}" target="_blank">PDF</a>
+  {% endif %}
+  {% if page.slidesurl %}
+  &emsp;<a href="{{ page.slidesurl }}" target="_blank">Slides</a>
+  {% endif %}
+  {% if page.videourl %}
+  &emsp;<a href="{{ page.videourl }}" target="_blank">Video</a>
+  {% endif %}
+</p> -->
+
+{{ content }}
+
+<!-- End Content -->

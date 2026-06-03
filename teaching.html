@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teaching</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("header.html"); 
+    });
+    </script> 
+</head>
+<body>
+    <header>
+        <div id="includedContent"></div>
+    </header>
+
+    <main>
+        <section id="teaching">
+            <h1>Teaching</h1>
+
+            <h2>MSIA - Point clouds</h2>
+
+            <h3>Evaluation:</h3>
+            <div class="framed">
+                <p>Chose a paper and time slot here:
+                    <a href="https://docs.google.com/spreadsheets/d/1xyd0vpf2dMOysuWdJ3U6bDxitowzhoWawHMgpoQT55g/edit?usp=sharing">LINK</a>
+                    <br> A visio link will be added in the dedicated column.
+                </p>
+                <h4>Rules of the game</h4>
+                <p>The idea is to do presentation in the style of a conference presentation.</p>
+                <ul>
+                    <li>15 minutes slot</li>
+                    <li>7 minutes presentation of the paper with slides (better not be overtime)</li>
+                    <li>8 minutes discussion / questions on the paper and related notions.</li>
+                </ul>
+            </div>
+
+            <blockquote class="warning">
+                <h4>WARNING - Colab notebooks</h4>
+                Copy / paste the link of the notebook (github link) in colab<br/>
+                Click on <strong>Copy to Drive</strong> oterwise you cannot save the changes to the notebook
+            </blockquote>
+            
+            <h3> Courses </h3>
+            
+            <div class="framed">
+            <h4>From local properties to surface reconstruction</h4>
+            <ul>
+                <li>Local features
+                    <ul>
+                        <li>Normal estimation</li>
+                        <li>Normal orientation</li>
+                    </ul>
+                </li>
+                <li>Surface reconstruction
+                    <ul>
+                        <li>Ball pivoting</li>
+                        <li>Delaunay reconstruction</li>
+                        <li>Poisson reconstruction</li>
+                        <li>RANSAC</li>
+                    </ul>
+                </li>
+            </ul>
+            <a href="/files/course/msia_point_clouds/MSIA_Points_3_surfaces.pdf" target="_blank" class="button">Slides</a>
+            <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_3_surfaces.ipynb"  target="_blank" class="button">Notebook</a>
+            <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_3_surfaces_answers.ipynb"  target="_blank" class="button">Notebook (answers)</a>
+
+            </div>
+            <div class="framed">
+            <h4>Descriptors and classic ML</h4>
+            <ul>
+                <li>Descriptors
+                    <ul>
+                        <li>Local descriptors</li>
+                        <li>Global descriptors</li>
+                        <li>Clustering</li>
+                    </ul>
+                </li>
+            </ul>
+            <a href="/files/course/msia_point_clouds/MSIA_Points_4_ML1.pdf" target="_blank" class="button">Slides</a>
+            <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_4_ML1.ipynb" target="_blank" class="button">Notebook</a>
+            <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_4_ML1_answers.ipynb" target="_blank" class="button">Notebook (answers)</a>
+
+            
+            </div>
+            <div class="framed">
+
+            <h4>Images and graph</h4>
+            <ul>
+                <li>Image-based approaches</li>
+                <li>Graph-based approaches</li>
+            </ul>
+            <a href="/files/course/msia_point_clouds/MSIA_Points_5_ML2.pdf" target="_blank" class="button">Slides</a>
+            <h4>Practical session</h4>
+            <p>For the practical session, if not working on Google Colab directly, the material can be found on huggingface:</p>
+            <pre><code>
+from huggingface_hub import hf_hub_download
+hf_hub_download(repo_id="Msun/modelnet40", filename="modelnet40_ply_hdf5_2048.zip", repo_type="dataset", cache_dir=".")
+!unzip ./datasets--Msun--modelnet40/snapshots/d5dc795541800feeb7a4b3bd3142729a0d2adf7a/modelnet40_ply_hdf5_2048
+            </code></pre>
+            <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_5_Geometric_Deep_Learning.ipynb" target="_blank" class="button">Notebook</a>
+            <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_5_Geometric_Deep_Learning_answers.ipynb" target="_blank" class="button">Notebook (answers)</a>
+
+            
+            </div>
+            <div class="framed">
+
+            <h4>From convolutions to transformers</h4>
+            <ul>
+                <li>Convolutions on points</li>
+                <li>Voxels</li>
+                <li>Mixers and transformers</li>
+            </ul>
+            <h4>Practical session</h4>
+            <p>For the practical session, if not working on Google Colab directly, the material can be found on huggingface:</p>
+            <pre><code>
+from huggingface_hub import hf_hub_download
+hf_hub_download(repo_id="wangps/shapenet_segmentation", filename="shapenetcore_partanno_segmentation_benchmark_v0_normal.zip", repo_type="dataset", cache_dir=".")
+!unzip -qq ./datasets--wangps--shapenet_segmentation/snapshots/dbde146b974e1fc8628b47b1b1c4e50d8bc1a2ef/shapenetcore_partanno_segmentation_benchmark_v0_normal
+!mv shapenetcore_partanno_segmentation_benchmark_v0_normal shape_data
+            </code></pre>
+            <a href="/files/course/msia_point_clouds/MSIA_Points_6_ML3.pdf" target="_blank" class="button">Slides</a>
+            <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_6_segmentation.ipynb" target="_blank" class="button">Notebook</a>
+            <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_6_segmentation_answers.ipynb" target="_blank" class="button">Notebook (answers)</a>
+
+            
+            </div>
+            <div class="framed">
+
+            <h4>Applications</h4>
+            <ul>
+                <li>Tasks</li>
+                <li>Self-supervised training</li>
+                <li>Domain adaptation</li>
+                <li>Open Vocabulary</li>
+            </ul>
+            <pre><code>
+import os
+if not os.path.exists("./driving.hdf5"):
+!wget https://github.com/aboulch/MSIA_points/releases/download/v0.0.0/driving.tar.gz
+!tar -xvzf driving.tar.gz
+            </code></pre>
+            <a href="/files/course/msia_point_clouds/MSIA_Points_7_ML4.pdf" target="_blank" class="button">Slides</a>
+            <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_7_maskclip.ipynb" target="_blank" class="button">Notebook</a>
+            
+            
+            <!-- [Notebook (answers)](https://github.com/aboulch/MSIA_points/blob/main/07_maskclip/MSIA_Points_7_maskclip_answers.ipynb){: .btn .btn-purple .mr-4}
+
+            ## Opening
+            * Multi-view reconstruction
+            * NeRFs
+            * Gaussian splatting
+            * Dust3R and follow-ups
+
+            [Slides](/files/course/msia_point_clouds/MSIA_Points_8_Rendering_and_MultiView_novideos.pdf){: .btn .btn-purple .mr-4} -->
+
+            </div>
+
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
