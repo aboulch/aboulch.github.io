@@ -134,6 +134,16 @@ section {
     margin-top: 10px;
 }
 
+.student-table h3 {
+    color: rgb(105, 60, 209);
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.student-table h3 a {
+    color: inherit;
+    text-decoration: none;
+}
 
 
 .button {
@@ -161,6 +171,9 @@ table {
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
     width: 100%;
 }
+
+
+
 
 td, th {
     padding: 5px;
