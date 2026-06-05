@@ -93,14 +93,14 @@
                 <li>Image-based approaches</li>
                 <li>Graph-based approaches</li>
             </ul>
-            <a href="/files/course/msia_point_clouds/MSIA_Points_5_ML2.pdf" target="_blank" class="button">Slides</a>
             <h4>Practical session</h4>
             <p>For the practical session, if not working on Google Colab directly, the material can be found on huggingface:</p>
             <pre><code>
-from huggingface_hub import hf_hub_download
-hf_hub_download(repo_id="Msun/modelnet40", filename="modelnet40_ply_hdf5_2048.zip", repo_type="dataset", cache_dir=".")
-!unzip ./datasets--Msun--modelnet40/snapshots/d5dc795541800feeb7a4b3bd3142729a0d2adf7a/modelnet40_ply_hdf5_2048
+                from huggingface_hub import hf_hub_download
+                hf_hub_download(repo_id="Msun/modelnet40", filename="modelnet40_ply_hdf5_2048.zip", repo_type="dataset", cache_dir=".")
+                !unzip ./datasets--Msun--modelnet40/snapshots/d5dc795541800feeb7a4b3bd3142729a0d2adf7a/modelnet40_ply_hdf5_2048
             </code></pre>
+            <a href="/files/course/msia_point_clouds/MSIA_Points_5_ML2.pdf" target="_blank" class="button">Slides</a>
             <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_5_Geometric_Deep_Learning.ipynb" target="_blank" class="button">Notebook</a>
             <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_5_Geometric_Deep_Learning_answers.ipynb" target="_blank" class="button">Notebook (answers)</a>
 
@@ -147,6 +147,9 @@ if not os.path.exists("./driving.hdf5"):
             <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_7_maskclip.ipynb" target="_blank" class="button">Notebook</a>
             <a href="https://github.com/aboulch/MSIA_points/blob/main/MSIA_Points_7_maskclip_answers.ipynb" target="_blank" class="button">Notebook (answers)</a>
             
+
+            </div>
+            <div class="framed">
 
             <h4>Geometric vision</h4>
             <ul>
