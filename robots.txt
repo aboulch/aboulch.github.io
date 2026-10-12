@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aboulch.github.io/sitemap.xml
