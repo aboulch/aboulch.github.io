@@ -1,0 +1,12 @@
+# social links (order = display order); see jekyll-socials for key names
+x_username: alexandreboulch
+orcid_id: 0000-0002-4196-9665
+github_username: aboulch
+linkedin_username: alexandre-boulch-0464b71b
+scholar_userid: iJ3qFGAAAAAJ
+hal_id: boulch-alexandre
+email: boulch@protonmail.com
+custom_social:
+  logo: /assets/img/icons/researchgate.svg
+  title: ResearchGate
+  url: https://www.researchgate.net/scientific-contributions/Alexandre-Boulch-2008959436
