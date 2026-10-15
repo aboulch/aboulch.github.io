@@ -26,6 +26,7 @@ nav_order: 3
 
 ## Undergrad / MSc. students
 
+- **[Luiz Felipe Nery](https://www.linkedin.com/in/luiz-felipe-nery/)**:  _VLMs for driving_, 2026, cosupervised with [Monika Wysoczanska](https://wysoczanska.github.io/) and [Ellington Kirby](https://ellingtonkirby.github.io/)
 - **[Matteo Marengo](https://www.linkedin.com/in/matteolmarengo/)**: _Urban scene reconstruction_, 2024, cosupervised with Renaud Marlet and Raoul De Charette
 - **[Achraff Adjileye](https://www.linkedin.com/in/achraff-adjileye-3740a5211)**: _Motion forecasting with additional data_, 2024, cosupervised with Yihong Xu
 - **[Pegah Khayatan](https://pegah-kh.github.io/)**: _Robustness and corner case generation for motion forecasting_, 2023, cosupervised with Eloi Zablocki

@@ -6,7 +6,7 @@ subtitle: Senior Scientist at <a href="https://www.valeo.com/en/valeo-ai/" targe
 
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
   image_circular: true
   more_info: >
     <p>valeo.ai, Paris</p>
